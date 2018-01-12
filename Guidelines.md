@@ -1,3 +1,4 @@
+
 # Guidelines
 
 This document attempts to list the code properties we recommend
@@ -8,20 +9,36 @@ The intention here is to provide guidelines for Editors and Reviewers
 and thereby let authors know what is needed in a paper or software
 package.
 
+Software can be a single script or package up to full application or system.  
+For smaller items a paper may not be merited but you may still want a DOI to refer to your software. 
 
 *There are details in here which are not meant for the associated paper, but
 for the actual code and what it takes to get results.*
 
 
-##  Algorithm 
+##  Algorithm or system
 
-The algorithm needs to be clearly described in the paper, and ideally
+The algorithm or system needs to be clearly described in the paper, and ideally
 in the code as well. A good compromise is that the paper *source code*
 is part of the code repo.
 
+The uniqueness of the algorithm should be described. 
+If it has competing algorithms a comparison should be provided.
+
+If there is a paper it should refer to the specific version of the software.
+ 
+*How do we deal with the living software problem - living papers?*
+`Living papers can be updated with new sections added and author list updated`
+See slide 12  from Chris Lintott https://www.slideshare.net/chrislintott/software-publishing-in-aas-journals
 
 ## Basic User Manual examples and where to get full docs
+ Though a paper should not be the user manual it should contain some indication of how the code is used
+and where to get the full documentation. 
 
+Ideally if there are plots and examples in the paper the recipe to reproduce those plots should be in the paper - 
+this could be an appendix if it is more than a line or two or a link to a script if it is quite complex. 
+
+There should at least be some demonstration of why the system/package is really great. 
 
 
 ## Obtaining the software
@@ -69,7 +86,7 @@ although it may not have any astrophysical value.
 
 To ensure proper publishing, referencing a URL in the paper or a
 footnote is not sufficient. ADS recommends a DOI (e.g. via Zenodo)
-and/or registring via ASCL. *reference more here*
+and/or registering via ASCL. *reference more here*
 
 We also recommend you add your own preferred bibtex entry in a small
 file in the root directory of your code. ASCL will also publish this,
@@ -77,6 +94,8 @@ but best is to keep this as close to the code as possible. The
 *codemeta* project may in the end have the vehicle to contain such
 metadata.
 
+## See also 
+http://journals.aas.org/policy/software.html
 ## More Advanced or Optional?
 
 Could there be advanced properties of code submission that are nice to
