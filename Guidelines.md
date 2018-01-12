@@ -32,6 +32,9 @@ come with one of the standard LICENSEs.
 Plenty of common examples are in use how to get the code:
 wget, curl, http, ftp, git, hg, rsync, to name a few.
 
+    curl -O  <url>
+    wget <url>
+
 
 ## Installation
 
@@ -91,3 +94,7 @@ the code?
 Discussion/analysis of decisions made: why did the authors do X? what
 can others learn from the experience of developing X?
 
+### Living paper issues
+
+This will become more active in the near future as publishers accept living
+papers. What ramifications does it have for the workflow.
