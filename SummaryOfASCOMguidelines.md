@@ -1,5 +1,5 @@
 
-#Software Release Articles in Astronomy and Computing
+# Software Release Articles in Astronomy and Computing
 William O'Mullane pulled this from the ASCOM twiki - much of the original text was from Norman Gray.
 
 
@@ -8,23 +8,23 @@ We see these a special category of paper which describes some software.
 
 These are to be treated slightly differently to other papers in that some extra guidelines for Authors and Reviewers will be put in place.
 
-#Single  packages
+# Single  packages
 The package should have demonstrated use in astronomy of and the paper should have significant intellectual content.
 
  The package may be submitted to ASCL - but they require a ‘peer reviewed’ article stating use of the package in astronomy. This is picked up in ADS.
  The paper may be submitted to software X Journal- is it ready ?
 
-#Full system with full description
+# Full system with full description
 These have  many details and formula about the implementation - this type we accept and review - with the new guidelines.
 
 
-#Structure
+# Structure
 
 Should we try to agree common contents and perhaps even suggest a structure for Authors ?
 
 We decided a structure is not needed but editors should check for the following as part of the process.
 
-##Contents
+## Contents
 
     Major/Main algorithm description
     Test results
@@ -35,7 +35,7 @@ We decided a structure is not needed but editors should check for the following 
 For some papers, however , it's not completely clear what should be added, or what the reviewer should do. Adding a lot of analysis to a  paper would seem artificial: "why did you do it that way?", "well, ermmm, because it's the usual way of doing it, implemented in XXXLANG..."
 
 
-#Goals
+# Goals
 
 What is the function of a 'software paper'?
 
