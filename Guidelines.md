@@ -4,7 +4,10 @@ This document attempts to list the code properties we recommend
 authors and referees can check for, to give admitted codes some
 uniformity in quality etc.
 
+The intention here is to provide guidelines for Editors and Reviewers and thereby let authors know what is needed in a paper or software package. 
+
 ## Major/Main algorithm description
+
 
 ## Test results
 
