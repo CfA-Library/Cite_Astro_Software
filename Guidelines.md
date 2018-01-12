@@ -25,8 +25,10 @@ is part of the code repo.
 The uniqueness of the algorithm should be described. 
 If it has competing algorithms a comparison should be provided.
 
-If there is a paper it should refer to the specific verion of the software. 
-*How do we deal with th eliving software problem - living papers?*
+If there is a paper it should refer to the specific version of the software.
+ 
+*How do we deal with the living software problem - living papers?*
+See slide 12  from Chris Lintott https://www.slideshare.net/chrislintott/software-publishing-in-aas-journals
 
 ## Basic User Manual examples and where to get full docs
  Though a paper should not be the user manual it should contain some indication of how the code is used
@@ -35,7 +37,7 @@ and where to get the full documentation.
 Ideally if there are plots and examples in the paper the recipe to reproduce those plots should be in the paper - 
 this could be an appendix if it is more than a line or two or a link to a script if it is quite complex. 
 
-Ther should at least be some demonstration of why the sytem.package is really great. 
+There should at least be some demonstration of why the system/package is really great. 
 
 
 ## Obtaining the software
@@ -88,6 +90,8 @@ but best is to keep this as close to the code as possible. The
 *codemeta* project may in the end have the vehicle to contain such
 metadata.
 
+## See also 
+http://journals.aas.org/policy/software.html
 ## More Advanced or Optional?
 
 Could there be advanced properties of code submission that are nice to
