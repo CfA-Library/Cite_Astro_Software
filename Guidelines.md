@@ -28,6 +28,7 @@ If it has competing algorithms a comparison should be provided.
 If there is a paper it should refer to the specific version of the software.
  
 *How do we deal with the living software problem - living papers?*
+`Living papers can be updated with new sections added and author list updated`
 See slide 12  from Chris Lintott https://www.slideshare.net/chrislintott/software-publishing-in-aas-journals
 
 ## Basic User Manual examples and where to get full docs
