@@ -4,8 +4,14 @@ This document attempts to list the code properties we recommend
 authors and referees can check for, to give admitted codes (works?)
 some uniformity in quality etc.
 
-There are details in here which are not meant for the associated paper, but
-for the actual code and what it takes to get results.
+The intention here is to provide guidelines for Editors and Reviewers
+and thereby let authors know what is needed in a paper or software
+package.
+
+
+*There are details in here which are not meant for the associated paper, but
+for the actual code and what it takes to get results.*
+
 
 ##  Algorithm 
 
@@ -31,14 +37,18 @@ Plenty of common examples are in use: wget, curl, http, ftp, git, hg, rsync, to 
 
 ## Installation
 
-Usually installation requires the user to pick or automatically detect the computing environment, such that
-code can be properly compiled (if need be). The most common ones are *autoconf* and *cmake*, and in
-the case of python the *setuptools* (using the common setup.py file). Examples have been seen where
-a hand-crafted configure.py script was written that emulated the autoconf (bash) version. That's quite
-acceptable too, but remains to be seen how well this works into the future.
+Usually installation requires the user to pick or automatically detect
+the computing environment, such that code can be properly compiled (if
+need be). The most common ones are *autoconf* and *cmake*, and in the
+case of python the *setuptools* (using the common setup.py
+file). Examples have been seen where a hand-crafted configure.py
+script was written that emulated the autoconf (bash) version. That's
+quite acceptable too, but remains to be seen how well this works into
+the future.
 
-If the code has dependencies, list those (e.g. pgplot, wcslib). Would be nice to list examples how those
-packages are installed in a few common operating systems, e.g.
+If the code has dependencies, list those (e.g. pgplot, wcslib). Would
+be nice to list examples how those packages are installed in a few
+common operating systems, e.g.
 
 	     brew install pgplot  ... (check)
 	     apt install pgplot5 wcslib-dev
@@ -52,18 +62,24 @@ packages are installed in a few common operating systems, e.g.
 
 ## Publishing
 
-To ensure proper publishing, referencing a URL in the text or a footnote is not sufficient. ADS recommends a DOI (e.g. via Zenodo)
+To ensure proper publishing, referencing a URL in the text or a
+footnote is not sufficient. ADS recommends a DOI (e.g. via Zenodo)
 and/or registring via ASCL.
 
-We also recommend you add your own preferred bibtex entry in a small file in the root directory of your code. ASCL will also
-publish this, but best is to keep this as close to the code as possible. The *codemeta* project may in the end have the vehicle
-to contain such metadata.
+We also recommend you add your own preferred bibtex entry in a small
+file in the root directory of your code. ASCL will also publish this,
+but best is to keep this as close to the code as possible. The
+*codemeta* project may in the end have the vehicle to contain such
+metadata.
 
 ## More Advanced or Optional?
 
-Could there be advanced properties of code submission that are nice to have, but we absolutely don't care about? Here is a grab bag of
-such items, some of which we may want to promote to the *required*
+Could there be advanced properties of code submission that are nice to
+have, but we absolutely don't care about? Here is a grab bag of such
+items, some of which we may want to promote to the *required*
 
 ### Code coverage
 
-Even if we would recommend it, what fraction of code should be covered. 80% ? 90% ? Should only the regression tests cover 100% of the code?
+Even if we would recommend it, what fraction of code should be
+covered. 80% ? 90% ? Should only the regression tests cover 100% of
+the code?
