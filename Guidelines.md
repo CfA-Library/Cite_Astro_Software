@@ -1,19 +1,16 @@
 
 # Guidelines
 
-This document attempts to list the code properties we recommend
-authors and referees can check for, to give admitted codes (works?)
-some uniformity in quality etc.
-
 The intention here is to provide guidelines for Editors and Reviewers
 and thereby let authors know what is needed in a paper or software
-package.
+package. 
 
-Software can be a single script or package up to full application or system.  
-For smaller items a paper may not be merited but you may still want a DOI to refer to your software. 
+Software can be a single script or package up to full application or
+system.  For smaller items a paper may not be merited but you may
+still want a DOI to refer to your software.
 
 *There are details in here which are not meant for the associated paper, but
-for the actual code and what it takes to get results.*
+for the actual associated code and what it takes to get results from this code.*
 
 
 ##  Algorithm or system
@@ -30,10 +27,13 @@ If there is a paper it should refer to the specific version of the software.
 *How do we deal with the living software problem - living papers?*
 `Living papers can be updated with new sections added and author list updated`
 See slide 12  from Chris Lintott https://www.slideshare.net/chrislintott/software-publishing-in-aas-journals
+(Jan 2016).
 
 ## Basic User Manual examples and where to get full docs
- Though a paper should not be the user manual it should contain some indication of how the code is used
-and where to get the full documentation. 
+
+Though a paper should not be the user manual it should contain some indication of how the code is used
+and where to get the full documentation.  Building the manual (if this is required) should follow the same
+guidelines as installation (see below).
 
 Ideally if there are plots and examples in the paper the recipe to reproduce those plots should be in the paper - 
 this could be an appendix if it is more than a line or two or a link to a script if it is quite complex. 
@@ -72,6 +72,9 @@ common operating systems, e.g.
 	     apt install pgplot5 wcslib-dev
 	     yum install pgplot wcslib-devel  (check)
 
+It goes without saying that if documentation builds (e.g. sphinx, latex)
+are part of the code, they should follow the same guidelines.
+
 ## Tests
 
 Regression or Baseline test: create a test where one (or more)
@@ -80,6 +83,12 @@ number(s) that is produced gives a result that was obtained before.
 If a code takes a long long time to run, there should be an option to
 create a smaller sized test, that one can check computationally,
 although it may not have any astrophysical value.
+
+Even if the software automatically builds on something like Travis,
+this still is generally not accessible to a user of the code, so there
+should be someting in the code that a user can reproduce an feel
+comfortable that the code will give good/expected results on his/her
+computing environment.
 
 
 ## Publishing
@@ -95,7 +104,8 @@ but best is to keep this as close to the code as possible. The
 metadata.
 
 ## See also 
-http://journals.aas.org/policy/software.html
+[AAS Policy Statement on Software](http://journals.aas.org/policy/software.html)
+
 ## More Advanced or Optional?
 
 Could there be advanced properties of code submission that are nice to
@@ -105,8 +115,8 @@ items, some of which we may want to promote to the *required*
 ### Code coverage
 
 Even if we would recommend it, what fraction of code should be
-covered. 80% ? 90% ? Should only the regression tests cover 100% of
-the code?
+covered. 80% ? 90% ? Should only the regression/baseline tests cover
+100% of the code? After all, this is where it really counts.
 
 ### Decisions....
 
@@ -116,4 +126,4 @@ can others learn from the experience of developing X?
 ### Living paper issues
 
 This will become more active in the near future as publishers accept living
-papers. What ramifications does it have for the workflow.
+papers. What ramifications does it have for the workflow. See above.
