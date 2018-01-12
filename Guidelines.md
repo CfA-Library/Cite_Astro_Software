@@ -21,7 +21,8 @@ is part of the code repo.
 
 
 ## Basic User Manual examples and where to get full docs
-
+ Though a paper should not be the user manual it should contain some indication of how the code is used
+and where to get the full documentation. 
 
 
 ## Obtaining the software
@@ -66,7 +67,7 @@ although it may not have any astrophysical value.
 
 To ensure proper publishing, referencing a URL in the paper or a
 footnote is not sufficient. ADS recommends a DOI (e.g. via Zenodo)
-and/or registring via ASCL. *reference more here*
+and/or registering via ASCL. *reference more here*
 
 We also recommend you add your own preferred bibtex entry in a small
 file in the root directory of your code. ASCL will also publish this,
