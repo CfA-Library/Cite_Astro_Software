@@ -1,6 +1,6 @@
 
 # Software Release Articles in Astronomy and Computing
-William O'Mullane pulled this from the ASCOM twiki - much of the original text was from Norman Gray.
+William O'Mullane pulled this from the ASCOM twiki - much of the original text was from Norman Gray from July 2014. 
 
 
 Astronomy and Computing accepts software papers - 
