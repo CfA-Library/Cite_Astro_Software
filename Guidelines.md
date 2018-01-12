@@ -1,3 +1,4 @@
+
 # Guidelines
 
 This document attempts to list the code properties we recommend
@@ -8,21 +9,33 @@ The intention here is to provide guidelines for Editors and Reviewers
 and thereby let authors know what is needed in a paper or software
 package.
 
+Software can be a single script or package up to full application or system.  
+For smaller items a paper may not be merited but you may still want a DOI to refer to your software. 
 
 *There are details in here which are not meant for the associated paper, but
 for the actual code and what it takes to get results.*
 
 
-##  Algorithm 
+##  Algorithm or system
 
-The algorithm needs to be clearly described in the paper, and ideally
+The algorithm or system needs to be clearly described in the paper, and ideally
 in the code as well. A good compromise is that the paper *source code*
 is part of the code repo.
 
+The uniqueness of the algorithm should be described. 
+If it has competing algorithms a comparison should be provided.
+
+If there is a paper it should refer to the specific verion of the software. 
+*How do we deal with th eliving software problem - living papers?*
 
 ## Basic User Manual examples and where to get full docs
  Though a paper should not be the user manual it should contain some indication of how the code is used
 and where to get the full documentation. 
+
+Ideally if there are plots and examples in the paper the recipe to reproduce those plots should be in the paper - 
+this could be an appendix if it is more than a line or two or a link to a script if it is quite complex. 
+
+Ther should at least be some demonstration of why the sytem.package is really great. 
 
 
 ## Obtaining the software
