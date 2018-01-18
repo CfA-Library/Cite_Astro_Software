@@ -94,7 +94,7 @@ computing environment.
 
 ## Publishing
 
-To ensure proper publishing, referencing a URL in the paper or a
+To ensure proper citation, referencing a URL in the paper or a
 footnote is not sufficient. ADS recommends a DOI (e.g. via [Zenodo](https://guides.github.com/activities/citable-code/))
 and/or registering via [ASCL](http://ascl.net/).
 
