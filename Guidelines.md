@@ -3,10 +3,6 @@
 
 [FORCE11 Software Citation Principles](https://doi.org/10.7717/peerj-cs.86)
 
-The intention here is to provide guidelines for Editors and Reviewers
-and thereby let authors know what is needed in a paper or software
-package.
-
 Software can be a single script or package up to full application or
 system.  For smaller items a paper may not be merited but you may
 still want a DOI to refer to your software.
