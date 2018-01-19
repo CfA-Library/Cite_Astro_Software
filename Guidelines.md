@@ -100,9 +100,9 @@ and/or registering via [ASCL](http://ascl.net/).
 
 We also recommend you add your own preferred bibtex entry in a small
 file in the root directory of your code. ASCL will also publish this,
-but best is to keep this as close to the code as possible. The
-*[CodeMeta](https://github.com/codemeta/codemeta)* project may in the end have the vehicle to contain such
-metadata. This file should ideally be named CITATION.md
+but best is to keep this as close to the code as possible. This file should ideally be named CITATION.md
+  
+Including a file documenting the elements recommended by the *[CodeMeta](https://github.com/codemeta/codemeta)* project is also recommended.
 
 ## See also 
 [AAS Policy Statement on Software](http://journals.aas.org/policy/software.html)
