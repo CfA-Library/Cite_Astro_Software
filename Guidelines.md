@@ -1,7 +1,6 @@
 
-# Guidelines for Sharing Software in Astronomy
-
-[FORCE11 Software Citation Principles](https://doi.org/10.7717/peerj-cs.86)
+# "Guidelines" for Sharing Software in Astronomy 
+## Cosiderations and concrete things you can do right now to work toward implementing the [FORCE11 Software Citation Principles](https://doi.org/10.7717/peerj-cs.86)
 
 Software can be a single script or package up to full application or
 system.  For smaller items a paper may not be merited but you may
