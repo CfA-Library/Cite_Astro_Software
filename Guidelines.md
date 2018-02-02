@@ -1,9 +1,6 @@
+# "Guidelines" for Sharing Software in Astronomy 
+## Considerations and concrete things you can do right now to work toward implementing the [FORCE11 Software Citation Principles](https://doi.org/10.7717/peerj-cs.86)
 
-# Guidelines
-
-The intention here is to provide guidelines for Editors and Reviewers
-and thereby let Authors know what is needed in a paper that describes
-software and the software package that is made available.
 
 Software can be a single script or package up to full application or
 system.  For smaller items a paper may not be merited but you may
@@ -27,8 +24,7 @@ If there is a paper it should refer to the specific version of the software.
  
 *How do we deal with the living software problem - living papers?*
 `Living papers can be updated with new sections added and author list updated`
-See slide 12  from Chris Lintott https://www.slideshare.net/chrislintott/software-publishing-in-aas-journals
-(Jan 2016).
+See [slide 12](https://www.slideshare.net/chrislintott/software-publishing-in-aas-journals) from Chris Lintott (Jan 2016).
 
 ## Basic User Manual examples and where to get full docs
 
@@ -44,8 +40,8 @@ There should at least be some demonstration of why the system/package is really 
 
 ## Obtaining the software
 
-There should be a clear way how to obtain the source code. The code should
-come with one of the standard LICENSEs. 
+There should be a clear way to obtain source code. 
+The code should come with a [LICENSE](https://help.github.com/articles/licensing-a-repository/). 
 
 Plenty of common examples are in use how to get the code:
 wget, curl, http, ftp, git, hg, rsync, to name a few.
@@ -98,15 +94,15 @@ Ideally, if possible, there are tests that  reproduce figures in the paper.
 
 ## Publishing
 
-To ensure proper publishing, referencing a URL in the paper or a
-footnote is not sufficient. ADS recommends a DOI (e.g. via Zenodo)
-and/or registering via ASCL. *reference more here*
+To ensure proper citation, referencing a URL in the paper or a
+footnote is not sufficient. ADS recommends a DOI (e.g. via [Zenodo](https://guides.github.com/activities/citable-code/))
+and/or registering via [ASCL](http://ascl.net/).
 
 We also recommend you add your own preferred bibtex entry in a small
 file in the root directory of your code. ASCL will also publish this,
-but best is to keep this as close to the code as possible. The
-*codemeta* project may in the end have the vehicle to contain such
-metadata.
+but best is to keep this as close to the code as possible. This file should ideally be named CITATION.md
+  
+Including a file documenting the elements recommended by the *[CodeMeta](https://github.com/codemeta/codemeta)* project is also recommended.
 
 ## See also 
 [AAS Policy Statement on Software](http://journals.aas.org/policy/software.html)
