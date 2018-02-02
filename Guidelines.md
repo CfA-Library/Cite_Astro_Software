@@ -2,8 +2,8 @@
 # Guidelines
 
 The intention here is to provide guidelines for Editors and Reviewers
-and thereby let authors know what is needed in a paper or software
-package. 
+and thereby let Authors know what is needed in a paper that describes
+software and the software package that is made available.
 
 Software can be a single script or package up to full application or
 system.  For smaller items a paper may not be merited but you may
@@ -17,7 +17,8 @@ for the actual associated code and what it takes to get results from this code.*
 
 The algorithm or system needs to be clearly described in the paper, and ideally
 in the code as well. A good compromise is that the paper *source code*
-is part of the code repo.
+is part of the code repo. But it should be clear that the algorithm is different
+from the software.
 
 The uniqueness of the algorithm should be described. 
 If it has competing algorithms a comparison should be provided.
@@ -90,6 +91,10 @@ should be someting in the code that a user can reproduce an feel
 comfortable that the code will give good/expected results on his/her
 computing environment.
 
+Reproducible Science.
+
+Ideally, if possible, there are tests that  reproduce figures in the paper.
+
 
 ## Publishing
 
@@ -117,6 +122,13 @@ items, some of which we may want to promote to the *required*
 Even if we would recommend it, what fraction of code should be
 covered. 80% ? 90% ? Should only the regression/baseline tests cover
 100% of the code? After all, this is where it really counts.
+
+### Code Readability
+
+Hard to judge how to measure this. Using good variable names, using
+strategic comments, are the comments nicely structured etc.  How
+much of an investment is there in order to hack the code.
+
 
 ### Decisions....
 
