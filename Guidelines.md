@@ -7,10 +7,11 @@ system.  For smaller items a paper may not be merited but you may
 still want a DOI to refer to your software.
 
 *There are details in here which are not meant for the associated paper, but
-for the actual associated code and what it takes to get results from this code.*
+for the actual associated code and what it takes to get results from this code.
+These could serve to guide not only editors and referees, but also the authors.*
 
 
-##  Algorithm or system
+##  Algorithm or System
 
 The algorithm or system needs to be clearly described in the paper, and ideally
 in the code as well. A good compromise is that the paper *source code*
@@ -22,15 +23,15 @@ If it has competing algorithms a comparison should be provided.
 
 If there is a paper it should refer to the specific version of the software.
  
-*How do we deal with the living software problem - living papers?*
-`Living papers can be updated with new sections added and author list updated`
+How do we deal with the living software problem - living papers?.
+*Living papers can be updated with new sections added and author list updated*
 See [slide 12](https://www.slideshare.net/chrislintott/software-publishing-in-aas-journals) from Chris Lintott (Jan 2016).
 
 ## Basic User Manual examples and where to get full docs
 
-Though a paper should not be the user manual it should contain some indication of how the code is used
+Though a paper should not be the User Manual it should contain some indication of how the code is used
 and where to get the full documentation.  Building the manual (if this is required) should follow the same
-guidelines as installation (see below).
+guidelines as code installation (see below).
 
 Ideally if there are plots and examples in the paper the recipe to reproduce those plots should be in the paper - 
 this could be an appendix if it is more than a line or two or a link to a script if it is quite complex. 
@@ -49,6 +50,8 @@ wget, curl, http, ftp, git, hg, rsync, to name a few.
     curl -O  <url>
     wget <url>
 
+Some methods to obtain the code may come with a request to register, but if this also
+implies a delay until a human responds, this is not ideal. 
 
 ## Installation
 
@@ -81,7 +84,8 @@ If a code takes a long long time to run, there should be an option to
 create a smaller sized test, that one can check computationally,
 although it may not have any astrophysical value.
 
-Even if the software automatically builds on something like Travis,
+Even if the software automatically builds on something like Travis
+or BuilBot, 
 this still is generally not accessible to a user of the code, so there
 should be someting in the code that a user can reproduce an feel
 comfortable that the code will give good/expected results on his/her
@@ -89,7 +93,7 @@ computing environment.
 
 Reproducible Science.
 
-Ideally, if possible, there are tests that  reproduce figures in the paper.
+Ideally, if possible, there are tests that reproduce figures in the paper.
 
 
 ## Publishing
@@ -104,10 +108,18 @@ but best is to keep this as close to the code as possible. This file should idea
   
 Including a file documenting the elements recommended by the *[CodeMeta](https://github.com/codemeta/codemeta)* project is also recommended.
 
-## See also 
-[AAS Policy Statement on Software](http://journals.aas.org/policy/software.html)
+## See also
 
-## More Advanced or Optional?
+Journals themselves are also beginning to state their preferences:
+  * [AAS Policy Statement on Software](http://journals.aas.org/policy/software.html)
+  * A&A
+  * PASP
+  * MNRAS
+  * Nature
+  * Computational Astrophysics
+  * Astronomy & Computing
+
+## More Advanced / Optional / ...
 
 Could there be advanced properties of code submission that are nice to
 have, but we absolutely don't care about? Here is a grab bag of such
@@ -129,9 +141,23 @@ much of an investment is there in order to hack the code.
 ### Decisions....
 
 Discussion/analysis of decisions made: why did the authors do X? what
-can others learn from the experience of developing X?
+can others learn from the experience of developing Y?
 
 ### Living paper issues
 
 This will become more active in the near future as publishers accept living
 papers. What ramifications does it have for the workflow. See above.
+
+### Star System Example
+
+Simon P-Z mentioned a star-system, which we discussed during the hack day. This one coming from his experience in N-body codes:
+
+      1. * initial conditions mentioned clearly
+
+      2. ** Initial realization digitally available
+
+      3. *** ICs + code mentioned
+
+      4. **** ICs and binary version of the code available
+
+      5. ***** fully reproducible results.
