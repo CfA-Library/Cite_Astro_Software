@@ -1,6 +1,6 @@
 # "Guidelines" for Sharing Software in Astronomy 
-## Considerations and concrete things you can do right now to work toward implementing the [FORCE11 Software Citation Principles](https://doi.org/10.7717/peerj-cs.86)
-
+## Considerations and concrete things you can do right now to make reusing your code easier.
+## These recommendations include things you can do to work toward implementing the [FORCE11 Software Citation Principles](https://doi.org/10.7717/peerj-cs.86).
 
 Software can be a single script or package up to full application or
 system.  For smaller items a paper may not be merited but you may
@@ -106,7 +106,7 @@ We also recommend you add your own preferred bibtex entry in a small
 file in the root directory of your code. ASCL will also publish this,
 but best is to keep this as close to the code as possible. This file should ideally be named CITATION.md
   
-Including a file documenting the elements recommended by the *[CodeMeta](https://github.com/codemeta/codemeta)* project is also recommended.
+Adding a CodeMeta.json file to your repo including the elements recommended by the *[CodeMeta](https://github.com/codemeta/codemeta)* project is also recommended ([example](https://github.com/codemeta/codemeta/blob/master/codemeta.json))
 
 ## See also
 
