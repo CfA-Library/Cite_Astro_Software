@@ -1,4 +1,4 @@
-**Software Citation Implementation in Astronomy**
+# Software Citation Implementation in Astronomy
 
 _A White Paper Summarizing Perceptions from the 2018 AAS Splinter Meeting on Implementing the FORCE11 Software Citation Principles_
 
@@ -14,7 +14,7 @@ Katie Frey, Harvard-Smithsonian Center for Astrophysics, Cambridge, MA
 
 Contact: daina.bouquin@cfa.harvard.edu
 
-**Introduction**
+## Introduction
 
 Software citation is foundationally important to the future of astronomy. Deep intellectual contributions are being made by people creating software to enable scientific research, and it is essential that software creators are encouraged to create these valuable resources. Efforts to help authors receive proper academic credit will allow them to prioritize writing software valuable for the astronomy community within their current profession or the ability to focus their whole career on it.With these facts in mind, on January 11, 2018 a &quot;splinter meeting&quot; was held at the 231st Meeting of the AAS that focused on implementing the FORCE11 Software Citation Principles (Appendix A) in Astronomy. The goal of the splinter meeting was to gather feedback from astronomers, developers, and others whose expertise could inform the creation of resources to support the implementation of those principles. The meeting organizers aimed to identify some of the social and technical hurdles that affect software citation practices in astronomy and to understand factors that distinguish it from other fields where software citation is increasingly essential.
 
@@ -28,7 +28,7 @@ The splinter meeting at AAS was 90 minutes long, beginning with three brief pres
 
 Attendees were given prompts (Appendix B) after the presentations and asked to discuss the issues outlined within the prompts. A scribe at each table took notes about the ensuing conversation and presented highlights from the discussion at the end of the meeting.
 
-**Recurrent Themes from Discussion Groups**
+## Recurrent Themes from Discussion Groups
 
 **Motivations for Software Citation in Astronomy**
 
@@ -39,46 +39,46 @@ The FORCE11 Software Citation Working Group identified four primary motivations 
  By focusing on credit for academic researchers, issues surrounding authorship, native software citation, and subsequently the complexity authorship takes on in the context of software versioning came to the front.When authorship changes from one version of software to the next, the community highlighted how opaque attempts to implement the principles become. Specifically, the following questions remained unanswered:
 
 1. Who is a software &quot;author&quot;? The astronomy community doesn&#39;t agree on how much someone should contribute to a code before that person is considered an author. This is true independent of version, but becomes an increasingly complicated discussion when multiple versions are being cited as contributors change over time.
-  1. Authorship questions highlighted a limitation that software papers present, as it was noted repeatedly that when a software paper exists, astronomers will overwhelmingly cite the paper rather than natively citing code regardless of whether or not the code they want to cite is the same version as the code discussed in the software paper. This may contribute to software paper authors receiving disproportionate amounts of credit and current contributors not receiving any. This preference for papers also runs counter to the FORCE11 Principle aiming for native software citation.
-  2. There was also discussion about how to give acknowledgement for contributions that might not fit a definition of &quot;authorship&quot; and how giving all contributors equal credit as authors may serve to dilute the perceived importance of authoring software from external perspectives (e.g. tenure committees, funders, etc.).
-    1. The meeting attendees saw this issue (and also item 1.a.) as something that could be addressed through education and outreach to external groups, but that a concerted effort would be required from allies within those groups.
+  a. Authorship questions highlighted a limitation that software papers present, as it was noted repeatedly that when a software paper exists, astronomers will overwhelmingly cite the paper rather than natively citing code regardless of whether or not the code they want to cite is the same version as the code discussed in the software paper. This may contribute to software paper authors receiving disproportionate amounts of credit and current contributors not receiving any. This preference for papers also runs counter to the FORCE11 Principle aiming for native software citation.
+  b. There was also discussion about how to give acknowledgement for contributions that might not fit a definition of &quot;authorship&quot; and how giving all contributors equal credit as authors may serve to dilute the perceived importance of authoring software from external perspectives (e.g. tenure committees, funders, etc.).
+    i. The meeting attendees saw this issue (and also item 1.a.) as something that could be addressed through education and outreach to external groups, but that a concerted effort would be required from allies within those groups.
 2. What should be cited to properly give author(s) credit? The ways in which astronomers are able to share software are varied (e.g. Zenodo record, AAS software paper, JOSS paper, ASCL record, etc.) and one piece of software may be represented as multiple digital objects (i.e. both as a paper and with a natively citable DOI from Zenodo) each with a different authorship list. More specifically, the following questions came up regularly in this context:
-  1. When more than one digital object exists, what is the best way to give credit?
-    1. How should we determine this?
-    2. Knowing native software citation is the goal, should one also cite a software paper if one exists?
-    3. How do we deal with multiple forks?
-  2. Where should researchers look to find preferred citations?
-    1. How can indexes support researchers looking for preferred citations?
-  3. How should authors determine the preferred citation for their code?
-    1. Where should an author make this information apparent (i.e. CITATION.md file)?
-  4. How should citations be calculated across different types of digital objects and versions of those objects?
-    1. Should citations be aggregated?
-    2. Should transitive credit be used in this context<sup>5</sup> or approaches described in the &quot;Metrics Toolkit&quot;<sup>6</sup>?
+  a. When more than one digital object exists, what is the best way to give credit?
+    i. How should we determine this?
+    ii. Knowing native software citation is the goal, should one also cite a software paper if one exists?
+    iii. How do we deal with multiple forks?
+  b. Where should researchers look to find preferred citations?
+    i. How can indexes support researchers looking for preferred citations?
+  c. How should authors determine the preferred citation for their code?
+    i. Where should an author make this information apparent (i.e. CITATION.md file)?
+  d. How should citations be calculated across different types of digital objects and versions of those objects?
+    i. Should citations be aggregated?
+    ii. Should transitive credit be used in this context<sup>5</sup> or approaches described in the &quot;Metrics Toolkit&quot;<sup>6</sup>?
 3. What metadata do people need to make available to create a proper citation?
-  1. Should metadata associated with the use of the code be put in the same place as the metadata required to document the creation of the code? Where should usage metadata be documented?
-    1. Facilitating code reuse, although not as essential as credit from the meeting attendees perspective, should be encouraged. Metadata needed for reuse may be far beyond what is needed for a citation though.
-  2. Should software papers require a structured metadata file to improve machine-readability (i.e. CodeMeta.json<sup>7</sup>)?
+  a. Should metadata associated with the use of the code be put in the same place as the metadata required to document the creation of the code? Where should usage metadata be documented?
+    i. Facilitating code reuse, although not as essential as credit from the meeting attendees perspective, should be encouraged. Metadata needed for reuse may be far beyond what is needed for a citation though.
+  b. Should software papers require a structured metadata file to improve machine-readability (i.e. CodeMeta.json<sup>7</sup>)?
 
 **Limited Situational Awareness**
 
 Outreach was another perceived barrier that came up throughout the discussions. Specifically, attendees expressed that outside of the group gathered for the splinter meeting and a few other select groups within the broader astronomy community, there was very little situational awareness about the importance of software citation. For the purposes of this summary, a person with a high degree of situational awareness in the context of research software citation is a person capable of understanding how implementation of the FORCE11 Software Citation Principles will impact them, both immediately and in the future. Situational awareness of this sort came up in two contexts:
 
 1. A lack of situational awareness pertaining to software citation by the community at large. This type of awareness was discussed as primarily a social issue in that this lack of awareness could be at least partially addressed through an awareness campaign.
-  1. Attendees at the splinter meeting expressed that the Astronomy community as a whole may not possess an intuitive understanding of the importance of thinking critically about how and when to cite software and may not fully understand what they should be doing if they want people to cite their own software. As a result, it is not obvious to the community the ways in which research software deviates from a digital object like a research article or image.
-    1. This lack of awareness may lead to apathy among members of the community who are not seeking credit for their software.
+  a. Attendees at the splinter meeting expressed that the Astronomy community as a whole may not possess an intuitive understanding of the importance of thinking critically about how and when to cite software and may not fully understand what they should be doing if they want people to cite their own software. As a result, it is not obvious to the community the ways in which research software deviates from a digital object like a research article or image.
+    i. This lack of awareness may lead to apathy among members of the community who are not seeking credit for their software.
       1. Apathy may also stem from the misperception that software presents unresolvable problems for scholarly communication rather than being representative of issues that need to be addressed for all digital objects.
-    2. Limited awareness about the importance of software citation may exacerbate the problem of software not being seen as a scholarly contribution by external groups (e.g. tenure committees, funders, etc.).
+    ii. Limited awareness about the importance of software citation may exacerbate the problem of software not being seen as a scholarly contribution by external groups (e.g. tenure committees, funders, etc.).
       1. Power dynamics can also prevent software authors from pushing back against these perceptions or pushing for software citation to be part of any formal curriculum or policy discussion.
-  2. A noted lack of awareness was also discussed when splinter meeting attendees touched on publisher&#39;s editorial practices.
-    1. Meeting attendees discussed the need for more targeted education on software citation best practices for reviewers and the need for more qualified referees.
+  b. A noted lack of awareness was also discussed when splinter meeting attendees touched on publisher&#39;s editorial practices.
+    i. Meeting attendees discussed the need for more targeted education on software citation best practices for reviewers and the need for more qualified referees.
 2. Uncertainty about expectations from both the community and publishers perspective. The below questions about expectations could also be clarified through an awareness campaign and specific guidelines:
-  1. What level of support is expected from software authors who share their code? (e.g. Code reuse in new contexts?; Feature requests?; Documentation?)
-  2. What is the expectation of &quot;code quality&quot;? (i.e. Is &quot;hacky&quot; code something that should be shared?)
-  3. Should scripts be shared or only packages that are meant to be reused?
-    1. If the primary motivation of sharing/citing code is giving credit, where does Open Science fit? (e.g. Is one expected to ever cite individual scripts?; Can you cite software that doesn&#39;t have a &quot;title&quot;?; How do you share and point people to code that is meant for individual use? )
-    2. Without clarifying this point in particular it is easy for people to become fixed on reproducibility issues (i.e. &quot;Perfect becomes the enemy of the good.&quot;)
-  4. What are publishers supposed to do to educate referees?
-  5. To what degree can automation support referees? (e.g. What can be done to flag papers that should have software citations?)
+  a. What level of support is expected from software authors who share their code? (e.g. Code reuse in new contexts?; Feature requests?; Documentation?)
+  b. What is the expectation of &quot;code quality&quot;? (i.e. Is &quot;hacky&quot; code something that should be shared?)
+  c. Should scripts be shared or only packages that are meant to be reused?
+    i. If the primary motivation of sharing/citing code is giving credit, where does Open Science fit? (e.g. Is one expected to ever cite individual scripts?; Can you cite software that doesn&#39;t have a &quot;title&quot;?; How do you share and point people to code that is meant for individual use? )
+    ii. Without clarifying this point in particular it is easy for people to become fixed on reproducibility issues (i.e. &quot;Perfect becomes the enemy of the good.&quot;)
+  d. What are publishers supposed to do to educate referees?
+  e. To what degree can automation support referees? (e.g. What can be done to flag papers that should have software citations?)
 
 **Tools and Other Resources**
 
@@ -105,9 +105,9 @@ The splinter meeting attendees also brought up resources that are not specific t
 
 **Editorial Policies**
 
-        Discussions during the splinter meeting often moved toward publisher editorial policies and how the astronomy community could influence them. Although it was noted repeatedly that the AAS has reasonable guidelines for publishing software papers and citing software, many other journals do not and might inadvertently create disincentives for citing software by limiting the number of citations authors can include in their papers. Moreover, meeting attendees lamented the limited attention that referees tend to give to software citations as they pertain to software version and use of preferred citations. Some attendees pointed out instances where articles that cited a software paper, or version of software, which predated their contributions would sometimes include them in the acknowledgement section and sometimes not. Editorial policies may not give specific enough guidance to publishing staff or assume that best practices are obvious. Increased dialog about editorial policies is needed between members of the astronomy community who are knowledgeable about software citation issues and journal editors who can influence policies for their respective journals.
+Discussions during the splinter meeting often moved toward publisher editorial policies and how the astronomy community could influence them. Although it was noted repeatedly that the AAS has reasonable guidelines for publishing software papers and citing software, many other journals do not and might inadvertently create disincentives for citing software by limiting the number of citations authors can include in their papers. Moreover, meeting attendees lamented the limited attention that referees tend to give to software citations as they pertain to software version and use of preferred citations. Some attendees pointed out instances where articles that cited a software paper, or version of software, which predated their contributions would sometimes include them in the acknowledgement section and sometimes not. Editorial policies may not give specific enough guidance to publishing staff or assume that best practices are obvious. Increased dialog about editorial policies is needed between members of the astronomy community who are knowledgeable about software citation issues and journal editors who can influence policies for their respective journals.
 
-**Limitations**
+## Limitations
 
 The information presented in this document was gathered by using an unsystematic and unstructured approach and will miss aspects of the conversations had during the AAS splinter meeting. Aside from this reality though, there are other important limitations to highlight from this process:
 
@@ -117,7 +117,7 @@ Another issue that will impact any next steps recommended within this document i
 
 Finally, this document did not focus on intellectual property issues surrounding software and software citation. Discussions during the AAS splinter meeting only peripherally touched on intellectual property, licensing, and software reuse.
 
-**Next Steps**
+## Next Steps
 
 It would be advantageous to develop and promote brief guidelines to inform software authors in astronomy of what they can do to help ensure they are given credit for their work within the current scholarly communication landscape. These guidelines could point out simple steps to make their code more citable<sup>8</sup> and clarify some of the confusion about author expectations. The guidelines could also explain common methods for publishing software and address citation issues for each case. The guidelines could then be iteratively updated as questions posed by the splinter meeting attendees are addressed by the community. A separate set of short guidelines could be created on how to cite software and where to look for citations. In order for any of these guidelines to be impactful, they would need to include real examples and be promoted by institutions and individuals in as many settings as possible. Any guidelines created for the community would be a foundation on which an awareness campaign could be built, serving as a focal point for future debate and discussion.
 
@@ -125,11 +125,11 @@ In addition to concrete guidelines specific to astronomy, it would be valuable t
 
 Moreover, it would be useful to design a study on self-citation practices in astronomy in order to better understand how software authors currently share their own work with the broader scientific community. A study of this kind could act as a standard for comparison to better understand how citation practices change over time.
 
-**Future Discussion Needed**
+## Future Discussion Needed
 
 Future conversations about software in astronomy are needed to address issues surrounding intellectual property, licensing, and copyright in particular. Research software preservation and resources to support preservation should also be discussed further in the context of software reuse.
 
-**Appendix A**
+# Appendix A
 
 _The FORCE11 Software Citation Principles_
 
@@ -144,7 +144,7 @@ _The FORCE11 Software Citation Principles_
 
 Note: Bolding is not part of the formatting in the original publication of the principles.
 
-**Appendix B**
+# Appendix B
 
 _Discussion Prompts_
 
@@ -162,7 +162,7 @@ Given the Software Citation Principles as a Goal:
 - What specific tools would be helpful when authoring papers and writing new codes? (e.g. LaTeX macros, CITATION file template on GitHub, etc.)
 - What do you think would most impactful in raising awareness about software citation issues in astronomy?
 
-References
+# References
 
 1. Katz, D. S. (2017). Software Citation Implementation Working Group. Retrieved February 26, 2018, from https://www.force11.org/group/software-citation-implementation-working-group
 2. Smith, A. (2018). _Spectrum of Research Software_. Retrieved from https://stsci.app.box.com/s/ooamf3ds1fxcqq7nnhgpnbjgi0sra031
