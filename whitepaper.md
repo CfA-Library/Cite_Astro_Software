@@ -2,7 +2,7 @@
 
 _A White Paper Summarizing Perceptions from the 2018 AAS Splinter Meeting on Implementing the FORCE11 Software Citation Principles_
 
-**Daina Bouquin** , Harvard-Smithsonian Center for Astrophysics, Cambridge, MA
+**Daina Bouquin**, Harvard-Smithsonian Center for Astrophysics, Cambridge, MA
 
 Daniel S. Katz, University of Illinois Urbana-Champaign, Urbana, IL
 
