@@ -52,7 +52,7 @@ The FORCE11 Software Citation Working Group identified four primary motivations 
    1. Where should researchers look to find preferred citations?
       1. How can indexes support researchers looking for preferred citations?
    1. How should authors determine the preferred citation for their code?
-      1. Where should an author make this information apparent (i.e. CITATION.md<sup>5</sup> file)?
+      1. Where should an author make this information apparent (i.e. CITATION.md file<sup>5</sup>)?
    1. How should citations be calculated across different types of digital objects and versions of those objects?
       1. Should citations be aggregated?
       1. Should transitive credit be used in this context<sup>6</sup> or approaches described in the &quot;Metrics Toolkit&quot;<sup>7</sup>?
