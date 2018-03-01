@@ -170,7 +170,7 @@ Given the Software Citation Principles as a Goal:
 2. Smith, A. (2018). _Spectrum of Research Software_. Retrieved from https://stsci.app.box.com/s/ooamf3ds1fxcqq7nnhgpnbjgi0sra031
 3. Muench, A. (2018). Implementations and provocations from the asclepias project. Retrieved from https://drive.google.com/file/d/1LB1arge6mMSHz1Lgxu6wn8Nr-Rb1LYNw/view?usp=embed\_facebook
 4. Smith, A. M., Katz, D. S., &amp; Niemeyer, K. E. (2016). Software citation principles. _PeerJ Computer Science_, _2_, e86. https://doi.org/10.7717/peerj-cs.86
-5. By Druskat, S., Bast, R., Chue Hong, N., Konovalov, K., &amp; Rowley, A. (2017). A standard format for CITATION files. _Software Sustainability Institute: Software and Research Blog_. Retrieved from https://www.software.ac.uk/index.php/blog/2017-12-12-standard-format-citation-files
+5. Druskat, S., Bast, R., Chue Hong, N., Konovalov, K., &amp; Rowley, A. (2017). A standard format for CITATION files. _Software Sustainability Institute: Software and Research Blog_. Retrieved from https://www.software.ac.uk/index.php/blog/2017-12-12-standard-format-citation-files
 6. Katz, D. S., &amp; Smith, A. M. (2014). Implementing Transitive Credit with JSON-LD. _ArXiv:1407.5117 [Cs]_. Retrieved from http://arxiv.org/abs/1407.5117
 7. Citations, software. (2017). Retrieved from http://www.metrics-toolkit.org/citations-software/
 8. Chue Hong, N., Druskat, S., &amp; Slaughter, P. (2018). _codemeta: Minimal metadata schemas for science software and code, in JSON-LD_. CodeMeta. Retrieved from https://github.com/codemeta/codemeta/blob/master/codemeta.json
