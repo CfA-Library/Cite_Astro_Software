@@ -26,7 +26,7 @@ The purpose of this document is to summarize the perceptions expressed during th
 
 Attendees were organized into five groups of five to seven people before the session began to ensure that each discussion group was made up of people representing a mix of relevant perspectives. The goal was to have representation by software authors, developers, journal editors, indexers, and librarians in each group to the extent that this was possible.
 
-The splinter meeting at AAS was 90 minutes long, beginning with three brief presentations: an update about the current FORCE11 Software Citation Principles Implementation Working Group<sup>[1](https://www.force11.org/group/software-citation-implementation-working-group)</sup>; the diversity of software being produced by the astronomy community<sup>[2](https://stsci.app.box.com/s/ooamf3ds1fxcqq7nnhgpnbjgi0sra031)</sup>; and the on-going Asclepias project<sup>[3](https://drive.google.com/file/d/1LB1arge6mMSHz1Lgxu6wn8Nr-Rb1LYNw/view?usp=embed\_facebook)</sup> from the AAS. A grant from the Alfred P. Sloan Foundation to the AAS for the Asclepias project  was used to fund the splinter meeting.
+The splinter meeting at AAS was 90 minutes long, beginning with three brief presentations: an update about the current FORCE11 Software Citation Principles Implementation Working Group<sup>[1](https://www.slideshare.net/danielskatz/software-citation/danielskatz/software-citation)</sup>; the diversity of software being produced by the astronomy community<sup>[2](https://stsci.app.box.com/s/ooamf3ds1fxcqq7nnhgpnbjgi0sra031)</sup>; and the on-going Asclepias project<sup>[3](https://drive.google.com/file/d/1LB1arge6mMSHz1Lgxu6wn8Nr-Rb1LYNw/view?usp=embed\_facebook)</sup> from the AAS. A grant from the Alfred P. Sloan Foundation to the AAS for the Asclepias project  was used to fund the splinter meeting.
 
 Attendees were given prompts ([Appendix B](https://github.com/CfA-Library/Cite_Astro_Software/blob/master/whitepaper.md#appendix-b)) after the presentations and asked to discuss the issues outlined within the prompts. A scribe at each table took notes about the ensuing conversation and presented highlights from the discussion at the end of the meeting.
 
@@ -166,7 +166,7 @@ Given the Software Citation Principles as a Goal:
 
 # References
 
-1. Katz, D. S. (2017). Software Citation Implementation Working Group. Retrieved from https://www.force11.org/group/software-citation-implementation-working-group
+1. Katz, D. S. (2017). Software Citation: A Solution with a Problem. Retrieved from https://www.slideshare.net/danielskatz/software-citation/danielskatz/software-citation
 2. Smith, A. (2018). _Spectrum of Research Software_. Retrieved from https://stsci.app.box.com/s/ooamf3ds1fxcqq7nnhgpnbjgi0sra031
 3. Muench, A. (2018). Implementations and provocations from the asclepias project. Retrieved from https://drive.google.com/file/d/1LB1arge6mMSHz1Lgxu6wn8Nr-Rb1LYNw/view?usp=embed\_facebook
 4. Smith, A. M., Katz, D. S., &amp; Niemeyer, K. E. (2016). Software citation principles. _PeerJ Computer Science_, _2_, e86. https://doi.org/10.7717/peerj-cs.86
