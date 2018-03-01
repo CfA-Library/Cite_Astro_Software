@@ -34,7 +34,7 @@ Attendees were given prompts (Appendix B) after the presentations and asked to d
 
 **Motivations for Software Citation in Astronomy**
 
-The FORCE11 Software Citation Working Group identified four primary motivations for developing the software citation principles in 2016: 1) the need for a complete record of the research process; 2) the need to enable software discoverability; 3) the importance of research reproducibility; and 4) the need to give credit to academic researchers of all levels for the software that they develop<sup>4</sup>. Throughout the splinter meeting, the discussion groups eventually all came to focus predominantly on what was perceived as the primary motivating factor for implementing the principles in astronomy: giving credit for research software. The groups framed their conversations and focused the majority of their discussion around perceived social and technical barriers that impact people&#39;s ability to give and receive credit for their code. Therefore, credit and the lack of credit scientists receive for their software became the driving force behind subsequent discussions. This is not to say that the other motivations were not seen as important to attendees, rather that less discussion in this meeting was linked to discoverability, research reproducibility, or completeness of the scientific record than to credit.
+The FORCE11 Software Citation Working Group identified four primary motivations for developing the software citation principles in 2016: 1) the need for a complete record of the research process; 2) the need to enable software discoverability; 3) the importance of research reproducibility; and 4) the need to give credit to academic researchers of all levels for the software that they develop<sup>4</sup>. Throughout the splinter meeting, the discussion groups eventually all came to focus predominantly on what was perceived as the primary motivating factor for implementing the principles in astronomy: giving credit for research software. The groups framed their conversations and focused the majority of their discussion around perceived social and technical barriers that impact people&#39;s ability to give and receive credit for their code. Therefore, credit and the lack of credit academics receive for their software became the driving force behind subsequent discussions. This is not to say that the other motivations were not seen as important to attendees, rather that less discussion in this meeting was linked to discoverability, research reproducibility, or completeness of the scientific record than to credit.
 
 **Credit Leaves Many Questions Unanswered**
 
@@ -52,14 +52,14 @@ The FORCE11 Software Citation Working Group identified four primary motivations 
    1. Where should researchers look to find preferred citations?
       1. How can indexes support researchers looking for preferred citations?
    1. How should authors determine the preferred citation for their code?
-      1. Where should an author make this information apparent (i.e. CITATION.md file)?
+      1. Where should an author make this information apparent (i.e. CITATION.md<sup>5</sup> file)?
    1. How should citations be calculated across different types of digital objects and versions of those objects?
       1. Should citations be aggregated?
-      1. Should transitive credit be used in this context<sup>5</sup> or approaches described in the &quot;Metrics Toolkit&quot;<sup>6</sup>?
+      1. Should transitive credit be used in this context<sup>6</sup> or approaches described in the &quot;Metrics Toolkit&quot;<sup>7</sup>?
 3. What metadata do people need to make available to create a proper citation?
    1. Should metadata associated with the use of the code be put in the same place as the metadata required to document the creation of the code? Where should usage metadata be documented?
       1. Facilitating code reuse, although not as essential as credit from the meeting attendees perspective, should be encouraged. Metadata needed for reuse may be far beyond what is needed for a citation though.
-   1. Should software papers require a structured metadata file to improve machine-readability (i.e. CodeMeta.json<sup>7</sup>)?
+   1. Should software papers require a structured metadata file to improve machine-readability (i.e. CodeMeta.json<sup>8</sup>)?
 
 **Limited Situational Awareness**
 
@@ -103,7 +103,7 @@ Splinter meeting attendees also pointed out a number of other resources that wou
   - Guidelines could include recommended practices that would support software reuse and give general direction to resources on software licensing.
 - LaTeX templates that include links to software citation guidelines for specific publishers.
 
-The splinter meeting attendees also brought up resources that are not specific to software citation implementation in Astronomy, but do touch on issues that impact the ability for scientists to make a career writing software, which is fundamentally why giving credit for software is so essential. These included a lack of designated funding mechanisms/opportunities to support software development in astronomy. Attendees also highlighted their perception that funders do not require or fund software &quot;preservation&quot; and archiving in the same way that they may require for the preservation of data. It should be noted though that these perceptions may stem from limited awareness about existing policies from funders like the NSF, which does require software management in the same way it requires data management as it is considered to be a type of data.
+The splinter meeting attendees also brought up resources that are not specific to software citation implementation in Astronomy, but do touch on issues that impact the ability for academics to make a career writing software, which is fundamentally why giving credit for software is so essential. These included a lack of designated funding mechanisms/opportunities to support software development in astronomy. Attendees also highlighted their perception that funders do not require or fund software &quot;preservation&quot; and archiving in the same way that they may require for the preservation of data. It should be noted though that these perceptions may stem from limited awareness about existing policies from funders like the NSF, which does require software management in the same way it requires data management as it is considered to be a type of data.
 
 **Editorial Policies**
 
@@ -121,7 +121,7 @@ Finally, this document did not focus on intellectual property issues surrounding
 
 ## Next Steps
 
-It would be advantageous to develop and promote brief guidelines to inform software authors in astronomy of what they can do to help ensure they are given credit for their work within the current scholarly communication landscape. These guidelines could point out simple steps to make their code more citable<sup>8</sup> and clarify some of the confusion about author expectations. The guidelines could also explain common methods for publishing software and address citation issues for each case. The guidelines could then be iteratively updated as questions posed by the splinter meeting attendees are addressed by the community. A separate set of short guidelines could be created on how to cite software and where to look for citations. In order for any of these guidelines to be impactful, they would need to include real examples and be promoted by institutions and individuals in as many settings as possible. Any guidelines created for the community would be a foundation on which an awareness campaign could be built, serving as a focal point for future debate and discussion.
+It would be advantageous to develop and promote brief guidelines to inform software authors in astronomy of what they can do to help ensure they are given credit for their work within the current scholarly communication landscape. These guidelines could point out simple steps to make their code more citable<sup>9</sup> and clarify some of the confusion about author expectations. The guidelines could also explain common methods for publishing software and address citation issues for each case. The guidelines could then be iteratively updated as questions posed by the splinter meeting attendees are addressed by the community. A separate set of short guidelines could be created on how to cite software and where to look for citations. In order for any of these guidelines to be impactful, they would need to include real examples and be promoted by institutions and individuals in as many settings as possible. Any guidelines created for the community would be a foundation on which an awareness campaign could be built, serving as a focal point for future debate and discussion.
 
 In addition to concrete guidelines specific to astronomy, it would be valuable to develop a survey of publisher&#39;s policies and editorial practices that impact software citation in the field. A survey of this sort could then be used to frame conversations with different publishers and indexers about which tools would be most helpful in enabling implementation of the FORCE11 Principles and inform updates to guidelines. The survey would also give publishers and stakeholders data that could support changes to editorial practices.
 
@@ -166,11 +166,12 @@ Given the Software Citation Principles as a Goal:
 
 # References
 
-1. Katz, D. S. (2017). Software Citation Implementation Working Group. Retrieved February 26, 2018, from https://www.force11.org/group/software-citation-implementation-working-group
+1. Katz, D. S. (2017). Software Citation Implementation Working Group. Retrieved from https://www.force11.org/group/software-citation-implementation-working-group
 2. Smith, A. (2018). _Spectrum of Research Software_. Retrieved from https://stsci.app.box.com/s/ooamf3ds1fxcqq7nnhgpnbjgi0sra031
-3. Muench, A. (2018). Implementations and provocations from the asclepias project. Retrieved February 26, 2018, from https://drive.google.com/file/d/1LB1arge6mMSHz1Lgxu6wn8Nr-Rb1LYNw/view?usp=embed\_facebook
+3. Muench, A. (2018). Implementations and provocations from the asclepias project. Retrieved from https://drive.google.com/file/d/1LB1arge6mMSHz1Lgxu6wn8Nr-Rb1LYNw/view?usp=embed\_facebook
 4. Smith, A. M., Katz, D. S., &amp; Niemeyer, K. E. (2016). Software citation principles. _PeerJ Computer Science_, _2_, e86. https://doi.org/10.7717/peerj-cs.86
-5. Katz, D. S., &amp; Smith, A. M. (2014). Implementing Transitive Credit with JSON-LD. _ArXiv:1407.5117 [Cs]_. Retrieved from http://arxiv.org/abs/1407.5117
-6. Citations, software. (2017). Retrieved February 26, 2018, from http://www.metrics-toolkit.org/citations-software/
-7. Chue Hong, N., Druskat, S., &amp; Slaughter, P. (2018). _codemeta: Minimal metadata schemas for science software and code, in JSON-LD_. CodeMeta. Retrieved from https://github.com/codemeta/codemeta/blob/master/codemeta.json
-8. Smith, A. (n.d.). Making Your Code Citable · GitHub Guides. Retrieved February 26, 2018, from https://guides.github.com/activities/citable-code/
+5. By Druskat, S., Bast, R., Chue Hong, N., Konovalov, K., &amp; Rowley, A. (2017). A standard format for CITATION files. _Software Sustainability Institute: Software and Research Blog_. Retrieved from https://www.software.ac.uk/index.php/blog/2017-12-12-standard-format-citation-files
+6. Katz, D. S., &amp; Smith, A. M. (2014). Implementing Transitive Credit with JSON-LD. _ArXiv:1407.5117 [Cs]_. Retrieved from http://arxiv.org/abs/1407.5117
+7. Citations, software. (2017). Retrieved from http://www.metrics-toolkit.org/citations-software/
+8. Chue Hong, N., Druskat, S., &amp; Slaughter, P. (2018). _codemeta: Minimal metadata schemas for science software and code, in JSON-LD_. CodeMeta. Retrieved from https://github.com/codemeta/codemeta/blob/master/codemeta.json
+9. Smith, A. (n.d.). Making Your Code Citable · GitHub Guides. Retrieved from https://guides.github.com/activities/citable-code/
