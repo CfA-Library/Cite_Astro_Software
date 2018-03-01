@@ -12,6 +12,8 @@ August (Gus) Muench, American Astronomical Society, Washington, DC
 
 Katie Frey, Harvard-Smithsonian Center for Astrophysics, Cambridge, MA
 
+Arfon M. Smith, Space Telescope Science Institute, Baltimore, MD
+
 Contact: daina.bouquin@cfa.harvard.edu
 
 ## Introduction
