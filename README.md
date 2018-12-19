@@ -21,4 +21,4 @@ The [files here](https://github.com/CfA-Library/Cite_Astro_Software/tree/master/
 
 
 ----
-Next steps: CfA Library staff plan to create resources and tools to support software citation implementation in astronomy— the results of the 2019 case study will be used to prioritize their development
+Next steps: CfA Library staff plan to create resources and tools to support software citation implementation in astronomy— the white paper and the results of the 2019 case study will be used to prioritize their development
