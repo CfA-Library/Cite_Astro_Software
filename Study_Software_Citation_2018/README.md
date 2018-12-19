@@ -1,8 +1,9 @@
 ## A Twenty Year Case Study on Software Citation Practices in Astronomy 
+[Daina Bouquin](https://github.com/dbouquin), [Daniel Chivvis](https://github.com/danielchivvis)
 
 This folder contains files relevant to an on-going case study examining software citation practices in Astronomy. 
 
-Methods:
+### Methods:
 
 CfA Library staff identified eleven software packages developed in whole or in part at the CfA. The packages selected represent codes with varying degrees of complexity and would be expected to be cited across different timeframes within a 20 year period.
 
