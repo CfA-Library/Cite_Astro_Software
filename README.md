@@ -8,7 +8,7 @@ FORCE11: [Software Citation Implementation Working Group](https://github.com/for
 
 ----
 ### White Paper (Jan. 2018)
-This [white paper](https://github.com/CfA-Library/Cite_Astro_Software/blob/master/whitepaper.md) outlines issues that impact software citation implementation in astronomy.
+This [white paper](https://github.com/CfA-Library/Cite_Astro_Software/blob/master/whitepaper_2018.md) outlines issues that impact software citation implementation in astronomy.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1473408.svg)](https://doi.org/10.5281/zenodo.1473408)
 
