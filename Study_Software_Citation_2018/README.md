@@ -14,7 +14,7 @@ Software packages included in the study:
 5. [ytini](http://ytini.com/index.html)
 6. [PlasmaPy](http://www.plasmapy.org/)
 7. [RADMC-3D](http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/)
-8. [spec2d](http://deep.ps.uci.edu/spec2d/0
+8. [spec2d](http://deep.ps.uci.edu/spec2d/0)
 9. [Tardis](https://tardis.readthedocs.io/en/latest/)
 10. [WCSTools](http://tdc-www.harvard.edu/software/wcstools/)
 11. [Stingray](https://stingraysoftware.github.io/)
