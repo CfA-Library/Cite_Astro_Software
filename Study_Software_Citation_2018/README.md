@@ -63,8 +63,7 @@ The results of this case study could also be used to:
 
 Library staff will query the ADS API for the same software aliases over the same period of time covered by the AAS XML files. For each software package we will find:
 
-* total number of articles containing aliases across AAS publications
- * the degree to which results from this ADS API search and the direct XML search match (i.e. proportion of matching bibcodes) will indicate the degree of confidence we have in our ability to use the ADS API to identify software aliases in non-AAS publications
 * total number of articles containing aliases across all publications indexed by ADS
+* total number of articles containing aliases across only AAS publications; the degree to which results from this ADS API search and the direct XML search match (i.e. proportion of matching bibcodes) will indicate the degree of confidence we have in our ability to use the ADS API to identify software aliases in non-AAS publications
 
-We will compare the total number of articles containing aliases to total number of articles that ADS would identify as containing software citations.
+We will compare the total number of articles containing aliases to the total number of articles that ADS would be able to identify as containing software citations (i.e. Zenodo DOIs). This will give us a better understanding of software citation practices for non-AAS publications.
