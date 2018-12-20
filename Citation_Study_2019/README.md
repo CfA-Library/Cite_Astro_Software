@@ -10,7 +10,7 @@ CfA Library staff identified eleven software packages developed in whole or in p
 Software packages included in the study:
 1. [AstroBlend](http://www.astroblend.com/)
 2. [AstroPy](http://www.astropy.org/)
-3. [SAOImage DS(](http://ds9.si.edu/site/Home.html)
+3. [SAOImage DS](http://ds9.si.edu/site/Home.html)
 4. [PlasmaPy](http://www.plasmapy.org/)
 5. [RADMC-3D](http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/)
 6. [spec2d](http://deep.ps.uci.edu/spec2d/0)

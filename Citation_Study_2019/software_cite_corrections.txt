@@ -1,3 +1,12 @@
+AstroPy
+	This research made use of Astropy, a community-developed core Python package for Astronomy.
+	http://adsabs.harvard.edu/abs/2018arXiv180102634T
+	2018AJ....156..123A
+	10.3847/1538-3881/aabc4f
+	http://iopscience.iop.org/article/10.3847/1538-3881/aabc4f/meta
+	https://arxiv.org/abs/1801.02634
+	arXiv:1801.02634
+
 DS9 
 	http://www.aspbooks.org/a/volumes/article_details/?paper_id=27026
 	http://www.aspbooks.org/publications/295/489.pdf
@@ -32,6 +41,7 @@ PlasmaPy
 	https://doi.org/10.5281/zenodo.1238132
 	https://github.com/PlasmaPy
 	https://github.com/PlasmaPy/PlasmaPy
+	PlasmaPy Community, Nicholas A. Murphy, Andrew J. Leonard, Dominik Stańczak, Pawel M. Kozlowski, Samuel J. Langendorf, Colby C. Haggerty, Jasper P. Beckers, Stuart J. Mumford, Tulasi N. Parashar, and Yi-Min Huang. (2018, April). PlasmaPy: an open source community-developed Python package for plasma physics. Zenodo. http://doi.org/10.5281/zenodo.1238132
 
 RADMC-3D
 	http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/radmc-3d_v0.41.pdf
@@ -45,8 +55,7 @@ RADMC-3D
 	RADMC-2D
 	radmc2d
 	radmc-2d
-
-radmc3dPy
+	radmc3dPy was developed by Attila Juhasz at the Leiden Observatory between 2011 and 2014 and from 2014 at the Institute of Astronomy in Cambridge.
 	https://www.ast.cam.ac.uk/~juhasz/radmc3dpy.html
 	https://www.ast.cam.ac.uk/~juhasz/radmc3dPyDoc/download.html
 	https://github.com/keflavich/radmc3dPy
@@ -87,6 +96,15 @@ Tardis
 	https://doi.org/10.5281/zenodo.1213676
 	10.5281/zenodo.1213676
 	https://pypi.org/project/tardis-sn/
+	http://adsabs.harvard.edu/abs/2014MNRAS.440..387K
+	2014MNRAS.440..387K
+	10.1093/mnras/stu055
+	https://academic.oup.com/mnras/article/440/1/387/1079501
+	This research made use of Tardis, a community-developed software
+package for spectral synthesis in supernovae. The development of
+Tardis received support from the Google Summer of Code initiative
+and from ESA's Summer of Code in Space program. Tardis makes
+extensive use of Astropy and PyNE.
 
 WCSTools
 	http://adsabs.harvard.edu/abs/1999ASPC..172..498M
@@ -103,4 +121,8 @@ WCSTools
 	http://tdc-www.harvard.edu/wcstools/publications/catalogs.adass2003.pdf
 	http://tdc-www.harvard.edu/software/wcstools/publications/adass2003/
 	http://tdc-www.harvard.edu/software/wcstools/publications/adass2005/img19.html
+
+ytini
+	 Naiman, J.P., Borkiewicz, K., & Christensen, A.J. 2017, PASP, 129, 058008
+	 YTINI
 
