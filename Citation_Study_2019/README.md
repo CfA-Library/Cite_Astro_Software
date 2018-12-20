@@ -3,7 +3,7 @@
 
 This folder contains files relevant to an on-going case study examining software citation practices in Astronomy. 
 
-### Methods:
+### Summary:
 
 CfA Library staff identified eleven software packages developed in whole or in part at the CfA. The packages selected represent codes with varying degrees of complexity and would be expected to be cited across different timeframes within a 20 year period.
 
@@ -24,7 +24,7 @@ Library staff gathered "aliases" for the selected software packages through inte
 
 Final edits are being made to the list of aliases: spreadsheet containing current alias list is [here](https://docs.google.com/spreadsheets/d/1DrGeb3XiVzMesHPJ9bfW_d7nkR7JqxqRvpQNNQdTKKM/edit#gid=1696232166) (working document). 
 
-The results of this case study will be used to:
+Two different types of searches will be conducted to better understand software citation practices in astronomy. The results of this case study will be used to:
 * recommend comprehensive reviewer and editor guidelines/inform policy development among publishers
 * develop training and other resources for article authors and software developers to improve software citation practices
 * inform the prioritization and development of tools that could be used to support software citation
