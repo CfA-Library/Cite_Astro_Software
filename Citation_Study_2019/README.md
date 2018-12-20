@@ -25,7 +25,7 @@ Library staff gathered "aliases" for the selected software packages through inte
 Final edits are being made to the list of aliases: spreadsheet containing current alias list is [here](https://docs.google.com/spreadsheets/d/1DrGeb3XiVzMesHPJ9bfW_d7nkR7JqxqRvpQNNQdTKKM/edit#gid=1696232166) (working document). 
 
 The results of this case study will be used to:
-* develop more comprehensive reviewer and editor guidelines/inform policy development among publishers
+* recommend comprehensive reviewer and editor guidelines/inform policy development among publishers
 * develop training and other resources for article authors and software developers to improve software citation practices
 * inform the prioritization and development of tools that could be used to support software citation
 
