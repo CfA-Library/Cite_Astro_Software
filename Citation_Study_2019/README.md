@@ -10,15 +10,14 @@ CfA Library staff identified eleven software packages developed in whole or in p
 Software packages included in the study:
 1. [AstroBlend](http://www.astroblend.com/)
 2. [AstroPy](http://www.astropy.org/)
-3. [BEANS](https://beanscode.net/)
-4. [DS9](http://ds9.si.edu/site/Home.html)
-5. [PlasmaPy](http://www.plasmapy.org/)
-6. [RADMC-3D](http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/)
-7. [spec2d](http://deep.ps.uci.edu/spec2d/0)
-8. [Stingray](https://stingraysoftware.github.io/)
-9. [Tardis](https://tardis.readthedocs.io/en/latest/)
-10. [WCSTools](http://tdc-www.harvard.edu/software/wcstools/)
-11. [ytini](http://ytini.com/index.html)
+3. [SAOImage DS(](http://ds9.si.edu/site/Home.html)
+4. [PlasmaPy](http://www.plasmapy.org/)
+5. [RADMC-3D](http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/)
+6. [spec2d](http://deep.ps.uci.edu/spec2d/0)
+7. [Stingray](https://stingraysoftware.github.io/)
+8. [Tardis](https://tardis.readthedocs.io/en/latest/)
+9. [WCSTools](http://tdc-www.harvard.edu/software/wcstools/)
+10. [ytini](http://ytini.com/index.html)
 
 Library staff gathered "aliases" for the selected software packages through interviews with developers and online searches to build a list of search terms that could be used to refer to the software packages in articles. Staff also added identifiers and links associated with each package to the aliases list; associated identifiers and links include those tied to ADS bibcodes, Zenodo records, ASCL records, arXiv eprints, and URLs to many different types of websites. Preferred citations were also noted when they exist. 
 
