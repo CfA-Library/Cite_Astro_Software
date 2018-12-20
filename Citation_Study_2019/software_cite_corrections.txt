@@ -33,7 +33,6 @@ PlasmaPy
 	https://github.com/PlasmaPy
 	https://github.com/PlasmaPy/PlasmaPy
 
-RADMC-2D
 RADMC-3D
 	http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/radmc-3d_v0.41.pdf
 	http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/download.html
@@ -43,7 +42,9 @@ RADMC-3D
 	https://doi.org/10.1051/0004-6361:20031768
 	10.1051/0004-6361:20031768
 	https://www.aanda.org/articles/aa/pdf/2004/13/aa4093.pdf
-
+	RADMC-2D
+	radmc2d
+	radmc-2d
 
 radmc3dPy
 	https://www.ast.cam.ac.uk/~juhasz/radmc3dpy.html
@@ -54,5 +55,52 @@ radmc3dPy
 Spec2d
 	https://www2.keck.hawaii.edu/inst/deimos/pipeline.html
 	https://github.com/MCTwo/DEIMOS/tree/master/idl/spec2d
+	http://deep.ps.uci.edu/spec2d/cvs/cvs.html#beta
+	DEIMOS pipeline
+	DEEP2 DEIMOS pipeline
+	DEEP2 DEIMOS data pipeline
 
+Stingray
+	https://github.com/StingraySoftware/stingraypaper
+	https://doi.org/10.5281/zenodo.1490117
+	10.5281/zenodo.1490117
+	https://doi.org/10.5281/zenodo.1241187
+	10.5281/zenodo.1241187
+	https://doi.org/10.5281/zenodo.48383
+	10.5281/zenodo.48383
+
+Tardis
+	https://arxiv.org/abs/1401.5469
+	arXiv:1401.5469
+	https://github.com/tardis-sn
+	https://doi.org/10.5281/zenodo.2240606
+	10.5281/zenodo.2240606
+	https://doi.org/10.5281/zenodo.1292315
+	10.5281/zenodo.1292315
+	10.5281/zenodo.592480
+	https://doi.org/10.5281/zenodo.17630
+	10.5281/zenodo.17630
+	https://doi.org/10.5281/zenodo.1213132
+	10.5281/zenodo.1213132
+	https://doi.org/10.5281/zenodo.1213671
+	10.5281/zenodo.1213671
+	https://doi.org/10.5281/zenodo.1213676
+	10.5281/zenodo.1213676
+	https://pypi.org/project/tardis-sn/
+
+WCSTools
+	http://adsabs.harvard.edu/abs/1999ASPC..172..498M
+	1999ASPC..172..498M
+	http://adsabs.harvard.edu/abs/2002ASPC..281..169M
+	2002ASPC..281..169M
+	http://adsabs.harvard.edu/abs/2003ASPC..295...51M
+	2003ASPC..295...51M
+	http://tdc-www.harvard.edu/software/wcstools/publications/saoimage.adass95.html	
+	http://tdc-www.harvard.edu/software/wcstools/publications/wcstools.adass96.html
+	http://tdc-www.harvard.edu/software/wcstools/publications/wcstools.dda98abs.html
+	http://tdc-www.harvard.edu/software/wcstools/publications/adass2001/
+	http://tdc-www.harvard.edu/software/wcstools/publications/dda2003/
+	http://tdc-www.harvard.edu/wcstools/publications/catalogs.adass2003.pdf
+	http://tdc-www.harvard.edu/software/wcstools/publications/adass2003/
+	http://tdc-www.harvard.edu/software/wcstools/publications/adass2005/img19.html
 
