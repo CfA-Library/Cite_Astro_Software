@@ -19,9 +19,7 @@ Software packages included in the study:
 9. [WCSTools](http://tdc-www.harvard.edu/software/wcstools/)
 10. [ytini](http://ytini.com/index.html)
 
-Library staff gathered "aliases" for the selected software packages through interviews with developers and online searches to build a list of search terms that could be used to refer to the software packages in articles. Staff also added identifiers and links associated with each package to the aliases list; associated identifiers and links include those tied to ADS bibcodes, Zenodo records, ASCL records, arXiv eprints, and URLs to many different types of websites. Preferred citations were also noted when they exist. 
-
-Final edits are being made to the list of aliases: spreadsheet containing current alias list is [here](https://docs.google.com/spreadsheets/d/1DrGeb3XiVzMesHPJ9bfW_d7nkR7JqxqRvpQNNQdTKKM/edit#gid=1696232166) (working document). 
+Library staff gathered "aliases" for the selected software packages through interviews with developers and online searches to build a list of search terms that could be used to refer to the software packages in articles. Staff also added identifiers and links associated with each package to the aliases list; associated identifiers and links include those tied to ADS bibcodes, Zenodo records, ASCL records, arXiv eprints, and URLs to many different types of websites. Preferred citations were also noted when they exist. The final list of aliases is available [here](https://raw.githubusercontent.com/CfA-Library/Cite_Astro_Software/master/Citation_Study_2019/Software_Alias_List.csv).
 
 Two different types of searches will be conducted to better understand software citation practices in astronomy. The results of this case study will be used to:
 * recommend comprehensive reviewer and editor guidelines/inform policy development among publishers
