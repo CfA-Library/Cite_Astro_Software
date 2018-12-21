@@ -53,7 +53,7 @@ After searching across all XML files for all software packages, we will aggregat
    * total number of software aliases found in References sections of articles where a Zenodo DOI was cited
       * represents citation to archived code (maybe)
         * in practice we see examples where a software record in Zenodo is actually a paper ([10.5281/zenodo.1211397](https://doi.org/10.5281/zenodo.1211397))
-        * in practice we have seen examples where the software authors have provided a preferred citation method ([10.5281/zenodo.163752](https://doi.org/10.5281/zenodo.163752)) requesting that article authors cite a Zenodo DOI for something other than the code ([10.5281/zenodo.1238132](https://doi.org/10.5281/zenodo.1238132)); this has been true even when a Zenodo DOI for the code exists ([10.5281/zenodo.1436012](https://doi.org/10.5281/zenodo.1436012)).
+        * in practice we have seen examples where the software authors have provided a [preferred citation](https://zenodo.org/record/1238132/export/hx#.XB1sjxNKiOF) asking that article authors cite a Zenodo DOI for something other than the code ([10.5281/zenodo.1238132](https://doi.org/10.5281/zenodo.1238132)); this has been true even when a Zenodo DOI for the code exists ([10.5281/zenodo.1436012](https://doi.org/10.5281/zenodo.1436012)).
 
 The above aggregates will help demonstrate how article authors have historically cited software in their papers and the degree to which those practices diverge from the practices that enable ADS and others to identify software citations. A follow up could be done repeating these searches annually to see how [AAS software policies](https://journals.aas.org/policy-statement-on-software/) impact software citation practices. 
 
