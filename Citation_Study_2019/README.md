@@ -5,7 +5,7 @@ This folder contains files relevant to an on-going case study examining software
 
 ### Summary:
 
-CfA Library staff identified eleven software packages developed in whole or in part at the CfA. The packages selected represent codes with varying degrees of complexity and would be expected to be cited across different timeframes within a 20 year period.
+CfA Library staff identified ten software packages developed in whole or in part at the CfA. The packages selected represent codes with varying degrees of complexity and would be expected to be cited across different timeframes within a 20 year period.
 
 Software packages included in the study:
 1. [AstroBlend](http://www.astroblend.com/)
