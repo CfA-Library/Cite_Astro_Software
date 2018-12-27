@@ -17,7 +17,6 @@ Software packages included in the study:
 7. [Stingray](https://stingraysoftware.github.io/)
 8. [Tardis](https://tardis.readthedocs.io/en/latest/)
 9. [WCSTools](http://tdc-www.harvard.edu/software/wcstools/)
-10. [ytini](http://ytini.com/index.html)
 
 Library staff gathered "aliases" for the selected software packages through interviews with developers and online searches to build a list of search terms that could be used to refer to the software packages in articles. Staff also added identifiers and links associated with each package to the aliases list; associated identifiers and links include those tied to ADS bibcodes, Zenodo records, ASCL records, arXiv eprints, and URLs to many different types of websites. Preferred citations were also noted when they exist. The final list of aliases is available [here](https://raw.githubusercontent.com/CfA-Library/Cite_Astro_Software/master/Citation_Study_2019/Software_Alias_List.csv).
 
