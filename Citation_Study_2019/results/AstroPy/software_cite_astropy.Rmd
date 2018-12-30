@@ -6,8 +6,14 @@ output: pdf_document
 ---
 
 ```{r}
-astropy <- read.csv("AstroPy_Mentions.csv")
+library(dplyr)
+library(plyr)
 
+astropy <- read.csv("AstroPy_Mentions.csv")
+```
+
+XML tag analysis
+```{r}
 # how many files contained aliases?
 total_astropy_files <- length(unique(astropy$File_name))  # 497
 
@@ -21,15 +27,44 @@ cite_attempt_astropy <- length(unique(astropy_sub1$File_name)) # 224
 # proportion of astropy mentions with an attempt at citation
 cite_attempt_astropy / total_astropy_files # 0.4507042
 
-# select only files where the tag shows an attempt to cite (astropy_sub2)
+# select only files where the tag shows an attempt to formally cite the software (astropy_sub2)
 ref2 <- c("source", "nlm-citation", "element-citation")
 astropy_sub2 <- filter(astropy, XML_tag2 == ref2)
 
 # how many files contained a formal citation
 formal_cite_astropy <- length(unique(astropy_sub2$File_name)) # 221
 
+# proportion of astropy mentions with a formal citation
+formal_cite_astropy / total_astropy_files # 0.444668
+
 # summary of citation tags by file
 wide_astropy_tags <- dcast(cite_attempt_astropy, File_name ~ XML_tag2)
 write.csv(wide_astropy_tags, file = "astropy_cite_attempt.csv")
+
+# how many unique aliases were used in whole corpus
+alias_count <- length(unique(astropy$Alias)) # 7
+
+# which aliases were used
+aliases_used <- unique(astropy$Alias)
+
+# 10.1051/0004-6361/201322068
+# 2013A&A...558A..33A
+# astropy
+# AstroPy
+# http://www.astropy.org/
+# https://doi.org/10.1051/0004-6361/201322068
+# https://github.com/astropy
+
+# how often was each alias used
+count(astropy, c('Alias'))
+
+#                                       Alias freq
+#                 10.1051/0004-6361/201322068  449
+#                         2013A&A...558A..33A  441
+#                                     astropy  229
+#                                     AstroPy   31
+#                     http://www.astropy.org/   11
+# https://doi.org/10.1051/0004-6361/201322068    2
+#                  https://github.com/astropy    8
 
 ```
