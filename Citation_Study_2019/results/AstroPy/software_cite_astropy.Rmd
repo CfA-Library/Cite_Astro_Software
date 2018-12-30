@@ -1,0 +1,35 @@
+---
+title: "software_cite_astropy"
+author: "Daina"
+date: "12/30/2018"
+output: pdf_document
+---
+
+```{r}
+astropy <- read.csv("AstroPy_Mentions.csv")
+
+# how many files contained aliases?
+total_astropy_files <- length(unique(astropy$File_name))  # 497
+
+# select only files where the tag shows an attempt to cite/acknowledge (astropy_sub1)
+ref <- c("source", "nlm-citation", "element-citation", "ack")
+astropy_sub1 <- filter(astropy, XML_tag2 == ref)
+
+# how many files contained attempt to cite/acknowledge
+cite_attempt_astropy <- length(unique(astropy_sub1$File_name)) # 224
+
+# proportion of astropy mentions with an attempt at citation
+cite_attempt_astropy / total_astropy_files # 0.4507042
+
+# select only files where the tag shows an attempt to cite (astropy_sub2)
+ref2 <- c("source", "nlm-citation", "element-citation")
+astropy_sub2 <- filter(astropy, XML_tag2 == ref2)
+
+# how many files contained a formal citation
+formal_cite_astropy <- length(unique(astropy_sub2$File_name)) # 221
+
+# summary of citation tags by file
+wide_astropy_tags <- dcast(cite_attempt_astropy, File_name ~ XML_tag2)
+write.csv(wide_astropy_tags, file = "astropy_cite_attempt.csv")
+
+```
