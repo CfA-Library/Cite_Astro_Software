@@ -73,7 +73,7 @@ count(astropy, c('Alias'))
 
 # create subset of files not containing formal reference (astropy_no_ref)
 astropy_no_ref <- filter(astropy, !File_name %in% astropy_ref$File_name)
-no_ref <- length(unique(astropy_sub3$File_name)) 
+no_ref <- length(unique(astropy_no_ref$File_name)) 
 no_ref
 
 write.csv(astropy_no_ref, "astropy_no_ref.csv")
