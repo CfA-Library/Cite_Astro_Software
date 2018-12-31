@@ -18,8 +18,6 @@
       + "UDS910-0"; "UDS910-1"; "UDS910-3"; "UDS910-4"
       + "ODS95"
     + remove false positive results prior to 2002
-  + RADMC-3D
-    + remove false positive results prior to 2007
   + Stingray
     + remove false positive results from:
       + "stingray nebula"
