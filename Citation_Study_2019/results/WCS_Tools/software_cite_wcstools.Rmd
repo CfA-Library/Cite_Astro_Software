@@ -1,0 +1,88 @@
+---
+title: "software_cite_WCS_Tools"
+author: "Daina Bouquin"
+---
+
+```{r}
+library(dplyr)
+library(plyr)
+library(reshape2)
+
+WCS_Tools <- read.csv("WCS_Tools_Mentions.csv")
+```
+
+XML tag analysis
+```{r}
+# how many files contained aliases?
+total_WCS_Tools_files <- length(unique(WCS_Tools$File_name))  # 157
+total_WCS_Tools_files
+
+# select only files where the tag shows an attempt to cite/acknowledge (WCS_Tools_attempt_ref)
+ref <- c("source", "nlm-citation", "element-citation", "ack")
+WCS_Tools_attempt_ref <- filter(WCS_Tools, XML_tag2 %in% ref)
+
+# save WCS_Tools_attempt_ref
+write.csv(WCS_Tools_attempt_ref, "WCS_Tools_attempt_ref.csv")
+
+# how many files contained attempt to cite/acknowledge
+cite_attempt_WCS_Tools <- length(unique(WCS_Tools_attempt_ref$File_name)) # 23
+cite_attempt_WCS_Tools
+
+# proportion of WCS_Tools mentions with an attempt at citation
+cite_attempt_WCS_Tools / total_WCS_Tools_files # 0.1464968
+
+# select only files where the tag shows an attempt to formally cite the software (WCS_Tools_ref)
+ref2 <- c("source", "nlm-citation", "element-citation")
+WCS_Tools_ref <- filter(WCS_Tools, XML_tag2 %in% ref2)
+write.csv(WCS_Tools_ref, "WCS_Tools_ref.csv")
+
+# how many files contained a formal citation
+formal_cite_WCS_Tools <- length(unique(WCS_Tools_ref$File_name)) # 23
+formal_cite_WCS_Tools
+
+# proportion of WCS_Tools mentions with a formal citation
+formal_cite_WCS_Tools / total_WCS_Tools_files # 0.1464968
+
+# how many unique aliases were used in whole corpus
+alias_count <- length(unique(WCS_Tools$Alias)) # 11
+alias_count
+
+# which aliases were used
+aliases_used <- unique(WCS_Tools$Alias)
+aliases_used
+
+# 1999ASPC..172..498M
+# 2002ASPC..281..169M
+# http://tdc-www.harvard.edu/software/wcstools/
+# imcat
+# imwcs
+# sky2xy
+# WCS Tools
+# WCSLIB
+# WCSTools
+# wcstools
+# xy2sky  
+
+# how often was each alias used
+count(WCS_Tools, c('Alias'))
+
+#                                         Alias freq
+#                           1999ASPC..172..498M   10
+#                           2002ASPC..281..169M   13
+# http://tdc-www.harvard.edu/software/wcstools/    7
+#                                         imcat   67
+#                                         imwcs   32
+#                                        sky2xy    1
+#                                     WCS Tools    1
+#                                        WCSLIB    3
+#                                      wcstools   41
+#                                      WCSTools   82
+#                                        xy2sky    9
+
+# create subset of files not containing formal reference (WCS_Tools_no_ref)
+WCS_Tools_no_ref <- filter(WCS_Tools, !File_name %in% WCS_Tools_ref$File_name)
+no_ref <- length(unique(WCS_Tools_no_ref$File_name)) 
+no_ref
+
+write.csv(WCS_Tools_no_ref, "WCS_Tools_no_ref.csv")
+```

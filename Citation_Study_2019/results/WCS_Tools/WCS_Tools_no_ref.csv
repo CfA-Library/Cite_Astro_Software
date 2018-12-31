@@ -1,0 +1,367 @@
+"","Software_name","File_name","Article_id","Alias","ID","XML_tag1","XML_tag2","XML_tag1_content","XML_tag2_content","Publication_year","Journal_title","Publisher"
+"1","WCS Tools","aj_137_5_4339.xml","aj290030, ANJOAA, 10.1088/0004-6256/137/5/4339, 290030","http://tdc-www.harvard.edu/software/wcstools/",0,"ext-link","p","http://tdc-www.harvard.edu/software/wcstools/","WCSTools is available at <ext-link ext-link-type=""",2009,"The Astronomical Journal","The American Astronomical Society"
+"2","WCS Tools","aj_140_3_897.xml","aj353385, ANJOAA, 10.1088/0004-6256/140/3/897, 353385","http://tdc-www.harvard.edu/software/wcstools/",0,"ext-link","p","http://tdc-www.harvard.edu/software/wcstools/","A World Coordinate System setting program from the",2010,"The Astronomical Journal","The American Astronomical Society"
+"3","WCS Tools","aj_142_1_2.xml","aj388417, ANJOAA, 10.1088/0004-6256/142/1/2, 388417","http://tdc-www.harvard.edu/software/wcstools/",0,"ext-link","p","http://tdc-www.harvard.edu/software/wcstools/","<ext-link ext-link-type=""url"">http://tdc-www.harvard.edu/software/wcstools/</ext-link>",2011,"The Astronomical Journal","The American Astronomical Society"
+"4","WCS Tools","aj_142_1_25.xml","aj392233, ANJOAA, 10.1088/0004-6256/142/1/25, 392233","http://tdc-www.harvard.edu/software/wcstools/",0,"ext-link","p","http://tdc-www.harvard.edu/software/wcstools/","Documentation and source code are available at <ex",2011,"The Astronomical Journal","The American Astronomical Society"
+"5","WCS Tools","apj_710_1_583.xml","apj331163, ASJOAB, 10.1088/0004-637X/710/1/583, 331163","http://tdc-www.harvard.edu/software/wcstools/",0,"ext-link","p","http://tdc-www.harvard.edu/software/wcstools/","<ext-link ext-link-type=""url"">http://tdc-www.harvard.edu/software/wcstools/</ext-link>",2010,"The Astrophysical Journal","The American Astronomical Society"
+"6","WCS Tools","apjs_193_2_28.xml","apjs386205, ASJOAB, 10.1088/0067-0049/193/2/28, 386205","http://tdc-www.harvard.edu/software/wcstools/",0,"ext-link","p","http://tdc-www.harvard.edu/software/wcstools/imwcs/index.html","<ext-link ext-link-type=""url"">http://tdc-www.harva",2011,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"7","WCS Tools","10.1086_380611.xml","AJ203172, 2004AJ....127..180C","imcat",0,"ext-link","p","http://www.ifa.hawaii.edu/~kaiser/imcat","See <ext-link ext-link-type=""uri"" xlink:href=""http",2004,"The Astronomical Journal","The University of Chicago Press"
+"8","WCS Tools","aj_145_3_82.xml","aj459679, ANJOAA, 10.1088/0004-6256/145/3/82, 459679","imcat",0,"p","sec","Running the WCStools program imcat (Mink <xref ref","<label>2.2.1.</label><title>Coordinate Determinati",2013,"The Astronomical Journal","The American Astronomical Society"
+"9","WCS Tools","aj_145_3_82.xml","aj459679, ANJOAA, 10.1088/0004-6256/145/3/82, 459679","imcat",0,"p","sec","Running the WCStools program imcat (Mink <xref ref","<label>2.2.1.</label><title>Coordinate Determinati",2013,"The Astronomical Journal","The American Astronomical Society"
+"10","WCS Tools","10.1086_306026.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/306026, APJ37654, 1998ApJ...503..531H","imcat",0,"p","sec","Object catalogs were extracted using two different","
+<label>2.1.<x> </x></label>
+<title>Object Detecti",1998,"The Astrophysical Journal","The University of Chicago Press"
+"11","WCS Tools","10.1086_306026.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/306026, APJ37654, 1998ApJ...503..531H","imcat",0,"p","sec","Object catalogs were extracted using two different","
+<label>2.1.<x> </x></label>
+<title>Object Detecti",1998,"The Astrophysical Journal","The University of Chicago Press"
+"12","WCS Tools","10.1086_306026.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/306026, APJ37654, 1998ApJ...503..531H","imcat",0,"p","sec","In order to avoid the edges of the chips, where im","
+<label>2.1.<x> </x></label>
+<title>Object Detecti",1998,"The Astrophysical Journal","The University of Chicago Press"
+"13","WCS Tools","10.1086_306026.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/306026, APJ37654, 1998ApJ...503..531H","imcat",0,"p","sec","The source
+catalog was obtained using the imcat so","
+<label>2.1.<x> </x></label>
+<title>Object Detecti",1998,"The Astrophysical Journal","The University of Chicago Press"
+"14","WCS Tools","10.1086_306026.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/306026, APJ37654, 1998ApJ...503..531H","imcat",0,"p","fn","Documentation for the imcat software can be found ","
+<label>3</label>
+<p>Documentation for the imcat s",1998,"The Astrophysical Journal","The University of Chicago Press"
+"15","WCS Tools","10.1086_306026.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/306026, APJ37654, 1998ApJ...503..531H","imcat",0,"ext-link","p","http://
+www&hyphen;nk.ifa.hawaii.edu/~kaiser/imcatdoc/mainindex.html","Documentation for the imcat software can be found ",1998,"The Astrophysical Journal","The University of Chicago Press"
+"16","WCS Tools","10.1086_306026.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/306026, APJ37654, 1998ApJ...503..531H","imcat",0,"p","sec","One possible concern is that the extended
+luminosi","
+<label>7.3.<x> </x></label>
+<title>Isophotal
+Cont",1998,"The Astrophysical Journal","The University of Chicago Press"
+"17","WCS Tools","10.1086_306026.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/306026, APJ37654, 1998ApJ...503..531H","imcat",0,"p","sec"," <xref ref-type=""fig"" rid=""fg5"">Figure
+5</xref> sh","
+<label>7.3.<x> </x></label>
+<title>Isophotal
+Cont",1998,"The Astrophysical Journal","The University of Chicago Press"
+"18","WCS Tools","10.1086_306026.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/306026, APJ37654, 1998ApJ...503..531H","imcat",0,"p","caption","Simulation of the effect of light contamination fr","<p>Simulation of the effect of light contamination",1998,"The Astrophysical Journal","The University of Chicago Press"
+"19","WCS Tools","10.1086_309242.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/309242, APJ40346, 2000ApJ...539..540C","imcat",0,"ext-link","p","http://www.ifa.hawaii.edu/âˆ¼kaiser/imcat","After creating an added image, the next step in
+th",2000,"The Astrophysical Journal","The University of Chicago Press"
+"20","WCS Tools","10.1086_324202.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/324202, APJ54411, 2002ApJ...564...65G","imcat",0,"ext-link","p","http://www.ifa.hawaii.edu/ kaiser/imcat/man/imcat.html","Information on MCAT is available at <ext-link ext-",2002,"The Astrophysical Journal","The University of Chicago Press"
+"21","WCS Tools","10.1086_338763.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/338763, APJ54378, 2002ApJ...568..141G","imcat",0,"italic","p","imcat","Photometric
+catalogs were also constructed for eac",2002,"The Astrophysical Journal","The University of Chicago Press"
+"22","WCS Tools","10.1086_338763.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/338763, APJ54378, 2002ApJ...568..141G","imcat",0,"italic","p","imcat","We apply preliminary cuts
+to our catalog to exclud",2002,"The Astrophysical Journal","The University of Chicago Press"
+"23","WCS Tools","10.1086_338763.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/338763, APJ54378, 2002ApJ...568..141G","imcat",0,"italic","p","imcat","The modeled
+stellar ellipticities were used to cor",2002,"The Astrophysical Journal","The University of Chicago Press"
+"24","WCS Tools","10.1086_345986.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/345986, APJ56642, 2003ApJ...585..191W","imcat",0,"italic","p","imcat","The <italic>imcat</italic> data reduction
+package<",2003,"The Astrophysical Journal","The University of Chicago Press"
+"25","WCS Tools","10.1086_381970.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/381970, APJ59234, 2004ApJ...604..596C","imcat",0,"ext-link","p","http://www.ifa.hawaii.edu/~kaiser/imcat","Available at <ext-link ext-link-type=""uri"" xlink:h",2004,"The Astrophysical Journal","The University of Chicago Press"
+"26","WCS Tools","10.1086_425676.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/425676, APJ60076, 2004ApJ...617..765C","imcat",0,"ext-link","p","http://www.ifa.hawaii.edu/kaiser/imcat","See <ext-link ext-link-type=""uri"" xlink:href=""http",2004,"The Astrophysical Journal","The University of Chicago Press"
+"27","WCS Tools","10.1086_505455.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/505455, APJ62884, 2006ApJ...647..853W","imcat",0,"monospace","p","imcat","The photometric catalog for DEEP2 (Coil et al. <xr",2006,"The Astrophysical Journal","The University of Chicago Press"
+"28","WCS Tools","10.1086_505455.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/505455, APJ62884, 2006ApJ...647..853W","imcat",0,"monospace","p","imcat","The photometric catalog for DEEP2 (Coil et al. <xr",2006,"The Astrophysical Journal","The University of Chicago Press"
+"29","WCS Tools","10.1086_518638.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/518638, APJ70128, 2007ApJ...663..717M","imcat",0,"p","fn","See http://www.ifa.hawaii.edu/~kaiser/imcat.","
+<label>8</label>
+<p>See http://www.ifa.hawaii.edu/~kaiser/imcat.</p>
+",2007,"The Astrophysical Journal","The University of Chicago Press"
+"30","WCS Tools","10.1086_519237.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/519237, APJ71287, 2007ApJ...667..176G","imcat",0,"ext-link","p","http://www.ifa.hawaii.edu/~kaiser/imcat/","See <ext-link ext-link-type=""uri"" xlink:href=""http",2007,"The Astrophysical Journal","The University of Chicago Press"
+"31","WCS Tools","10.1086_588517.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/588517, APJ73332, 2008ApJ...684...34K","imcat",0,"p","fn","Nick Kasiserâ€™s Imcat software package is available from http://www.ifa.hawaii.edu/~kaiser/imcat/.","
+<label>10</label>
+<p>Nick Kasiserâ€™s Imcat softwar",2008,"The Astrophysical Journal","The University of Chicago Press"
+"32","WCS Tools","10.1086_589683.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/589683, APJ73819, 2008ApJ...684..177U","imcat",0,"p","fn","See http://www.ifa.hawaii.edu/~kaiser/imcat.","
+<label>6</label>
+<p>See http://www.ifa.hawaii.edu/~kaiser/imcat.</p>
+",2008,"The Astrophysical Journal","The University of Chicago Press"
+"33","WCS Tools","apj_694_2_1643.xml","apj294887, ASJOAB, 10.1088/0004-637X/694/2/1643, 294887","imcat",0,"ext-link","p","http://www.ifa.hawaii.edu/k~aiser/imcat","<ext-link ext-link-type=""url"">http://www.ifa.hawaii.edu/k~aiser/imcat</ext-link>",2009,"The Astrophysical Journal","The American Astronomical Society"
+"34","WCS Tools","apj_696_1_546.xml","apj300720, ASJOAB, 10.1088/0004-637X/696/1/546, 300720","imcat",0,"ext-link","p","http://www.ifa.hawaii.edu/kaiser/imcat/","IMCAT is distributed by Nick Kaiser at <ext-link e",2009,"The Astrophysical Journal","The American Astronomical Society"
+"35","WCS Tools","apj_699_2_1038.xml","apj307348, ASJOAB, 10.1088/0004-637X/699/2/1038, 307348","imcat",0,"ext-link","p","http://www.ifa.hawaii.edu/~kaiser/imcat/","<ext-link ext-link-type=""url"">http://www.ifa.hawaii.edu/~kaiser/imcat/</ext-link>",2009,"The Astrophysical Journal","The American Astronomical Society"
+"36","WCS Tools","apj_701_1_428.xml","apj307973, ASJOAB, 10.1088/0004-637X/701/1/428, 307973","imcat",0,"monospace","p","imcat","We began with the SExtractor catalogs for the four",2009,"The Astrophysical Journal","The American Astronomical Society"
+"37","WCS Tools","apj_706_2_1078.xml","apj318121, ASJOAB, 10.1088/0004-637X/706/2/1078, 318121","imcat",0,"ext-link","p","http://www.ifa.hawaii.edu/~kaiser/imcat/","<ext-link ext-link-type=""url"">http://www.ifa.hawaii.edu/~kaiser/imcat/</ext-link>",2009,"The Astrophysical Journal","The American Astronomical Society"
+"38","WCS Tools","apj_713_1_291.xml","apj302452, ASJOAB, 10.1088/0004-637X/713/1/291, 302452","imcat",0,"ext-link","p","http://www.ifa.hawaii.edu/~kaiser/imcat/","<ext-link ext-link-type=""url"">http://www.ifa.hawaii.edu/~kaiser/imcat/</ext-link>",2010,"The Astrophysical Journal","The American Astronomical Society"
+"39","WCS Tools","apj_714_2_1470.xml","apj327789, ASJOAB, 10.1088/0004-637X/714/2/1470, 327789","imcat",0,"ext-link","p","http://www.ifa.hawaii.edu/~kaiser/imcat","<ext-link ext-link-type=""url"">http://www.ifa.hawaii.edu/~kaiser/imcat</ext-link>",2010,"The Astrophysical Journal","The American Astronomical Society"
+"40","WCS Tools","apj_716_2_1579.xml","apj329017, ASJOAB, 10.1088/0004-637X/716/2/1579, 329017","imcat",0,"ext-link","p","http://www.ifa.hawaii.edu/~kaiser/imcat/","<ext-link ext-link-type=""url"">http://www.ifa.hawaii.edu/~kaiser/imcat/</ext-link>",2010,"The Astrophysical Journal","The American Astronomical Society"
+"41","WCS Tools","apj_721_2_1680.xml","apj364561, ASJOAB, 10.1088/0004-637X/721/2/1680, 364561","imcat",0,"italic","p","imcat","Before combining all the science frames, the image",2010,"The Astrophysical Journal","The American Astronomical Society"
+"42","WCS Tools","apj_723_1_184.xml","apj327595, ASJOAB, 10.1088/0004-637X/723/1/184, 327595","imcat",0,"ext-link","p","http://www.ifa.hawaii.edu/~kaiser/imcat","Imcat is available at <ext-link ext-link-type=""url",2010,"The Astrophysical Journal","The American Astronomical Society"
+"43","WCS Tools","apj_730_1_9.xml","apj380759, ASJOAB, 10.1088/0004-637X/730/1/9, 380759","imcat",0,"ext-link","p","http://www.ifa.hawaii.edu/~kaiser/imcat","<ext-link ext-link-type=""url"">http://www.ifa.hawaii.edu/~kaiser/imcat</ext-link>",2011,"The Astrophysical Journal","The American Astronomical Society"
+"44","WCS Tools","apj_744_2_94.xml","apj413920, ASJOAB, 10.1088/0004-637X/744/2/94, 413920","imcat",0,"p","sec","After we processed the Subaru images and combined ","<label>3.</label><title>WEAK-LENSING ANALYSIS</tit",2012,"The Astrophysical Journal","The American Astronomical Society"
+"45","WCS Tools","apj_744_2_94.xml","apj413920, ASJOAB, 10.1088/0004-637X/744/2/94, 413920","imcat",0,"ext-link","p","http://www.ifa.hawaii.edu/~kaiser/imcat/","<ext-link ext-link-type=""url"">http://www.ifa.hawaii.edu/~kaiser/imcat/</ext-link>",2012,"The Astrophysical Journal","The American Astronomical Society"
+"46","WCS Tools","apj_744_2_94.xml","apj413920, ASJOAB, 10.1088/0004-637X/744/2/94, 413920","imcat",0,"p","sec","The errors on the centroids for Peaks 1 and 2 were","<label>4.2.</label><title>Errors on the Centroid a",2012,"The Astrophysical Journal","The American Astronomical Society"
+"47","WCS Tools","apj_748_2_112.xml","apj421174, ASJOAB, 10.1088/0004-637X/748/2/112, 421174","imcat",0,"ext-link","p","http://www.ifa.hawaii.edu/~kaiser/imcat","We used IMCAT (<ext-link ext-link-type=""url"">http:",2012,"The Astrophysical Journal","The American Astronomical Society"
+"48","WCS Tools","apj_749_1_20.xml","apj422934, ASJOAB, 10.1088/0004-637X/749/1/20, 422934","imcat",0,"ext-link","p","http://www.ifa.hawaii.edu/~kaiser/imcat/","See <ext-link ext-link-type=""url"">http://www.ifa.hawaii.edu/~kaiser/imcat/</ext-link>.",2012,"The Astrophysical Journal","The American Astronomical Society"
+"49","WCS Tools","apj_750_2_168.xml","apj426142, ASJOAB, 10.1088/0004-637X/750/2/168, 426142","imcat",0,"italic","p","imcat","To construct the convergence map, we use all galax",2012,"The Astrophysical Journal","The American Astronomical Society"
+"50","WCS Tools","apj_758_2_128.xml","apj445283, ASJOAB, 10.1088/0004-637X/758/2/128, 445283","imcat",0,"ext-link","p","http://www.ifa.hawaii.edu/~kaiser/imcat","<ext-link ext-link-type=""url"">http://www.ifa.hawaii.edu/~kaiser/imcat</ext-link>",2012,"The Astrophysical Journal","The American Astronomical Society"
+"51","WCS Tools","apj_765_1_24.xml","apj458114, ASJOAB, 10.1088/0004-637X/765/1/24, 458114","imcat",0,"ext-link","p","http://www.ifa.hawaii.edu/~kaiser/imcat/","<ext-link ext-link-type=""url"">http://www.ifa.hawaii.edu/~kaiser/imcat/</ext-link>",2013,"The Astrophysical Journal","The American Astronomical Society"
+"52","WCS Tools","apj_771_1_37.xml","apj473582, ASJOAB, 10.1088/0004-637X/771/1/37, 473582, ApJ88936","imcat",0,"ext-link","p","http://www.ifa.hawaii.edu/~Kaiser/imcat","We measured the S&sol;N and WSN for background obj",2013,"The Astrophysical Journal","The American Astronomical Society"
+"53","WCS Tools","apj_772_1_23.xml","apj474845, ASJOAB, 10.1088/0004-637X/772/1/23, 474845, ApJ88504","imcat",0,"ext-link","p","http://www.ifa.hawaii.edu/~kaiser/imcat/man/imcat.html","<ext-link ext-link-type=""url"">http://www.ifa.hawaii.edu/~kaiser/imcat/man/imcat.html</ext-link>",2013,"The Astrophysical Journal","The American Astronomical Society"
+"54","WCS Tools","apj_774_1_49.xml","apj480119, ASJOAB, 10.1088/0004-637X/774/1/49, 480119, ApJ90614","imcat",0,"ext-link","p","http://www.ifa.hawaii.edu/~kaiser/imcat/","<ext-link ext-link-type=""url"">http://www.ifa.hawaii.edu/~kaiser/imcat/</ext-link>",2013,"The Astrophysical Journal","The American Astronomical Society"
+"55","WCS Tools","apj_786_2_93.xml","apj493668, ASJOAB, 10.1088/0004-637X/786/2/93, 493668, ApJ90541","imcat",0,"italic","p","imcat","This mosaicking rule is calculated by <italic>imca",2014,"The Astrophysical Journal","The American Astronomical Society"
+"56","WCS Tools","apj_786_2_93.xml","apj493668, ASJOAB, 10.1088/0004-637X/786/2/93, 493668, ApJ90541","imcat",0,"italic","p","imcat","To construct the galaxy catalog from the mosaic im",2014,"The Astrophysical Journal","The American Astronomical Society"
+"57","WCS Tools","apj_786_2_93.xml","apj493668, ASJOAB, 10.1088/0004-637X/786/2/93, 493668, ApJ90541","imcat",0,"italic","p","imcat","To derive the ellipticities of the sources, we use",2014,"The Astrophysical Journal","The American Astronomical Society"
+"58","WCS Tools","apj_795_2_163.xml","apj502457, ASJOAB, 10.1088/0004-637X/795/2/163, 502457, ApJ95068","imcat",0,"sc","p","imcat","For shape measurements of background galaxies, we ",2014,"The Astrophysical Journal","The American Astronomical Society"
+"59","WCS Tools","apj_795_2_163.xml","apj502457, ASJOAB, 10.1088/0004-637X/795/2/163, 502457, ApJ95068","imcat",0,"sc","p","imcat","We thank the anonymous referee for the careful rea",2014,"The Astrophysical Journal","The American Astronomical Society"
+"60","WCS Tools","apj_807_1_22.xml","apj513685, 10.1088/0004-637X/807/1/22, 513685, ApJ98296","imcat",0,"p","sec","There is a cluster at Photo-<italic>z</italic> of ","
+<label>3.1.</label>
+<title>Correlation of the Pea",2015,"The Astrophysical Journal","The American Astronomical Society"
+"61","WCS Tools","apj_819_2_158.xml","apj522578, 10.3847/0004-637X/819/2/158, 522578, ApJ97148","imcat",0,"italic","p","imcat","We next assign a measurement error to each galaxy.",2016,"The Astrophysical Journal","The American Astronomical Society"
+"62","WCS Tools","apj_819_2_158.xml","apj522578, 10.3847/0004-637X/819/2/158, 522578, ApJ97148","imcat",0,"ext-link","p","http://www.ifa.hawaii.edu/~kaiser/imcat/","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2016,"The Astrophysical Journal","The American Astronomical Society"
+"63","WCS Tools","10.1086_345613.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/345613, APJL16714, 2002ApJ...580L..97M","imcat",0,"italic","p","imcat","We used the software suite <italic>imcat</italic>,",2002,"The Astrophysical Journal Letters","The University of Chicago Press"
+"64","WCS Tools","10.1086_345613.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/345613, APJL16714, 2002ApJ...580L..97M","imcat",0,"italic","p","imcat","We used the software suite <italic>imcat</italic>,",2002,"The Astrophysical Journal Letters","The University of Chicago Press"
+"65","WCS Tools","10.1086_345613.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/345613, APJL16714, 2002ApJ...580L..97M","imcat",0,"italic","p","imcat","Luppino & Kaiser (<xref ref-type=""bibr"" rid=""rf15""",2002,"The Astrophysical Journal Letters","The University of Chicago Press"
+"66","WCS Tools","apjl_769_2_35.xml","apjl471652, ASJOAB, 10.1088/2041-8205/769/2/L35, 471652, LET30424","imcat",0,"sc","p","imcat","We measure the shape of faint galaxies using a mod",2013,"The Astrophysical Journal Letters","The American Astronomical Society"
+"67","WCS Tools","apjl_769_2_35.xml","apjl471652, ASJOAB, 10.1088/2041-8205/769/2/L35, 471652, LET30424","imcat",0,"sc","p","imcat","We thank Ian McCarthy, Yannick BahÃ©, and Joop Scha",2013,"The Astrophysical Journal Letters","The American Astronomical Society"
+"68","WCS Tools","10.1086_508169.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/508169, APJS60361, 2006ApJS..167..103F","imcat",0,"p","fn","See http://www.ifa.hawaii.edu/âˆ¼kaiser/imcat.","
+<label>3</label>
+<p>See http://www.ifa.hawaii.edu/âˆ¼kaiser/imcat.</p>
+",2006,"The Astrophysical Journal Supplement Series","The University of Chicago Press"
+"69","WCS Tools","10.1086_516596.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/516596, APJS70350, 2007ApJS..172....9T","imcat",0,"ext-link","p","http://www.ifa.hawaii.edu/âˆ¼kaiser/imcat","IMCAT is distributed by Nick Kaiser at <ext-link e",2007,"The Astrophysical Journal Supplement Series","The University of Chicago Press"
+"70","WCS Tools","10.1086_519081.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/519081, APJS70408, 2007ApJS..172...99C","imcat",0,"p","fn","See http://www.ifa.hawaii.edu/âˆ¼kaiser/imcat/.","
+<label>36</label>
+<p>See http://www.ifa.hawaii.edu/âˆ¼kaiser/imcat/.</p>
+",2007,"The Astrophysical Journal Supplement Series","The University of Chicago Press"
+"71","WCS Tools","apjs_204_2_21.xml","apjs458113, ASJOAB, 10.1088/0067-0049/204/2/21, 458113","imcat",0,"monospace","p","imcat","The DEEP2 astrometry measurements were determined ",2013,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"72","WCS Tools","apjs_208_1_5.xml","apjs479035, ASJOAB, 10.1088/0067-0049/208/1/5, 479035, ApJS87158","imcat",0,"italic","p","imcat","The <italic>R</italic>-band images have the highes",2013,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"73","WCS Tools","apjs_228_1_7.xml","apjsaa53b1, 10.3847/1538-4365/228/1/7, aa53b1, AAS01018","imcat",0,"ext-link","p","http://www.ifa.hawaii.edu/~kaiser/imcat/","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2017,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"74","WCS Tools","10.1086_428002.xml","AJ204345, 2005AJ....129.1564K","imwcs",0,"italic","p","imwcs","We used <italic>imwcs</italic> in WCSTools (Mink <",2005,"The Astronomical Journal","The University of Chicago Press"
+"75","WCS Tools","10.1086_428002.xml","AJ204345, 2005AJ....129.1564K","imwcs",0,"p","sec","We used <italic>imwcs</italic> in WCSTools (Mink <","
+<label>2.2.<x> </x></label>
+<title>Optical Follow",2005,"The Astronomical Journal","The University of Chicago Press"
+"76","WCS Tools","10.1086_428002.xml","AJ204345, 2005AJ....129.1564K","imwcs",0,"italic","p","imwcs","We used <italic>imwcs</italic> in WCSTools (Mink <",2005,"The Astronomical Journal","The University of Chicago Press"
+"77","WCS Tools","10.1086_428489.xml","AJ204491, 2005AJ....129.1954J","imwcs",0,"italic","p","imwcs","The rotation angle of the trail plate is calculate",2005,"The Astronomical Journal","The University of Chicago Press"
+"78","WCS Tools","10.1086_505704.xml","AJ205090, 2006AJ....132.1100W","imwcs",0,"italic","p","imwcs","There were 36 sources detected in one or two of th",2006,"The Astronomical Journal","The University of Chicago Press"
+"79","WCS Tools","aj_140_3_897.xml","aj353385, ANJOAA, 10.1088/0004-6256/140/3/897, 353385","imwcs",0,"italic","p","imwcs","Errors presented in TableÂ <xref ref-type=""table"" r",2010,"The Astronomical Journal","The American Astronomical Society"
+"80","WCS Tools","aj_142_1_25.xml","aj392233, ANJOAA, 10.1088/0004-6256/142/1/25, 392233","imwcs",0,"italic","p","imwcs","We used the <italic>imwcs</italic> program written",2011,"The Astronomical Journal","The American Astronomical Society"
+"81","WCS Tools","10.1086_378977.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/378977, APJ58154, 2003ApJ...598.1112H","imwcs",0,"italic","p","imwcs","The
+World Coordinate System in the images was fixe",2003,"The Astrophysical Journal","The University of Chicago Press"
+"82","WCS Tools","10.1086_383084.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/383084, APJ59474, 2004ApJ...606..853H","imwcs",0,"italic","p","imwcs","The radio source in our highest resolution (<inlin",2004,"The Astrophysical Journal","The University of Chicago Press"
+"83","WCS Tools","10.1086_383084.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/383084, APJ59474, 2004ApJ...606..853H","imwcs",0,"p","sec","The radio source in our highest resolution (<inlin","
+<label>3.1.<x> </x></label>
+<title>Optical&amp;hy",2004,"The Astrophysical Journal","The University of Chicago Press"
+"84","WCS Tools","10.1086_431471.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/431471, APJ61838, 2005ApJ...629..233K","imwcs",0,"monospace","p","imwcs","We used the images delivered by the standard ACS p",2005,"The Astrophysical Journal","The University of Chicago Press"
+"85","WCS Tools","10.1086_431784.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/431784, APJ56974, 2005ApJ...630..228K","imwcs",0,"monospace","p","imwcs","M74 was observed by the Gemini North telescope as ",2005,"The Astrophysical Journal","The University of Chicago Press"
+"86","WCS Tools","10.1086_431784.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/431784, APJ56974, 2005ApJ...630..228K","imwcs",0,"p","sec","M74 was observed by the Gemini North telescope as ","
+<label>3.<x> </x></label>
+<title>OPTICAL AND RADI",2005,"The Astrophysical Journal","The University of Chicago Press"
+"87","WCS Tools","10.1086_517962.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/517962, APJ70571, 2007ApJ...662..294O","imwcs",0,"monospace","p","imwcs","Individual frames were stacked in IRAF with offset",2007,"The Astrophysical Journal","The University of Chicago Press"
+"88","WCS Tools","10.1086_517962.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/517962, APJ70571, 2007ApJ...662..294O","imwcs",0,"p","sec","Individual frames were stacked in IRAF with offset","
+<label>3.1.<x> </x></label>
+<title>Preprocessing ",2007,"The Astrophysical Journal","The University of Chicago Press"
+"89","WCS Tools","apj_695_1_511.xml","apj293623, ASJOAB, 10.1088/0004-637X/695/1/511, 293623","imwcs",0,"monospace","p","imwcs","We obtained near-IR images in the <italic>J</itali",2009,"The Astrophysical Journal","The American Astronomical Society"
+"90","WCS Tools","apj_701_2_1605.xml","apj309766, ASJOAB, 10.1088/0004-637X/701/2/1605, 309766","imwcs",0,"p","sec","After aligning all of the ground-based images, we ","<label>3.1.</label><title>Astrometry of Ground-Bas",2009,"The Astrophysical Journal","The American Astronomical Society"
+"91","WCS Tools","apj_714_1_45.xml","apj335571, ASJOAB, 10.1088/0004-637X/714/1/45, 335571","imwcs",0,"italic","p","imwcs","We observed TWA 30 at the Cerro Tololo 4.0 m Blanc",2010,"The Astrophysical Journal","The American Astronomical Society"
+"92","WCS Tools","apj_721_2_1206.xml","apj339076, ASJOAB, 10.1088/0004-637X/721/2/1206, 339076","imwcs",0,"monospace","p","imwcs","We obtained near-IR images in the <italic>J</itali",2010,"The Astrophysical Journal","The American Astronomical Society"
+"93","WCS Tools","apj_743_1_81.xml","apj406278, ASJOAB, 10.1088/0004-637X/743/1/81, 406278","imwcs",0,"tex-math","inline-formula","CDATA ${\tt imwcs}$?","<tex-math><?CDATA ${\tt imwcs}$?></tex-math><inlin",2011,"The Astrophysical Journal","The American Astronomical Society"
+"94","WCS Tools","apj_743_1_81.xml","apj406278, ASJOAB, 10.1088/0004-637X/743/1/81, 406278","imwcs",0,"p","sec","To search for extended host galaxy emission and&so","<label>4.</label><title>NEAR-INFRARED IMAGING</tit",2011,"The Astrophysical Journal","The American Astronomical Society"
+"95","WCS Tools","apj_752_1_59.xml","apj429575, ASJOAB, 10.1088/0004-637X/752/1/59, 429575","imwcs",0,"italic","p","imwcs","Each CCD frame was first corrected by overscan usi",2012,"The Astrophysical Journal","The American Astronomical Society"
+"96","WCS Tools","apj_755_2_105.xml","apj436936, ASJOAB, 10.1088/0004-637X/755/2/105, 436936","imwcs",0,"italic","p","imwcs","Figures <xref ref-type=""fig"" rid=""apj436936f4"">4</",2012,"The Astrophysical Journal","The American Astronomical Society"
+"97","WCS Tools","apj_755_2_105.xml","apj436936, ASJOAB, 10.1088/0004-637X/755/2/105, 436936","imwcs",0,"p","sec","Figures <xref ref-type=""fig"" rid=""apj436936f4"">4</","<label>3.3.</label><title>WIYN 3.5Â m Optical Imagi",2012,"The Astrophysical Journal","The American Astronomical Society"
+"98","WCS Tools","apjs_193_2_26.xml","apjs384351, ASJOAB, 10.1088/0067-0049/193/2/26, 384351","imwcs",0,"monospace","p","imwcs","We based our astrometric and photometric calibrati",2011,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"99","WCS Tools","apjs_193_2_28.xml","apjs386205, ASJOAB, 10.1088/0067-0049/193/2/28, 386205","imwcs",0,"italic","p","imwcs","Proper astrometry for each field was applied with ",2011,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"100","WCS Tools","apjs_193_2_28.xml","apjs386205, ASJOAB, 10.1088/0067-0049/193/2/28, 386205","imwcs",0,"italic","p","imwcs","Proper astrometry for each field was applied with ",2011,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"101","WCS Tools","apjs_193_2_28.xml","apjs386205, ASJOAB, 10.1088/0067-0049/193/2/28, 386205","imwcs",0,"italic","p","imwcs","Proper astrometry for each field was applied with ",2011,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"102","WCS Tools","apjs_193_2_28.xml","apjs386205, ASJOAB, 10.1088/0067-0049/193/2/28, 386205","imwcs",0,"italic","p","imwcs","Proper astrometry for each field was applied with ",2011,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"103","WCS Tools","apjs_203_1_2.xml","apjs442428, ASJOAB, 10.1088/0067-0049/203/1/2, 442428","sky2xy",0,"monospace","p","sky2xy","For the WT mode event data, both the preliminary a",2012,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"104","WCS Tools","10.1086_588810.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/588810, APJ74161, 2008ApJ...682..445C","WCS Tools",0,"p","sec","The near&hyphen;IR data reduction was performed us","
+<label>2.2.<x> </x></label>
+<title>Near&amp;hyphe",2008,"The Astrophysical Journal","The University of Chicago Press"
+"105","WCS Tools","10.1086_511155.xml","AJ205361, 2007AJ....133.1247L","WCSLIB",0,"p","sec","The latest version of the software used by the Spa","
+<label>3.<x> </x></label>
+<title>SOFTWARE</title>",2007,"The Astronomical Journal","The University of Chicago Press"
+"106","WCS Tools","apj_846_1_67.xml","apjaa844d, 10.3847/1538-4357/aa844d, aa844d, AAS05781","WCSLIB",0,"p","app","Architecturally, previous versions of GALPROP are ","
+<label>Appendix</label>
+<title>GALPROP Version 56",2017,"The Astrophysical Journal","The American Astronomical Society"
+"107","WCS Tools","apj_846_1_67.xml","apjaa844d, 10.3847/1538-4357/aa844d, aa844d, AAS05781","WCSLIB",0,"p","app","Architecturally, previous versions of GALPROP are ","
+<label>Appendix</label>
+<title>GALPROP Version 56",2017,"The Astrophysical Journal","The American Astronomical Society"
+"108","WCS Tools","10.1086_300338.xml","AJ970497, 1998AJ....115.2074B","WCSTools",0,"p","sec","From the spectroscopic follow&hyphen;up observatio","
+<label>3.<x> </x></label>
+<title>RESULTS</title>
+",1998,"The Astronomical Journal","The University of Chicago Press"
+"109","WCS Tools","10.1086_300997.xml","AJ980378, 1999AJ....118.1354B","WCSTools",0,"p","sec","To identify optical counterparts to each X&hyphen;","
+<label>3.2.<x> </x></label>
+<title>Identification",1999,"The Astronomical Journal","The University of Chicago Press"
+"110","WCS Tools","10.1086_318776.xml","AJ200440, 2001AJ....121..974G","WCSTools",0,"ext-link","p","ftp://cfa&hyphen;ftp.harvard.edu/pub/gsc/WCSTools","Available at
+<ext-link ext-link-type=""ftp"" xlink:h",2001,"The Astronomical Journal","The University of Chicago Press"
+"111","WCS Tools","10.1086_320409.xml","AJ200568, 2001AJ....121.2673K","WCSTools",0,"p","sec","<xref ref-type=""table"" rid=""tb1"">Table 1</xref> li","
+<label>2.<x> </x></label>
+<title>OBSERVATIONS AND",2001,"The Astronomical Journal","The University of Chicago Press"
+"112","WCS Tools","10.1086_320409.xml","AJ200568, 2001AJ....121.2673K","WCSTools",0,"ext-link","p","ftp://cfa&hyphen;ftp.harvard.edu/pub/gsc/WCSTools","Available at
+<ext-link ext-link-type=""ftp"" xlink:h",2001,"The Astronomical Journal","The University of Chicago Press"
+"113","WCS Tools","10.1086_321176.xml","AJ201070, 2001AJ....122..714B","WCSTools",0,"p","sec","Good
+astrometry is critical for working with multi","
+<label>2.2.<x> </x></label>
+<title>Astrometry</ti",2001,"The Astronomical Journal","The University of Chicago Press"
+"114","WCS Tools","10.1086_342738.xml","AJ202198, 2002AJ....124.2178R","WCSTools",0,"p","sec","To derive coordinates for our survey stars, we use","
+<label>2.<x> </x></label>
+<title>OBSERVATIONS AND",2002,"The Astronomical Journal","The University of Chicago Press"
+"115","WCS Tools","10.1086_342738.xml","AJ202198, 2002AJ....124.2178R","WCSTools",0,"ext-link","p","ftp://cfa&hyphen;ftp.harvard.edu/pub/gsc/WCSTools","Available at
+<ext-link ext-link-type=""ftp"" xlink:h",2002,"The Astronomical Journal","The University of Chicago Press"
+"116","WCS Tools","10.1086_342738.xml","AJ202198, 2002AJ....124.2178R","WCSTools",0,"p","sec","We are grateful to the CTIO staff, specially to M.","
+<title></title><p>We are grateful to the CTIO sta",2002,"The Astronomical Journal","The University of Chicago Press"
+"117","WCS Tools","10.1086_344306.xml","AJ202165, 2002AJ....124.3289B","WCSTools",0,"p","sec","We
+obtained shallow Johnson <italic>V</italic> and","
+<label>2.1.<x> </x></label>
+<title>Optical Photom",2002,"The Astronomical Journal","The University of Chicago Press"
+"118","WCS Tools","10.1086_346277.xml","AJ202451, 2003AJ....125.1537T","WCSTools",0,"p","sec","We tentatively extracted sources from each QUIRC f","
+<label>3.<x> </x></label>
+<title>ANALYSIS</title>",2003,"The Astronomical Journal","The University of Chicago Press"
+"119","WCS Tools","10.1086_346277.xml","AJ202451, 2003AJ....125.1537T","wcstools",0,"ext-link","p","http://tdc&hyphen;www.harvard.edu/software/wcstools/","See
+<ext-link ext-link-type=""uri"" xlink:href=""http",2003,"The Astronomical Journal","The University of Chicago Press"
+"120","WCS Tools","10.1086_377620.xml","AJ203119, 2003AJ....126.1665L","WCSTools",0,"p","sec","Relative astrometry for each source was determined","
+<label>2.1.<x> </x></label>
+<title>Photometry</ti",2003,"The Astronomical Journal","The University of Chicago Press"
+"121","WCS Tools","10.1086_424863.xml","AJ204247, 2004AJ....128.2316S","wcstools",0,"ext-link","p","http://tdc&hyphen;www.harvard.edu/software/wcstools","Documentation and source code are available at <ex",2004,"The Astronomical Journal","The University of Chicago Press"
+"122","WCS Tools","10.1086_428489.xml","AJ204491, 2005AJ....129.1954J","WCSTools",0,"p","sec","The rotation angle of the trail plate is calculate","
+<label>4.1.<x> </x></label>
+<title>Initial Data P",2005,"The Astronomical Journal","The University of Chicago Press"
+"123","WCS Tools","10.1086_428489.xml","AJ204491, 2005AJ....129.1954J","WCSTools",0,"p","fn","WCSTools is available at <ext-link ext-link-type=""","
+<label>3</label>
+<p>WCSTools is available at <ext",2005,"The Astronomical Journal","The University of Chicago Press"
+"124","WCS Tools","10.1086_428489.xml","AJ204491, 2005AJ....129.1954J","wcstools",0,"ext-link","p","http://tdc&hyphen;www.harvard.edu/software/wcstools/","WCSTools is available at <ext-link ext-link-type=""",2005,"The Astronomical Journal","The University of Chicago Press"
+"125","WCS Tools","10.1086_505704.xml","AJ205090, 2006AJ....132.1100W","WCSTools",0,"p","sec","There were 36 sources detected in one or two of th","
+<label>6.<x> </x></label>
+<title>INFRARED PROPERT",2006,"The Astronomical Journal","The University of Chicago Press"
+"126","WCS Tools","10.1086_510901.xml","AJ205399, 2007AJ....133.1321G","WCSTools",0,"p","sec","Relative astrometry for each object was determined","
+<label>2.1.<x> </x></label>
+<title>Photometry</ti",2007,"The Astronomical Journal","The University of Chicago Press"
+"127","WCS Tools","10.1086_518230.xml","AJ205487, 2007AJ....134...14D","WCSTools",0,"p","sec","The world coordinate system (WCS) telemetry from t","
+<label>3.1.<x> </x></label>
+<title>Narrowband HÎ±+",2007,"The Astronomical Journal","The University of Chicago Press"
+"128","WCS Tools","aj_137_5_4339.xml","aj290030, ANJOAA, 10.1088/0004-6256/137/5/4339, 290030","WCSTools",0,"p","sec","The registration into the coordinate system of the","
+<label>3.9.</label>
+<title>CCD Orientation</title",2009,"The Astronomical Journal","The American Astronomical Society"
+"129","WCS Tools","aj_137_5_4339.xml","aj290030, ANJOAA, 10.1088/0004-6256/137/5/4339, 290030","WCSTools",0,"p","fn","WCSTools is available at <ext-link ext-link-type=""","<label>8</label><p>WCSTools is available at <ext-l",2009,"The Astronomical Journal","The American Astronomical Society"
+"130","WCS Tools","aj_139_5_1782.xml","aj335185, ANJOAA, 10.1088/0004-6256/139/5/1782, 335185","WCSTools",0,"p","sec","The Harvard Observatory archives contain over 500,","
+<label>3.4.</label><title>Blind Astrometric Calib",2010,"The Astronomical Journal","The American Astronomical Society"
+"131","WCS Tools","aj_140_3_897.xml","aj353385, ANJOAA, 10.1088/0004-6256/140/3/897, 353385","WCSTools",0,"p","fn","A World Coordinate System setting program from the","<label>11</label><p>A World Coordinate System sett",2010,"The Astronomical Journal","The American Astronomical Society"
+"132","WCS Tools","aj_140_4_1062.xml","aj293695, ANJOAA, 10.1088/0004-6256/140/4/1062, 293695","WCSTools",0,"p","sec","An automated procedure based upon routines in WCST","<label>3.</label><title>ASTROMETRIC SOLUTION</titl",2010,"The Astronomical Journal","The American Astronomical Society"
+"133","WCS Tools","aj_140_4_1062.xml","aj293695, ANJOAA, 10.1088/0004-6256/140/4/1062, 293695","wcstools",0,"ext-link","p","tdc-www.harvard.edu/software/wcstools/","An automated procedure based upon routines in WCST",2010,"The Astronomical Journal","The American Astronomical Society"
+"134","WCS Tools","aj_142_1_2.xml","aj388417, ANJOAA, 10.1088/0004-6256/142/1/2, 388417","wcstools",0,"monospace","p","wcstools","We performed astrometry using the USNO-B1.0 catalo",2011,"The Astronomical Journal","The American Astronomical Society"
+"135","WCS Tools","aj_142_2_58.xml","aj396527, ANJOAA, 10.1088/0004-6256/142/2/58, 396527","WCSTools",0,"p","sec","These data were reduced using <italic>cirred</ital","
+<label>2.1.</label><title>IR Photometry</title>
+<",2011,"The Astronomical Journal","The American Astronomical Society"
+"136","WCS Tools","aj_142_2_58.xml","aj396527, ANJOAA, 10.1088/0004-6256/142/2/58, 396527","WCSTools",0,"p","sec","These data were reduced using <italic>cirred</ital","
+<label>2.1.</label><title>IR Photometry</title>
+<",2011,"The Astronomical Journal","The American Astronomical Society"
+"137","WCS Tools","aj_142_5_155.xml","aj402061, ANJOAA, 10.1088/0004-6256/142/5/155, 402061","wcstools",0,"ext-link","p","http://tdc-www.harvard.edu/wcstools","<ext-link ext-link-type=""url"">http://tdc-www.harvard.edu/wcstools</ext-link>",2011,"The Astronomical Journal","The American Astronomical Society"
+"138","WCS Tools","aj_153_3_96.xml","ajaa531b, 10.3847/1538-3881/153/3/96, aa531b, AAS02381","wcstools",0,"ext-link","comment","http://tdc-www.harvard.edu/software/wcstools.html","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2017,"The Astronomical Journal","The American Astronomical Society"
+"139","WCS Tools","aj_154_4_173.xml","ajaa89ef, 10.3847/1538-3881/aa89ef, aa89ef, AAS06218","WCSTools",0,"p","sec","For the analyses of imaging data obtained from OAO","
+<label>2.2.</label>
+<title>Data Reduction and Ana",2017,"The Astronomical Journal","The American Astronomical Society"
+"140","WCS Tools","10.1086_339572.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/339572, APJ54881, 2002ApJ...570..408F","WCSTools",0,"p","sec","We used routines found in the WCSTools software li","
+<label>4.3.<x> </x></label>
+<title>File and Date ",2002,"The Astrophysical Journal","The University of Chicago Press"
+"141","WCS Tools","10.1086_339572.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/339572, APJ54881, 2002ApJ...570..408F","WCSTools",0,"p","sec","This work is supported by NASA under grant NAG 5&h","
+<title></title>
+<p>This work is supported by NASA",2002,"The Astrophysical Journal","The University of Chicago Press"
+"142","WCS Tools","10.1086_342702.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/342702, APJ54989, 2002ApJ...579...83M","WCSTools",0,"p","sec","Coordinates were established using WCSTools (Mink
+","
+<label>2.<x> </x></label>
+<title>THE FOREGROUND T",2002,"The Astrophysical Journal","The University of Chicago Press"
+"143","WCS Tools","10.1086_342702.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/342702, APJ54989, 2002ApJ...579...83M","WCSTools",0,"p","sec","We are indebted to D. Finkbeiner for valuable and ","
+<title></title><p>We are indebted to D. Finkbeine",2002,"The Astrophysical Journal","The University of Chicago Press"
+"144","WCS Tools","10.1086_343127.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/343127, APJ55704, 2002ApJ...580..317B","WCSTools",0,"p","sec","Coordinates were
+measured with the astrometric rou","
+<label>2.2.<x> </x></label>
+<title>Optical Photom",2002,"The Astrophysical Journal","The University of Chicago Press"
+"145","WCS Tools","10.1086_383084.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/383084, APJ59474, 2004ApJ...606..853H","wcstools",0,"ext-link","p","http://tdc&hyphen;www.harvard.edu/software/wcstools","Available from <ext-link ext-link-type=""uri"" xlink",2004,"The Astrophysical Journal","The University of Chicago Press"
+"146","WCS Tools","10.1086_383084.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/383084, APJ59474, 2004ApJ...606..853H","WCSTools",0,"p","sec","K. K. D. is supported by a National Science Founda","
+<title></title><p>K. K. D. is supported by a Nati",2004,"The Astrophysical Journal","The University of Chicago Press"
+"147","WCS Tools","10.1086_383084.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/383084, APJ59474, 2004ApJ...606..853H","wcstools",0,"ext-link","p","http://tdc&hyphen;www.harvard.edu/software/wcstools.html","K. K. D. is supported by a National Science Founda",2004,"The Astrophysical Journal","The University of Chicago Press"
+"148","WCS Tools","10.1086_431784.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/431784, APJ56974, 2005ApJ...630..228K","WCSTools",0,"p","fn","WCSTools documentation can be found at <ext-link e","
+<label>5</label>
+<p>WCSTools documentation can be",2005,"The Astrophysical Journal","The University of Chicago Press"
+"149","WCS Tools","10.1086_431784.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/431784, APJ56974, 2005ApJ...630..228K","wcstools",0,"ext-link","p","http://tdc&hyphen;www.harvard.edu/software/wcstools/","WCSTools documentation can be found at <ext-link e",2005,"The Astrophysical Journal","The University of Chicago Press"
+"150","WCS Tools","10.1086_502621.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/502621, APJ63301, 2006ApJ...643..128W","wcstools",0,"monospace","p","wcstools","For each device in each contributing exposure, we ",2006,"The Astrophysical Journal","The University of Chicago Press"
+"151","WCS Tools","10.1086_503521.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/503521, APJ64191, 2006ApJ...644..116M","WCSTools",0,"p","sec","We calculated astrometric solutions for the images","
+<label>2.2.<x> </x></label>
+<title>Ground&amp;hyp",2006,"The Astrophysical Journal","The University of Chicago Press"
+"152","WCS Tools","10.1086_508530.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/508530, APJ65203, 2006ApJ...652.1133M","WCSTools",0,"p","list-item","<italic>Astrometry</italic>.â€”We calculated celesti","
+<label>7. </label><p><italic>Astrometry</italic>.",2006,"The Astrophysical Journal","The University of Chicago Press"
+"153","WCS Tools","10.1086_509322.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/509322, APJ65924, 2007ApJ...655..885R","WCSTools",0,"p","sec","The absolute coordinate system was found by compar","
+<label>2.<x> </x></label>
+<title>OBSERVATIONS, DA",2007,"The Astrophysical Journal","The University of Chicago Press"
+"154","WCS Tools","10.1086_517962.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/517962, APJ70571, 2007ApJ...662..294O","wcstools",0,"ext-link","p","http://tdc-www.cfa.harvard.edu/software/wcstools/","Available at <ext-link ext-link-type=""uri"" xlink:h",2007,"The Astrophysical Journal","The University of Chicago Press"
+"155","WCS Tools","10.1086_519068.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/519068, APJ71116, 2007ApJ...664..850M","WCSTools",0,"p","sec","A master star catalog was created from the 15 indi","
+<label>2.<x> </x></label>
+<title>OBSERVATIONS</ti",2007,"The Astrophysical Journal","The University of Chicago Press"
+"156","WCS Tools","10.1086_519068.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/519068, APJ71116, 2007ApJ...664..850M","wcstools",0,"ext-link","p","http://tdc&hyphen;www.harvard.edu/software/wcstools/","See <ext-link ext-link-type=""uri"" xlink:href=""http",2007,"The Astrophysical Journal","The University of Chicago Press"
+"157","WCS Tools","10.1086_519308.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/519308, APJ71804, 2007ApJ...665..306G","WCSTools",0,"p","sec","D. A. G. kindly acknowledges the support of the Ge","
+<title></title><p>D. A. G. kindly acknowledges th",2007,"The Astrophysical Journal","The University of Chicago Press"
+"158","WCS Tools","10.1086_521044.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/521044, APJ71835, 2007ApJ...667..963S","wcstools",0,"ext-link","p","http://tdc&hyphen;www.harvard.edu/software/wcstools","See <ext-link ext-link-type=""uri"" xlink:href=""http",2007,"The Astrophysical Journal","The University of Chicago Press"
+"159","WCS Tools","10.1086_522690.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/522690, APJ72057, 2007ApJ...671..190S","WCSTools",0,"p","sec","Each image was reduced using the standard procedur","
+<label>2.1.<x> </x></label>
+<title>SOAR Observati",2007,"The Astrophysical Journal","The University of Chicago Press"
+"160","WCS Tools","10.1086_588722.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/588722, APJ73877, 2008ApJ...681..290S","WCSTools",0,"p","fn","The WCSTools package is available at CfA at <ext-l","
+<label>3</label>
+<p>The WCSTools package is avail",2008,"The Astrophysical Journal","The University of Chicago Press"
+"161","WCS Tools","10.1086_588722.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/588722, APJ73877, 2008ApJ...681..290S","wcstools",0,"ext-link","p","http://tdc&hyphen;www.harvard.edu/software/wcstools","The WCSTools package is available at CfA at <ext-l",2008,"The Astrophysical Journal","The University of Chicago Press"
+"162","WCS Tools","apj_695_1_511.xml","apj293623, ASJOAB, 10.1088/0004-637X/695/1/511, 293623","wcstools",0,"monospace","p","wcstools","We obtained near-IR images in the <italic>J</itali",2009,"The Astrophysical Journal","The American Astronomical Society"
+"163","WCS Tools","apj_701_2_1605.xml","apj309766, ASJOAB, 10.1088/0004-637X/701/2/1605, 309766","wcstools",0,"ext-link","p","http://tdc-www.cfa.harvard.edu/software/wcstools/","<ext-link ext-link-type=""url"">http://tdc-www.cfa.harvard.edu/software/wcstools/</ext-link>",2009,"The Astrophysical Journal","The American Astronomical Society"
+"164","WCS Tools","apj_708_2_946.xml","apj333485, ASJOAB, 10.1088/0004-637X/708/2/946, 333485","WCSTools",0,"p","sec","Being aware of its X-ray tail, we observed ESO 137","<label>6.1.</label><title>The <italic>Chandra</ita",2010,"The Astrophysical Journal","The American Astronomical Society"
+"165","WCS Tools","apj_710_1_583.xml","apj331163, ASJOAB, 10.1088/0004-637X/710/1/583, 331163","WCSTools",0,"p","sec","The data were corrected for bias, dark current, an","
+<label>2.2.</label><title>Near-IR Data</title>
+<p",2010,"The Astrophysical Journal","The American Astronomical Society"
+"166","WCS Tools","apj_711_2_731.xml","apj327362, ASJOAB, 10.1088/0004-637X/711/2/731, 327362","WCSTools",0,"p","app","We apply these relations to the 3006 objects with ","<label>APPENDIX B</label><title>PHOTOMETRIC CALIBR",2010,"The Astrophysical Journal","The American Astronomical Society"
+"167","WCS Tools","apj_713_2_1073.xml","apj341174, ASJOAB, 10.1088/0004-637X/713/2/1073, 341174","WCSTools",0,"monospace","p","WCSTools","The host of SN 2007if is not visible in pre-explos",2010,"The Astrophysical Journal","The American Astronomical Society"
+"168","WCS Tools","apj_721_2_1206.xml","apj339076, ASJOAB, 10.1088/0004-637X/721/2/1206, 339076","wcstools",0,"monospace","p","wcstools","We obtained near-IR images in the <italic>J</itali",2010,"The Astrophysical Journal","The American Astronomical Society"
+"169","WCS Tools","apj_733_1_3.xml","apj387316, ASJOAB, 10.1088/0004-637X/733/1/3, 387316","WCSTools",0,"monospace","p","WCSTools","LRIS blue channel photometry was processed in IRAF",2011,"The Astrophysical Journal","The American Astronomical Society"
+"170","WCS Tools","apj_739_2_57.xml","apj399721, ASJOAB, 10.1088/0004-637X/739/2/57, 399721","WCSTools",0,"p","sec","The initial imaging analysisfloatout type=""fig"" id","<label>3.2.</label><title>Initial Calibration</tit",2011,"The Astrophysical Journal","The American Astronomical Society"
+"171","WCS Tools","apj_750_1_86.xml","apj425132, ASJOAB, 10.1088/0004-637X/750/1/86, 425132","WCSTools",0,"p","sec","Near-infrared imaging of SDSS0845 was obtained at ","<label>2.2.</label><title>AAT, SOFI, UKIDSS, <ital",2012,"The Astrophysical Journal","The American Astronomical Society"
+"172","WCS Tools","apj_750_1_86.xml","apj425132, ASJOAB, 10.1088/0004-637X/750/1/86, 425132","wcstools",0,"ext-link","p","http://tdc-www.harvard.edu/wcstools","<ext-link ext-link-type=""url"">http://tdc-www.harvard.edu/wcstools</ext-link>",2012,"The Astrophysical Journal","The American Astronomical Society"
+"173","WCS Tools","apj_751_1_22.xml","apj426650, ASJOAB, 10.1088/0004-637X/751/1/22, 426650","WCSTools",0,"p","sec","Coordinates for all objects were determined relati","<label>2.</label><title>OBSERVATIONS AND DATA REDU",2012,"The Astrophysical Journal","The American Astronomical Society"
+"174","WCS Tools","apj_751_1_22.xml","apj426650, ASJOAB, 10.1088/0004-637X/751/1/22, 426650","wcstools",0,"ext-link","p","http://tdc-www.harvard.edu/wcstools/","<ext-link ext-link-type=""url"">http://tdc-www.harvard.edu/wcstools/</ext-link>",2012,"The Astrophysical Journal","The American Astronomical Society"
+"175","WCS Tools","apj_752_1_59.xml","apj429575, ASJOAB, 10.1088/0004-637X/752/1/59, 429575","WCSTools",0,"italic","p","WCSTools","Each CCD frame was first corrected by overscan usi",2012,"The Astrophysical Journal","The American Astronomical Society"
+"176","WCS Tools","apj_754_1_27.xml","apj433057, ASJOAB, 10.1088/0004-637X/754/1/27, 433057","wcstools",0,"ext-link","p","http://tdc-www.harvard.edu/wcstools/","<ext-link ext-link-type=""url"">http://tdc-www.harvard.edu/wcstools/</ext-link>",2012,"The Astrophysical Journal","The American Astronomical Society"
+"177","WCS Tools","apj_755_2_165.xml","apj436239, ASJOAB, 10.1088/0004-637X/755/2/165, 436239","wcstools",0,"ext-link","p","http://tdc-www.cfa.harvard.edu/wcstools","<ext-link ext-link-type=""url"">http://tdc-www.cfa.harvard.edu/wcstools</ext-link>",2012,"The Astrophysical Journal","The American Astronomical Society"
+"178","WCS Tools","apj_755_2_165.xml","apj436239, ASJOAB, 10.1088/0004-637X/755/2/165, 436239","wcstools",0,"ext-link","p","http://tdc-www.harvard.edu/wcstools","<ext-link ext-link-type=""url"">http://tdc-www.harvard.edu/wcstools</ext-link>",2012,"The Astrophysical Journal","The American Astronomical Society"
+"179","WCS Tools","apj_763_2_96.xml","apj455167, ASJOAB, 10.1088/0004-637X/763/2/96, 455167","WCSTools",0,"p","sec","In order to perform our stacking analysis accurate","<label>2.1.1.</label><title>Data Reduction</title>",2013,"The Astrophysical Journal","The American Astronomical Society"
+"180","WCS Tools","apj_767_1_62.xml","apj463686, ASJOAB, 10.1088/0004-637X/767/1/62, 463686","wcstools",0,"ext-link","p","http://tdc-www.harvard.edu/wcstools/","Images were pre-reduced (bias-subtracted, trimmed,",2013,"The Astrophysical Journal","The American Astronomical Society"
+"181","WCS Tools","apj_770_2_107.xml","apj471518, ASJOAB, 10.1088/0004-637X/770/2/107, 471518, ApJ90165","WCSTools",0,"monospace","p","WCSTools","SNIFS images were processed in IRAF<xref ref-type=",2013,"The Astrophysical Journal","The American Astronomical Society"
+"182","WCS Tools","apj_778_1_19.xml","apj485961, ASJOAB, 10.1088/0004-637X/778/1/19, 485961, ApJ92336","WCSTools",0,"p","sec","The observed optical raw data were reduced in a st","<label>2.6.</label><title>Data Reduction</title>
+<",2013,"The Astrophysical Journal","The American Astronomical Society"
+"183","WCS Tools","apj_787_1_55.xml","apj494318, ASJOAB, 10.1088/0004-637X/787/1/55, 494318, ApJ94358","WCSTools",0,"p","sec","The raw images were reduced in the standard manner","<label>2.</label><title>OBSERVATIONS AND DATA REDU",2014,"The Astrophysical Journal","The American Astronomical Society"
+"184","WCS Tools","apj_789_2_138.xml","apj496686, ASJOAB, 10.1088/0004-637X/789/2/138, 496686, ApJ94870","WCSTools",0,"p","sec","These photographic plates, after being manually cl","<label>2.2.1.</label><title>Palomar Plates: 1951â€“1",2014,"The Astrophysical Journal","The American Astronomical Society"
+"185","WCS Tools","apj_809_1_17.xml","apj517119, 10.1088/0004-637X/809/1/17, 517119, ApJ96422","WCSTools",0,"p","sec","Basic parameters of the <italic>Herschel</italic> ","
+<label>2.</label>
+<title>ARCHIVAL <italic>HERSCHE",2015,"The Astrophysical Journal","The American Astronomical Society"
+"186","WCS Tools","apj_815_2_120.xml","apj521397, 10.1088/0004-637X/815/2/120, 521397, ApJ100098","wcstools",0,"ext-link","p","http://tdc-www.harvard.edu/wcstools/","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2015,"The Astrophysical Journal","The American Astronomical Society"
+"187","WCS Tools","apj_818_1_67.xml","apj522377, 10.3847/0004-637X/818/1/67, 522377, ApJ101135","WCSTools",0,"p","sec","We exploited only R<sub>C</sub>-band data because ","
+<label>2.2.</label>
+<title>Data Reduction</title>",2016,"The Astrophysical Journal","The American Astronomical Society"
+"188","WCS Tools","apj_825_2_151.xml","apjaa2593, 10.3847/0004-637X/825/2/151, aa2593, LET33802","wcstools",0,"italic","p","wcstools","We reduced the data (bias subtraction and flatâ€“fie",2016,"The Astrophysical Journal","The American Astronomical Society"
+"189","WCS Tools","apj_825_2_151.xml","apjaa2593, 10.3847/0004-637X/825/2/151, aa2593, LET33802","wcstools",0,"ext-link","p","http://tdc-www.harvard.edu/wcstools","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2016,"The Astrophysical Journal","The American Astronomical Society"
+"190","WCS Tools","apj_837_1_62.xml","apjaa607e, 10.3847/1538-4357/aa607e, aa607e, AAS01989","WCSTools",0,"italic","p","WCSTools","The frames taken with DIAFI were reduced and calib",2017,"The Astrophysical Journal","The American Astronomical Society"
+"191","WCS Tools","apj_837_1_62.xml","apjaa607e, 10.3847/1538-4357/aa607e, aa607e, AAS01989","wcstools",0,"ext-link","p","http://tdc-www.harvard.edu/wcstools/","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2017,"The Astrophysical Journal","The American Astronomical Society"
+"192","WCS Tools","apj_837_1_62.xml","apjaa607e, 10.3847/1538-4357/aa607e, aa607e, AAS01989","WCSTools",0,"italic","p","WCSTools","<italic>Software</italic>: IRAF, <italic>WCSTools<",2017,"The Astrophysical Journal","The American Astronomical Society"
+"193","WCS Tools","apj_850_2_155.xml","apjaa93f0, 10.3847/1538-4357/aa93f0, aa93f0, AAS06548","WCSTools",0,"p","sec","Optical photometric observations of MAXI J1807&plu","
+<label>3.</label>
+<title>Optical Observations and",2017,"The Astrophysical Journal","The American Astronomical Society"
+"194","WCS Tools","10.1086_499399.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/499399, APJL20050, 2005ApJ...635L.125G","WCSTools",0,"p","sec","We thank P. Berlind and M. Calkins for their exper","
+<title></title><p>We thank P. Berlind and M. Calk",2005,"The Astrophysical Journal Letters","The University of Chicago Press"
+"195","WCS Tools","10.1086_508350.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/508350, APJL20963, 2006ApJ...649L.111R","WCSTools",0,"p","sec","For the purposes of accurate astrometry and to red","
+<label>2.<x> </x></label>
+<title>OBSERVATIONS</ti",2006,"The Astrophysical Journal Letters","The University of Chicago Press"
+"196","WCS Tools","10.1086_589922.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/589922, APJL22720, 2008ApJ...681L...9P","WCSTools",0,"p","sec","Accurate coordinates are needed in order to search","
+<label>2.<x> </x></label>
+<title>SEARCHING FOR TH",2008,"The Astrophysical Journal Letters","The University of Chicago Press"
+"197","WCS Tools","apjl_765_1_19.xml","apjl462080, ASJOAB, 10.1088/2041-8205/765/1/L19, 462080","wcstools",0,"italic","p","wcstools","We computed the astrometry calibration with the <i",2013,"The Astrophysical Journal Letters","The American Astronomical Society"
+"198","WCS Tools","apjl_765_1_19.xml","apjl462080, ASJOAB, 10.1088/2041-8205/765/1/L19, 462080","wcstools",0,"ext-link","p","http://tdc-www.harvard.edu/wcstools/","<ext-link ext-link-type=""url"">http://tdc-www.harvard.edu/wcstools/</ext-link>",2013,"The Astrophysical Journal Letters","The American Astronomical Society"
+"199","WCS Tools","10.1086_380120.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/380120, APJS58632, 2004ApJS..150....1B","wcstools",0,"p","sec","The absolute accuracy of the positions derived fro","
+<label>3.1.<x> </x></label>
+<title>Image Processi",2004,"The Astrophysical Journal Supplement Series","The University of Chicago Press"
+"200","WCS Tools","10.1086_430443.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/430443, APJS58869, 2005ApJS..159..214K","WCSTools",0,"p","sec","Except where noted, all optical observations were ","
+<label>2.3.<x> </x></label>
+<title>Optical Data A",2005,"The Astrophysical Journal Supplement Series","The University of Chicago Press"
+"201","WCS Tools","10.1086_507273.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/507273, APJS65402, 2006ApJS..166..549G","WCSTools",0,"p","sec","D. Gouliermis acknowledges the support of the Germ","
+<title></title><p>D. Gouliermis acknowledges the ",2006,"The Astrophysical Journal Supplement Series","The University of Chicago Press"
+"202","WCS Tools","apjs_185_1_85.xml","apjs315630, ASJOAB, 10.1088/0067-0049/185/1/85, 315630","wcstools",0,"monospace","p","wcstools","The individual exposures were processed using stan",2009,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"203","WCS Tools","apjs_193_2_26.xml","apjs384351, ASJOAB, 10.1088/0067-0049/193/2/26, 384351","WCSTools",0,"p","sec","We based our astrometric and photometric calibrati","<label>3.3.</label><title>Astrometric and Photomet",2011,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"204","WCS Tools","apjs_193_2_26.xml","apjs384351, ASJOAB, 10.1088/0067-0049/193/2/26, 384351","wcstools",0,"ext-link","p","http://tdc-www.harvard.edu/software/wcstools.html","<ext-link ext-link-type=""url"">http://tdc-www.harvard.edu/software/wcstools.html</ext-link>",2011,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"205","WCS Tools","aj_142_5_155.xml","aj402061, ANJOAA, 10.1088/0004-6256/142/5/155, 402061","xy2sky",0,"p","sec","We determined the astrometric solution of our mast","<label>3.2.</label><title>Astrometric and Photomet",2011,"The Astronomical Journal","The American Astronomical Society"
+"206","WCS Tools","10.1086_519068.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/519068, APJ71116, 2007ApJ...664..850M","xy2sky",0,"monospace","p","xy2sky","A master star catalog was created from the 15 indi",2007,"The Astrophysical Journal","The University of Chicago Press"
+"207","WCS Tools","10.1086_588722.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/588722, APJ73877, 2008ApJ...681..290S","xy2sky",0,"monospace","p","xy2sky","Photometry was performed with the ACS module of th",2008,"The Astrophysical Journal","The University of Chicago Press"
+"208","WCS Tools","10.1086_588722.xml","http://www.journals.uchicago.edu/doi/abs/10.1086/588722, APJ73877, 2008ApJ...681..290S","xy2sky",0,"p","sec","Photometry was performed with the ACS module of th","
+<label>2.<x> </x></label>
+<title>OBSERVATIONS AND",2008,"The Astrophysical Journal","The University of Chicago Press"
+"209","WCS Tools","apj_756_1_32.xml","apj437216, ASJOAB, 10.1088/0004-637X/756/1/32, 437216","xy2sky",0,"sc","p","xy2sky","The merged ACIS image was registered to the Field ",2012,"The Astrophysical Journal","The American Astronomical Society"
+"210","WCS Tools","apj_757_1_40.xml","apj440672, ASJOAB, 10.1088/0004-637X/757/1/40, 440672","xy2sky",0,"sc","p","xy2sky","We havefloatout type=""tab"" id=""apj440672t1""? analy",2012,"The Astrophysical Journal","The American Astronomical Society"
+"211","WCS Tools","apj_772_2_126.xml","apj476826, ASJOAB, 10.1088/0004-637X/772/2/126, 476826, LET30124R3","xy2sky",0,"sc","p","xy2sky","We were unable to register the <italic>Chandra</it",2013,"The Astrophysical Journal","The American Astronomical Society"
+"212","WCS Tools","apjs_203_1_2.xml","apjs442428, ASJOAB, 10.1088/0067-0049/203/1/2, 442428","xy2sky",0,"monospace","p","xy2sky","For the WT mode event data, both the preliminary a",2012,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
