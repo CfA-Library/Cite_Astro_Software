@@ -1,0 +1,114 @@
+---
+title: "software_cite_spec2d"
+author: "Daina Bouquin"
+---
+
+```{r}
+library(dplyr)
+library(plyr)
+library(reshape2)
+
+spec2d <- read.csv("spec2d_Mentions.csv")
+```
+
+XML tag analysis
+```{r}
+# how many unique XML tags were used?
+length(unique(spec2d$XML_tag2)) # 13
+
+# what were the tags?
+unique(spec2d$XML_tag2)
+
+# ack 
+# app 
+# article-meta 
+# article-title 
+# caption 
+# comment 
+# element-citation 
+# fn 
+# nlm-citation 
+# oasis:entry 
+# p 
+# sec 
+# title
+
+# how many files contained aliases?
+total_spec2d_files <- length(unique(spec2d$File_name))  # 296
+total_spec2d_files
+
+# select only files where the tag shows an attempt to cite/acknowledge (spec2d_attempt_ref)
+ref <- c("source", "nlm-citation", "element-citation", "ack")
+spec2d_attempt_ref <- filter(spec2d, XML_tag2 %in% ref)
+
+# save spec2d_attempt_ref
+write.csv(spec2d_attempt_ref, "spec2d_attempt_ref.csv")
+
+# how many files contained attempt to cite/acknowledge
+cite_attempt_spec2d <- length(unique(spec2d_attempt_ref$File_name)) # 165
+cite_attempt_spec2d
+
+# proportion of spec2d mentions with an attempt at citation
+cite_attempt_spec2d / total_spec2d_files # 0.5574324
+
+# select only files where the tag shows an attempt to formally cite the software (spec2d_ref)
+ref2 <- c("source", "nlm-citation", "element-citation")
+spec2d_ref <- filter(spec2d, XML_tag2 %in% ref2)
+write.csv(spec2d_ref, "spec2d_ref.csv")
+
+# how many files contained a formal citation
+formal_cite_spec2d <- length(unique(spec2d_ref$File_name)) # 142
+formal_cite_spec2d
+
+# proportion of spec2d mentions with a formal citation
+formal_cite_spec2d / total_spec2d_files # 0.4797297
+
+# how many formal citations contained an "identifier"
+ID_only <- filter(spec2d, ID == 1)
+ID_count <- length(unique(ID_only$File_name))
+ID_count # 135
+
+# proportion of spec2d formal citations containing an identifier
+ID_count / total_spec2d_files # 0.4560811
+
+# how many unique aliases were used in whole corpus
+alias_count <- length(unique(spec2d$Alias)) # 10
+alias_count
+
+# which aliases were used
+aliases_used <- unique(spec2d$Alias)
+aliases_used
+
+# 10.1088/0067-0049/208/1/5
+# 2012ascl.soft03003C      
+# 2013ApJS..208....5N      
+# ascl:1203.003            
+# DEEP2 DEIMOS data pipelin
+# DEEP2 DEIMOS pipeline    
+# DEIMOS pipeline          
+# spec2d                   
+# Spec2d                   
+# The analysis pipeline used to reduce the DEIMOS data was developed at UC Berkeley with support from NSF grant AST-0071048.
+
+# how often was each alias used
+count(spec2d, c('Alias'))
+
+#                                                                                                                      Alias freq
+#                                                                                                  10.1088/0067-0049/208/1/5  124
+#                                                                                                        2012ascl.soft03003C   22
+#                                                                                                        2013ApJS..208....5N  123
+#                                                                                                              ascl:1203.003    9
+#                                                                                                 DEEP2 DEIMOS data pipeline    4
+#                                                                                                      DEEP2 DEIMOS pipeline    8
+#                                                                                                            DEIMOS pipeline   11
+#                                                                                                                     spec2d  450
+#                                                                                                                     Spec2d    6
+# The analysis pipeline used to reduce the DEIMOS data was developed at UC Berkeley with support from NSF grant AST-0071048.   32
+
+# create subset of files not containing formal reference (spec2d_no_ref)
+spec2d_no_ref <- filter(spec2d, !File_name %in% spec2d_ref$File_name)
+no_ref <- length(unique(spec2d_no_ref$File_name)) 
+no_ref
+
+write.csv(spec2d_no_ref, "spec2d_no_ref.csv")
+```

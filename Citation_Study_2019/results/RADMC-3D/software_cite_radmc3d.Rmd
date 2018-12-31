@@ -68,7 +68,7 @@ ID_only <- filter(RADMC3D, ID == 1)
 ID_count <- length(unique(ID_only$File_name))
 ID_count # 112
 
-# proportion of astropy formal citations containing an identifier
+# proportion of RADMC3D formal citations containing an identifier
 ID_count / total_RADMC3D_files # 0.56
 
 # how many unique aliases were used in whole corpus
