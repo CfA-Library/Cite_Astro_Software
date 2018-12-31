@@ -38,7 +38,7 @@ unique(SAOImageDS9$XML_tag2)
 # tr
 
 # how many files contained aliases?
-total_SAOImageDS9_files <- length(unique(SAOImageDS9$File_name))  # 200
+total_SAOImageDS9_files <- length(unique(SAOImageDS9$File_name))  # 492
 total_SAOImageDS9_files
 
 # select only files where the tag shows an attempt to cite/acknowledge (SAOImageDS9_attempt_ref)
@@ -66,6 +66,14 @@ formal_cite_SAOImageDS9
 
 # proportion of SAOImageDS9 mentions with a formal citation
 formal_cite_SAOImageDS9 / total_SAOImageDS9_files # 0.1219512
+
+# how many formal citations contained an "identifier"
+ID_only <- filter(SAOImageDS9, ID == 1)
+ID_count <- length(unique(ID_only$File_name))
+ID_count # 57
+
+# proportion of SAOImageDS9 formal citations containing an identifier
+ID_count / total_SAOImageDS9_files # 0.9195171
 
 # how many unique aliases were used in whole corpus
 alias_count <- length(unique(SAOImageDS9$Alias)) # 9

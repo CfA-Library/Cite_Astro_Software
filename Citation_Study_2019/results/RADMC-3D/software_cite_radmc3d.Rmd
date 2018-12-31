@@ -63,6 +63,14 @@ formal_cite_RADMC3D
 # proportion of RADMC3D mentions with a formal citation
 formal_cite_RADMC3D / total_RADMC3D_files # 0.72
 
+# how many formal citations contained an "identifier"
+ID_only <- filter(RADMC3D, ID == 1)
+ID_count <- length(unique(ID_only$File_name))
+ID_count # 112
+
+# proportion of astropy formal citations containing an identifier
+ID_count / total_RADMC3D_files # 0.56
+
 # how many unique aliases were used in whole corpus
 alias_count <- length(unique(RADMC3D$Alias)) # 11
 alias_count
