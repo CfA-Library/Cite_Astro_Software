@@ -27,27 +27,25 @@ Two different types of searches will be conducted to better understand software 
 
 ### Search Phase 1: AAS XML
 
-The final aliases will be used to search XML files representing 20 years of articles published in AAS Journals (1997-2017).
-  * If any software aliases are found in a given XML file (AAS article) we will perform the following tasks:
+The final aliases were used to search XML files representing 20 years of articles published in AAS Journals (1997-2017).
+  * If any software aliases are found in a given XML file (AAS article) we performed the following tasks:
      * identify where the alias is appearing in the file (e.g. references section, abstract, in a table, etc.) by extracting associated XML tags
-     * count the number of unique aliases used to identify the software in the file
-       * AstroBlend, 10.1016/j.ascom.2016.02.002, ascl:1512.007 all showing up in one XML file would be 3 total aliases
-   * if the software package alias appears in the references section of a file:
+   * if the software package alias appeared in the references section of a file:
       * identify which aliases were found in the references section (e.g. DOI, URL of some kind, bibcode, software name, etc.)
 
-After searching across all XML files for all software packages, we will aggregate the following for each software package:
+After searching across all XML files for all software packages, we aggregated the following for each software package:
    * total number of XML files containing at least one software alias
    * total number of unique aliases representing the software package across the entire corpus of files over time 
      * represents all of the ways article authors have mentioned the software
    * total number of unique XML tags associated with software aliases across the entire corpus of files 
       * represents the contexts in which article authors are mentioning the software package
-   * maximum number of unique aliases representing the software package in a given file 
-      * represents variability within articles
+   * total number of aliases found in References and Acknowledgments sections of files
+      * represents attempt by the article authors to credit the software package
    * total number of aliases found in References sections of files
-      * represents attempt by the article authors to formally cite the software package
+      * represents attempt by the article authors to formally cite the software package      
    * find proportion: files containing aliases in references vs. total number of files containing aliases
       * represents how often article authors acknowledge software in an article but do not try to formally cite the software
-   * total number of aliases found in References sections where the alias is an identifier 
+   * total number of aliases found in References sections where the alias is an "identifier"
       * identifiers: DOIs for articles, bibcodes, Zenodo DOIs, arXiv IDs, and ASCL IDs
    * total number of software aliases found in References sections of articles where a Zenodo DOI was cited
       * represents citation to archived code (maybe)
