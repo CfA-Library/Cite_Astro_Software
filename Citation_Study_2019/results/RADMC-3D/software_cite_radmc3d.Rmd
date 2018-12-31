@@ -1,0 +1,88 @@
+---
+title: "software_cite_RADMC3D"
+author: "Daina Bouquin"
+---
+
+```{r}
+library(dplyr)
+library(plyr)
+library(reshape2)
+
+RADMC3D <- read.csv("RADMC3D_Mentions.csv")
+```
+
+XML tag analysis
+```{r}
+# how many files contained aliases?
+total_RADMC3D_files <- length(unique(RADMC3D$File_name))  # 200
+total_RADMC3D_files
+
+# select only files where the tag shows an attempt to cite/acknowledge (RADMC3D_attempt_ref)
+ref <- c("source", "nlm-citation", "element-citation", "ack")
+RADMC3D_attempt_ref <- filter(RADMC3D, XML_tag2 %in% ref)
+
+# save RADMC3D_attempt_ref
+write.csv(RADMC3D_attempt_ref, "RADMC3D_attempt_ref.csv")
+
+# how many files contained attempt to cite/acknowledge
+cite_attempt_RADMC3D <- length(unique(RADMC3D_attempt_ref$File_name)) # 149
+cite_attempt_RADMC3D
+
+# proportion of RADMC3D mentions with an attempt at citation
+cite_attempt_RADMC3D / total_RADMC3D_files # 0.745
+
+# select only files where the tag shows an attempt to formally cite the software (RADMC3D_ref)
+ref2 <- c("source", "nlm-citation", "element-citation")
+RADMC3D_ref <- filter(RADMC3D, XML_tag2 %in% ref2)
+write.csv(RADMC3D_ref, "RADMC3D_ref.csv")
+
+# how many files contained a formal citation
+formal_cite_RADMC3D <- length(unique(RADMC3D_ref$File_name)) # 144
+formal_cite_RADMC3D
+
+# proportion of RADMC3D mentions with a formal citation
+formal_cite_RADMC3D / total_RADMC3D_files # 0.72
+
+# how many unique aliases were used in whole corpus
+alias_count <- length(unique(RADMC3D$Alias)) # 11
+alias_count
+
+# which aliases were used
+aliases_used <- unique(RADMC3D$Alias)
+aliases_used
+
+# 10.1051/0004-6361:20031768
+# 10.1051/0004-6361:20040017
+# 2004A&A...417..159D
+# 2004A&A...417..793P
+# 2011ascl.soft08016D
+# 2012ascl.soft02015D
+# ascl:1202.015
+# radmc
+# RADMC-3D
+# RADMC3D
+# radmc3d
+
+# how often was each alias used
+count(RADMC3D, c('Alias'))
+
+#                      Alias freq
+# 10.1051/0004-6361:20031768   96
+# 10.1051/0004-6361:20040017   11
+#        2004A&A...417..159D   96
+#        2004A&A...417..793P   11
+#        2011ascl.soft08016D    1
+#        2012ascl.soft02015D    8
+#              ascl:1202.015    2
+#                      radmc   95
+#                   RADMC-3D  252
+#                    radmc3d    8
+#                    RADMC3D   35
+
+# create subset of files not containing formal reference (RADMC3D_no_ref)
+RADMC3D_no_ref <- filter(RADMC3D, !File_name %in% RADMC3D_ref$File_name)
+no_ref <- length(unique(RADMC3D_no_ref$File_name)) 
+no_ref
+
+write.csv(RADMC3D_no_ref, "RADMC3D_no_ref.csv")
+```

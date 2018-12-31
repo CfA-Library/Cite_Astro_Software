@@ -1,0 +1,384 @@
+"","Software_name","File_name","Article_id","Alias","ID","XML_tag1","XML_tag2","XML_tag1_content","XML_tag2_content","Publication_year","Journal_title","Publisher"
+"1","RADMC-3D","apj_750_1_64.xml","apj425281, ASJOAB, 10.1088/0004-637X/750/1/64, 425281","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","This code is publicly available with the permissio",2012,"The Astrophysical Journal","The American Astronomical Society"
+"2","RADMC-3D","apj_757_2_129.xml","apj441353, ASJOAB, 10.1088/0004-637X/757/2/129, 441353","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","<ext-link ext-link-type=""url"">http://www.ita.uni-h",2012,"The Astrophysical Journal","The American Astronomical Society"
+"3","RADMC-3D","apj_760_1_91.xml","apj448067, ASJOAB, 10.1088/0004-637X/760/1/91, 448067","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","<ext-link ext-link-type=""url"">http://www.ita.uni-h",2012,"The Astrophysical Journal","The American Astronomical Society"
+"4","RADMC-3D","apj_762_2_113.xml","apj453725, ASJOAB, 10.1088/0004-637X/762/2/113, 453725","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","In this work, we use the radiative transfer code R",2013,"The Astrophysical Journal","The American Astronomical Society"
+"5","RADMC-3D","apj_762_2_120.xml","apj452669, ASJOAB, 10.1088/0004-637X/762/2/120, 452669","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","<ext-link ext-link-type=""url"">http://www.ita.uni-h",2013,"The Astrophysical Journal","The American Astronomical Society"
+"6","RADMC-3D","apj_771_2_129.xml","apj476413, ASJOAB, 10.1088/0004-637X/771/2/129, 476413, ApJ91573","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","<ext-link ext-link-type=""url"">http://www.ita.uni-h",2013,"The Astrophysical Journal","The American Astronomical Society"
+"7","RADMC-3D","apj_775_2_136.xml","apj483839, ASJOAB, 10.1088/0004-637X/775/2/136, 483839, ApJ91282","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","<ext-link ext-link-type=""url"">http://www.ita.uni-h",2013,"The Astrophysical Journal","The American Astronomical Society"
+"8","RADMC-3D","apj_784_1_61.xml","apj489106, ASJOAB, 10.1088/0004-637X/784/1/61, 489106, ApJ93049","radmc",0,"sc","p","radmc-3d","In this section, we investigate the outflow morpho",2014,"The Astrophysical Journal","The American Astronomical Society"
+"9","RADMC-3D","apj_784_1_61.xml","apj489106, ASJOAB, 10.1088/0004-637X/784/1/61, 489106, ApJ93049","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/dullemond/software/radmc-3d/","<ext-link ext-link-type=""url"">http://www.ita.uni-h",2014,"The Astrophysical Journal","The American Astronomical Society"
+"10","RADMC-3D","apj_784_1_61.xml","apj489106, ASJOAB, 10.1088/0004-637X/784/1/61, 489106, ApJ93049","radmc",0,"sc","p","radmc-3d","We post-process the simulations with <sc>radmc-3d<",2014,"The Astrophysical Journal","The American Astronomical Society"
+"11","RADMC-3D","apj_784_1_80.xml","apj490928, ASJOAB, 10.1088/0004-637X/784/1/80, 490928, ApJ91662","radmc",0,"sc","p","radmcâ€“3d","The <xref ref-type=""bibr"" rid=""apj490928r96"">S11</",2014,"The Astrophysical Journal","The American Astronomical Society"
+"12","RADMC-3D","apj_784_1_80.xml","apj490928, ASJOAB, 10.1088/0004-637X/784/1/80, 490928, ApJ91662","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","See <ext-link ext-link-type=""url"">http://www.ita.u",2014,"The Astrophysical Journal","The American Astronomical Society"
+"13","RADMC-3D","apj_784_1_80.xml","apj490928, ASJOAB, 10.1088/0004-637X/784/1/80, 490928, ApJ91662","radmc",0,"sc","p","radmcâ€“3d","The <xref ref-type=""bibr"" rid=""apj490928r96"">S11</",2014,"The Astrophysical Journal","The American Astronomical Society"
+"14","RADMC-3D","apj_784_1_80.xml","apj490928, ASJOAB, 10.1088/0004-637X/784/1/80, 490928, ApJ91662","radmc",0,"sc","p","radmcâ€“3d","The <xref ref-type=""bibr"" rid=""apj490928r96"">S11</",2014,"The Astrophysical Journal","The American Astronomical Society"
+"15","RADMC-3D","apj_784_1_80.xml","apj490928, ASJOAB, 10.1088/0004-637X/784/1/80, 490928, ApJ91662","radmc",0,"sc","p","radmcâ€“3d","The <xref ref-type=""bibr"" rid=""apj490928r96"">S11</",2014,"The Astrophysical Journal","The American Astronomical Society"
+"16","RADMC-3D","apj_788_1_14.xml","apj494964, ASJOAB, 10.1088/0004-637X/788/1/14, 494964, ApJ93164","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","<ext-link ext-link-type=""url"">http://www.ita.uni-h",2014,"The Astrophysical Journal","The American Astronomical Society"
+"17","RADMC-3D","apj_788_1_59.xml","apj495435, ASJOAB, 10.1088/0004-637X/788/1/59, 495435, ApJ93500","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","<ext-link ext-link-type=""url"">http://www.ita.uni-h",2014,"The Astrophysical Journal","The American Astronomical Society"
+"18","RADMC-3D","apj_799_2_235.xml","apj506796, ASJOAB, 10.1088/0004-637X/799/2/235, 506796, ApJ96541","radmc",0,"sc","p","radmc-3d","The goal of this paper is to study the distributio",2015,"The Astrophysical Journal","The American Astronomical Society"
+"19","RADMC-3D","apj_799_2_235.xml","apj506796, ASJOAB, 10.1088/0004-637X/799/2/235, 506796, ApJ96541","radmc",0,"sc","p","radmc-3d","To compute the emission, we use the radiative tran",2015,"The Astrophysical Journal","The American Astronomical Society"
+"20","RADMC-3D","apj_799_2_235.xml","apj506796, ASJOAB, 10.1088/0004-637X/799/2/235, 506796, ApJ96541","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","<ext-link ext-link-type=""url"">http://www.ita.uni-h",2015,"The Astrophysical Journal","The American Astronomical Society"
+"21","RADMC-3D","apj_799_2_235.xml","apj506796, ASJOAB, 10.1088/0004-637X/799/2/235, 506796, ApJ96541","radmc",0,"sc","p","radmc-3d","Optical depth indicates the degree of transparency",2015,"The Astrophysical Journal","The American Astronomical Society"
+"22","RADMC-3D","apj_799_2_235.xml","apj506796, ASJOAB, 10.1088/0004-637X/799/2/235, 506796, ApJ96541","radmc",0,"sc","p","radmc-3d","Line center optical depths calculated byâ€‰<sc>radmc",2015,"The Astrophysical Journal","The American Astronomical Society"
+"23","RADMC-3D","apj_802_2_86.xml","apj509131, 10.1088/0004-637X/802/2/86, 509131, ApJ96550","radmc",0,"sc","p","radmc-3d","We use the non-local thermodynamical equilibrium r",2015,"The Astrophysical Journal","The American Astronomical Society"
+"24","RADMC-3D","apj_802_2_86.xml","apj509131, 10.1088/0004-637X/802/2/86, 509131, ApJ96550","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.deâˆ¼dullemond/software/radmc-3d/","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2015,"The Astrophysical Journal","The American Astronomical Society"
+"25","RADMC-3D","apj_802_2_86.xml","apj509131, 10.1088/0004-637X/802/2/86, 509131, ApJ96550","radmc",0,"sc","p","radmc-3d","We use the non-local thermodynamical equilibrium r",2015,"The Astrophysical Journal","The American Astronomical Society"
+"26","RADMC-3D","apj_802_2_86.xml","apj509131, 10.1088/0004-637X/802/2/86, 509131, ApJ96550","radmc",0,"sc","p","radmc-3d","We convert the <sc>radmc-3d</sc> outputs into skym",2015,"The Astrophysical Journal","The American Astronomical Society"
+"27","RADMC-3D","apj_802_2_86.xml","apj509131, 10.1088/0004-637X/802/2/86, 509131, ApJ96550","radmc",0,"sc","p","radmc-3d","We derive the brightness temperature, <italic>T</i",2015,"The Astrophysical Journal","The American Astronomical Society"
+"28","RADMC-3D","apj_803_1_18.xml","apj509241, 10.1088/0004-637X/803/1/18, 509241, ApJ95646","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.deâˆ¼deullemond/software/radmc-3d/","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2015,"The Astrophysical Journal","The American Astronomical Society"
+"29","RADMC-3D","apj_806_2_154.xml","apj514289, 10.1088/0004-637X/806/2/154, 514289, ApJ98803","radmc",0,"ext-link","p","www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2015,"The Astrophysical Journal","The American Astronomical Society"
+"30","RADMC-3D","apj_806_2_253.xml","apj514106, 10.1088/0004-637X/806/2/253, 514106, ApJ97807","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2015,"The Astrophysical Journal","The American Astronomical Society"
+"31","RADMC-3D","apj_808_2_165.xml","apj516002, 10.1088/0004-637X/808/2/165, 516002, ApJ98868","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","In this work, we use the radiative transfer code R",2015,"The Astrophysical Journal","The American Astronomical Society"
+"32","RADMC-3D","apj_809_1_78.xml","apj517662, 10.1088/0004-637X/809/1/78, 517662, ApJ98140","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","RADMC-3D is an open code of radiative transfer cal",2015,"The Astrophysical Journal","The American Astronomical Society"
+"33","RADMC-3D","apj_811_1_71.xml","apj519322, 10.1088/0004-637X/811/1/71, 519322, ApJ97672","radmc",0,"sc","p","radmc-3d","In order to compare the simulations directly with ",2015,"The Astrophysical Journal","The American Astronomical Society"
+"34","RADMC-3D","apj_811_1_71.xml","apj519322, 10.1088/0004-637X/811/1/71, 519322, ApJ97672","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/âˆ¼dullemond/software/radmc-3d/","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2015,"The Astrophysical Journal","The American Astronomical Society"
+"35","RADMC-3D","apj_811_1_71.xml","apj519322, 10.1088/0004-637X/811/1/71, 519322, ApJ97672","radmc",0,"sc","p","radmc-3d","In order to assess the effects of cloud thickness ",2015,"The Astrophysical Journal","The American Astronomical Society"
+"36","RADMC-3D","apj_811_1_71.xml","apj519322, 10.1088/0004-637X/811/1/71, 519322, ApJ97672","radmc",0,"sc","p","radmc","
+<sc>radmc</sc> Runs",2015,"The Astrophysical Journal","The American Astronomical Society"
+"37","RADMC-3D","apj_811_1_71.xml","apj519322, 10.1088/0004-637X/811/1/71, 519322, ApJ97672","radmc",0,"sc","p","radmc","Model name, input <sc>radmc</sc> grid size, line-o",2015,"The Astrophysical Journal","The American Astronomical Society"
+"38","RADMC-3D","apj_811_2_146.xml","apj519717, 10.1088/0004-637X/811/2/146, 519717, ApJ99367","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/dullemond/software/radmc-3d/","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2015,"The Astrophysical Journal","The American Astronomical Society"
+"39","RADMC-3D","apj_818_1_76.xml","apj522366, 10.3847/0004-637X/818/1/76, 522366, LET33405","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2016,"The Astrophysical Journal","The American Astronomical Society"
+"40","RADMC-3D","apj_819_1_61.xml","apj522698, 10.3847/0004-637X/819/1/61, 522698, ApJ100993","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","To test the physical model for the dust envelope o",2016,"The Astrophysical Journal","The American Astronomical Society"
+"41","RADMC-3D","apj_830_1_32.xml","apjaa321d, 10.3847/0004-637X/830/1/32, aa321d, ApJ102205","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2016,"The Astrophysical Journal","The American Astronomical Society"
+"42","RADMC-3D","apj_832_1_18.xml","apjaa3ffa, 10.3847/0004-637X/832/1/18, aa3ffa, AAS01755","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2016,"The Astrophysical Journal","The American Astronomical Society"
+"43","RADMC-3D","apj_833_2_233.xml","apjaa4c2c, 10.3847/1538-4357/833/2/233, aa4c2c, AAS01169","radmc",0,"sc","p","radmc-3d","Following <xref ref-type=""bibr"" rid=""apjaa4c2cbib6",2016,"The Astrophysical Journal","The American Astronomical Society"
+"44","RADMC-3D","apj_833_2_233.xml","apjaa4c2c, 10.3847/1538-4357/833/2/233, aa4c2c, AAS01169","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2016,"The Astrophysical Journal","The American Astronomical Society"
+"45","RADMC-3D","apj_834_2_201.xml","apjaa5019, 10.3847/1538-4357/834/2/201, aa5019, AAS01847","radmc",0,"sc","p","radmc-3d","We complement our outflow identification by produc",2017,"The Astrophysical Journal","The American Astronomical Society"
+"46","RADMC-3D","apj_834_2_201.xml","apjaa5019, 10.3847/1538-4357/834/2/201, aa5019, AAS01847","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2017,"The Astrophysical Journal","The American Astronomical Society"
+"47","RADMC-3D","apj_839_1_56.xml","apjaa5818, 10.3847/1538-4357/839/1/56, aa5818, AAS03450","radmc",0,"sc","p","radmc-3d","Based on the star and disk model, we perform a rad",2017,"The Astrophysical Journal","The American Astronomical Society"
+"48","RADMC-3D","apj_839_1_56.xml","apjaa5818, 10.3847/1538-4357/839/1/56, aa5818, AAS03450","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","The code and more information are available at <ex",2017,"The Astrophysical Journal","The American Astronomical Society"
+"49","RADMC-3D","apj_839_1_56.xml","apjaa5818, 10.3847/1538-4357/839/1/56, aa5818, AAS03450","radmc",0,"sc","p","radmc-3d","Based on the temperature structure determined by <",2017,"The Astrophysical Journal","The American Astronomical Society"
+"50","RADMC-3D","apj_839_1_56.xml","apjaa5818, 10.3847/1538-4357/839/1/56, aa5818, AAS03450","radmc",0,"sc","p","radmc-3d","Combining the temperature structure obtained using",2017,"The Astrophysical Journal","The American Astronomical Society"
+"51","RADMC-3D","apj_841_1_39.xml","apjaa6e4c, 10.3847/1538-4357/aa6e4c, aa6e4c, AAS04372","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/dullemond/software/radmc-3d/","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2017,"The Astrophysical Journal","The American Astronomical Society"
+"52","RADMC-3D","apj_841_1_39.xml","apjaa6e4c, 10.3847/1538-4357/aa6e4c, aa6e4c, AAS04372","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/dullemond/software/radmc-3d/","<italic>Software:</italic> RADMCÂ (<ext-link ext-li",2017,"The Astrophysical Journal","The American Astronomical Society"
+"53","RADMC-3D","apj_842_1_9.xml","apjaa71b4, 10.3847/1538-4357/aa71b4, aa71b4, AAS04301","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/dullemond/software/radmc-3d","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2017,"The Astrophysical Journal","The American Astronomical Society"
+"54","RADMC-3D","apj_849_2_89.xml","apjaa91ce, 10.3847/1538-4357/aa91ce, aa91ce, AAS05946","radmc",0,"sc","p","radmc-3d","We note that in our observations the N<sub>2</sub>",2017,"The Astrophysical Journal","The American Astronomical Society"
+"55","RADMC-3D","apj_849_2_89.xml","apjaa91ce, 10.3847/1538-4357/aa91ce, aa91ce, AAS05946","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2017,"The Astrophysical Journal","The American Astronomical Society"
+"56","RADMC-3D","apj_850_2_169.xml","apjaa9217, 10.3847/1538-4357/aa9217, aa9217, AAS06288","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2017,"The Astrophysical Journal","The American Astronomical Society"
+"57","RADMC-3D","apj_850_2_169.xml","apjaa9217, 10.3847/1538-4357/aa9217, aa9217, AAS06288","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/dullemond/software/radmc-3d/","<italic>Software:</italic> RADMC (<ext-link ext-li",2017,"The Astrophysical Journal","The American Astronomical Society"
+"58","RADMC-3D","apj_851_2_89.xml","apjaa9a3f, 10.3847/1538-4357/aa9a3f, aa9a3f, AAS00408","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/dullemond/software/radmc-3d","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2017,"The Astrophysical Journal","The American Astronomical Society"
+"59","RADMC-3D","apjl_821_1_L4.xml","apjl523304, 10.3847/2041-8205/821/1/L4, 523304, LET33542","radmc",0,"sc","p","radmc-3d","In order to reproduce the observed line profiles a",2016,"The Astrophysical Journal Letters","The American Astronomical Society"
+"60","RADMC-3D","apjl_821_1_L4.xml","apjl523304, 10.3847/2041-8205/821/1/L4, 523304, LET33542","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2016,"The Astrophysical Journal Letters","The American Astronomical Society"
+"61","RADMC-3D","apjl_823_1_L8.xml","apjlaa21b4, 10.3847/2041-8205/823/1/L8, aa21b4, LET33563","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2016,"The Astrophysical Journal Letters","The American Astronomical Society"
+"62","RADMC-3D","apjl_823_2_L36.xml","apjlaa264f, 10.3847/2041-8205/823/2/L36, aa264f, LET33626","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/ dullemond/software/radmc-3d/","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2016,"The Astrophysical Journal Letters","The American Astronomical Society"
+"63","RADMC-3D","apjl_827_1_L11.xml","apjlaa304b, 10.3847/2041-8205/827/1/L11, aa304b, LET33961","radmc",0,"sc","p","radmc-3d","While protostellar spins reflect the angular momen",2016,"The Astrophysical Journal Letters","The American Astronomical Society"
+"64","RADMC-3D","apjl_827_1_L11.xml","apjlaa304b, 10.3847/2041-8205/827/1/L11, aa304b, LET33961","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/ dullemond/software/radmc-3d/","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2016,"The Astrophysical Journal Letters","The American Astronomical Society"
+"65","RADMC-3D","apjl_828_2_L19.xml","apjlaa3be0, 10.3847/2041-8205/828/2/L19, aa3be0, LET34113","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/âˆ¼dullemond/software/radmc-3d/","The simulation code is RADMC-3D, <ext-link ext-lin",2016,"The Astrophysical Journal Letters","The American Astronomical Society"
+"66","RADMC-3D","apjl_831_2_L12.xml","apjlaa4813, 10.3847/2041-8205/831/2/L12, aa4813, LET34108","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","RADMC-3D is an open code of radiative transfer cal",2016,"The Astrophysical Journal Letters","The American Astronomical Society"
+"67","RADMC-3D","apjl_835_1_L11.xml","apjlaa5719, 10.3847/2041-8213/835/1/L11, aa5719, LET34466","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2017,"The Astrophysical Journal Letters","The American Astronomical Society"
+"68","RADMC-3D","apjl_839_2_L24.xml","apjlaa6837, 10.3847/2041-8213/aa6837, aa6837, LET34609","radmc",0,"sc","p","radmc-3d","To calculate synthetic observations of our models,",2017,"The Astrophysical Journal Letters","The American Astronomical Society"
+"69","RADMC-3D","apjl_839_2_L24.xml","apjlaa6837, 10.3847/2041-8213/aa6837, aa6837, LET34609","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2017,"The Astrophysical Journal Letters","The American Astronomical Society"
+"70","RADMC-3D","apjl_839_2_L24.xml","apjlaa6837, 10.3847/2041-8213/aa6837, aa6837, LET34609","radmc",0,"sc","p","radmc-3d","To calculate synthetic observations of our models,",2017,"The Astrophysical Journal Letters","The American Astronomical Society"
+"71","RADMC-3D","apjs_207_2_30.xml","apjs478548, ASJOAB, 10.1088/0067-0049/207/2/30, 478548, ApJS90916","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","Available at <ext-link ext-link-type=""url"" xlink:h",2013,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"72","RADMC-3D","apjs_213_2_33.xml","apjs498449, ASJOAB, 10.1088/0067-0049/213/2/33, 498449, ApJS93117","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/","<ext-link ext-link-type=""url"">http://www.ita.uni-h",2014,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"73","RADMC-3D","apjs_217_2_30.xml","apjs511040, 10.1088/0067-0049/217/2/30, 511040, ApJS94781","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/Ìƒdullemond/software/radmc-3d/","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2015,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"74","RADMC-3D","apjs_220_1_11.xml","apjs519129, 10.1088/0067-0049/220/1/11, 519129, ApJS99113","radmc",0,"ext-link","p","http://www.ita.uni-heidelberg.de/âˆ¼dullemond/software/radmc-3d/","Available at: <ext-link ext-link-type=""uri"" xlink:",2015,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"75","RADMC-3D","apj_750_1_64.xml","apj425281, ASJOAB, 10.1088/0004-637X/750/1/64, 425281","RADMC-3D",0,"p","sec","We use the radiative transfer code RADMC-3D<xref r","<label>3.2.</label><title>Molecular Line Modeling<",2012,"The Astrophysical Journal","The American Astronomical Society"
+"76","RADMC-3D","apj_750_1_64.xml","apj425281, ASJOAB, 10.1088/0004-637X/750/1/64, 425281","RADMC-3D",0,"p","sec","We use the radiative transfer code RADMC-3D<xref r","<label>3.2.</label><title>Molecular Line Modeling<",2012,"The Astrophysical Journal","The American Astronomical Society"
+"77","RADMC-3D","apj_750_1_64.xml","apj425281, ASJOAB, 10.1088/0004-637X/750/1/64, 425281","RADMC-3D",0,"p","sec","The chemical species which we will consider in thi","<label>3.2.</label><title>Molecular Line Modeling<",2012,"The Astrophysical Journal","The American Astronomical Society"
+"78","RADMC-3D","apj_750_1_64.xml","apj425281, ASJOAB, 10.1088/0004-637X/750/1/64, 425281","RADMC-3D",0,"p","sec","The general procedure for creating the molecular l","<label>3.3.</label><title>Molecular Species</title",2012,"The Astrophysical Journal","The American Astronomical Society"
+"79","RADMC-3D","apj_750_1_64.xml","apj425281, ASJOAB, 10.1088/0004-637X/750/1/64, 425281","RADMC-3D",0,"p","sec","To check that the cores are visible through the fi","<label>3.3.</label><title>Molecular Species</title",2012,"The Astrophysical Journal","The American Astronomical Society"
+"80","RADMC-3D","apj_750_1_64.xml","apj425281, ASJOAB, 10.1088/0004-637X/750/1/64, 425281","RADMC-3D",0,"p","ack","We are particularly indebted to Cornelius Dullemon","<p>We are particularly indebted to Cornelius Dulle",2012,"The Astrophysical Journal","The American Astronomical Society"
+"81","RADMC-3D","apj_757_2_129.xml","apj441353, ASJOAB, 10.1088/0004-637X/757/2/129, 441353","RADMC-3D",0,"monospace","p","RADMC-3D","In the specific case of the TW Hya disk, Roberge e",2012,"The Astrophysical Journal","The American Astronomical Society"
+"82","RADMC-3D","apj_760_1_91.xml","apj448067, ASJOAB, 10.1088/0004-637X/760/1/91, 448067","RADMC-3D",0,"p","sec","We have previously used the 3D adaptive-mesh radia","<label>3.2.</label><title>CO Emission Maps</title>",2012,"The Astrophysical Journal","The American Astronomical Society"
+"83","RADMC-3D","apj_760_1_91.xml","apj448067, ASJOAB, 10.1088/0004-637X/760/1/91, 448067","RADMC-3D",0,"p","sec","We have previously used the 3D adaptive-mesh radia","<label>3.2.</label><title>CO Emission Maps</title>",2012,"The Astrophysical Journal","The American Astronomical Society"
+"84","RADMC-3D","apj_760_1_91.xml","apj448067, ASJOAB, 10.1088/0004-637X/760/1/91, 448067","RADMC-3D",0,"p","sec","We can calculate the mass, momentum, and kinetic e","<label>4.1.</label><title>Comparison to Exact Solu",2012,"The Astrophysical Journal","The American Astronomical Society"
+"85","RADMC-3D","apj_762_2_113.xml","apj453725, ASJOAB, 10.1088/0004-637X/762/2/113, 453725","RADMC-3D",0,"p","sec","In this work, we use the radiative transfer code R","<label>3.</label><title>RADIATIVE TRANSFER MODEL C",2013,"The Astrophysical Journal","The American Astronomical Society"
+"86","RADMC-3D","apj_762_2_113.xml","apj453725, ASJOAB, 10.1088/0004-637X/762/2/113, 453725","RADMC-3D",0,"p","sec","In this work, we use the radiative transfer code R","<label>3.</label><title>RADIATIVE TRANSFER MODEL C",2013,"The Astrophysical Journal","The American Astronomical Society"
+"87","RADMC-3D","apj_762_2_120.xml","apj452669, ASJOAB, 10.1088/0004-637X/762/2/120, 452669","RADMC-3D",0,"monospace","p","RADMC-3D","In order to compare the output of the simulations ",2013,"The Astrophysical Journal","The American Astronomical Society"
+"88","RADMC-3D","apj_762_2_120.xml","apj452669, ASJOAB, 10.1088/0004-637X/762/2/120, 452669","RADMC-3D",0,"monospace","p","RADMC-3D","In order to compare the output of the simulations ",2013,"The Astrophysical Journal","The American Astronomical Society"
+"89","RADMC-3D","apj_771_1_24.xml","apj473088, ASJOAB, 10.1088/0004-637X/771/1/24, 473088, ApJ89761","RADMC-3D",0,"p","sec","As in <xref ref-type=""bibr"" rid=""apj473088r54"">Pap","<label>2.</label><title>METHOD</title>
+<p>As in <x",2013,"The Astrophysical Journal","The American Astronomical Society"
+"90","RADMC-3D","apj_771_1_24.xml","apj473088, ASJOAB, 10.1088/0004-637X/771/1/24, 473088, ApJ89761","RADMC-3D",0,"p","sec","As in <xref ref-type=""bibr"" rid=""apj473088r54"">Pap","<label>2.</label><title>METHOD</title>
+<p>As in <x",2013,"The Astrophysical Journal","The American Astronomical Society"
+"91","RADMC-3D","apj_771_2_129.xml","apj476413, ASJOAB, 10.1088/0004-637X/771/2/129, 476413, ApJ91573","RADMC-3D",0,"monospace","p","RADMC-3D","This demonstration followed the general modeling f",2013,"The Astrophysical Journal","The American Astronomical Society"
+"92","RADMC-3D","apj_771_2_129.xml","apj476413, ASJOAB, 10.1088/0004-637X/771/2/129, 476413, ApJ91573","RADMC-3D",0,"monospace","p","RADMC-3D","The results of these calculations are presented in",2013,"The Astrophysical Journal","The American Astronomical Society"
+"93","RADMC-3D","apj_775_2_136.xml","apj483839, ASJOAB, 10.1088/0004-637X/775/2/136, 483839, ApJ91282","RADMC-3D",0,"monospace","p","RADMC-3D","For any functional form for the surface densities,",2013,"The Astrophysical Journal","The American Astronomical Society"
+"94","RADMC-3D","apj_775_2_136.xml","apj483839, ASJOAB, 10.1088/0004-637X/775/2/136, 483839, ApJ91282","RADMC-3D",0,"monospace","p","RADMC-3D","The formalism described above and encapsulated in ",2013,"The Astrophysical Journal","The American Astronomical Society"
+"95","RADMC-3D","apj_777_2_173.xml","apj486513, ASJOAB, 10.1088/0004-637X/777/2/173, 486513, ApJ92311","RADMC-3D",0,"p","sec","We used the radiative transfer program RADMC-3D (D","<label>2.1.</label><title>Data Preparation</title>",2013,"The Astrophysical Journal","The American Astronomical Society"
+"96","RADMC-3D","apj_777_2_173.xml","apj486513, ASJOAB, 10.1088/0004-637X/777/2/173, 486513, ApJ92311","RADMC-3D",0,"p","sec","For our modified radiative transfer calculation, w","<label>3.3.</label><title>Disentangling Projection",2013,"The Astrophysical Journal","The American Astronomical Society"
+"97","RADMC-3D","apj_788_1_14.xml","apj494964, ASJOAB, 10.1088/0004-637X/788/1/14, 494964, ApJ93164","RADMC-3D",0,"p","sec","We have generated synthetic observations of our si","<label>3.3.</label><title>Synthetic Observations</",2014,"The Astrophysical Journal","The American Astronomical Society"
+"98","RADMC-3D","apj_788_1_14.xml","apj494964, ASJOAB, 10.1088/0004-637X/788/1/14, 494964, ApJ93164","RADMC-3D",0,"p","sec","We model emission from the <italic>J</italic> &equ","<label>3.3.2.</label><title>CO Observations of the",2014,"The Astrophysical Journal","The American Astronomical Society"
+"99","RADMC-3D","apj_788_1_59.xml","apj495435, ASJOAB, 10.1088/0004-637X/788/1/59, 495435, ApJ93500","RADMC-3D",0,"p","sec","We calculate integrated line intensities for the m","<label>3.1.4.</label><title>Radiative Transfer</ti",2014,"The Astrophysical Journal","The American Astronomical Society"
+"100","RADMC-3D","apj_788_1_59.xml","apj495435, ASJOAB, 10.1088/0004-637X/788/1/59, 495435, ApJ93500","RADMC-3D",0,"p","sec","We found that, for disks with more than a Jupiter ","<label>6.</label><title>SUMMARY</title>
+<p>We have",2014,"The Astrophysical Journal","The American Astronomical Society"
+"101","RADMC-3D","apj_791_1_19.xml","apj496328, ASJOAB, 10.1088/0004-637X/791/1/19, 496328, ApJ93254","RADMC-3D",0,"p","sec","We use a combination of the three-dimensional Mont","<label>3.3.</label><title>Radiative Transfer Codes",2014,"The Astrophysical Journal","The American Astronomical Society"
+"102","RADMC-3D","apj_791_1_19.xml","apj496328, ASJOAB, 10.1088/0004-637X/791/1/19, 496328, ApJ93254","RADMC-3D",0,"p","sec","We elected to use a combination of both codes beca","<label>3.3.</label><title>Radiative Transfer Codes",2014,"The Astrophysical Journal","The American Astronomical Society"
+"103","RADMC-3D","apj_791_1_19.xml","apj496328, ASJOAB, 10.1088/0004-637X/791/1/19, 496328, ApJ93254","RADMC-3D",0,"p","ack","The authors gratefully acknowledge Thomas Robitail","<p>The authors gratefully acknowledge Thomas Robit",2014,"The Astrophysical Journal","The American Astronomical Society"
+"104","RADMC-3D","apj_803_1_18.xml","apj509241, 10.1088/0004-637X/803/1/18, 509241, ApJ95646","RADMC-3D",0,"p","abstract","We present a study of the effects of high energy c","
+<title>ABSTRACT</title>
+<p>We present a study of ",2015,"The Astrophysical Journal","The American Astronomical Society"
+"105","RADMC-3D","apj_803_1_18.xml","apj509241, 10.1088/0004-637X/803/1/18, 509241, ApJ95646","RADMC-3D",0,"p","sec","In this paper, we investigate whether the ices obs","
+<label>1.</label>
+<title>INTRODUCTION</title>
+<p>",2015,"The Astrophysical Journal","The American Astronomical Society"
+"106","RADMC-3D","apj_803_1_18.xml","apj509241, 10.1088/0004-637X/803/1/18, 509241, ApJ95646","RADMC-3D",0,"p","sec","In this paper, we investigate whether the ices obs","
+<label>1.</label>
+<title>INTRODUCTION</title>
+<p>",2015,"The Astrophysical Journal","The American Astronomical Society"
+"107","RADMC-3D","apj_803_1_18.xml","apj509241, 10.1088/0004-637X/803/1/18, 509241, ApJ95646","RADMC-3D",0,"p","sec","To model the observed spectrum of Elias 29 and its","
+<label>2.3.</label>
+<title>Modeling Elias 29</tit",2015,"The Astrophysical Journal","The American Astronomical Society"
+"108","RADMC-3D","apj_803_1_18.xml","apj509241, 10.1088/0004-637X/803/1/18, 509241, ApJ95646","RADMC-3D",0,"p","caption","Modeling employing only unprocessed ices (Model 1)","
+<p>Modeling employing only unprocessed ices (Mode",2015,"The Astrophysical Journal","The American Astronomical Society"
+"109","RADMC-3D","apj_803_1_18.xml","apj509241, 10.1088/0004-637X/803/1/18, 509241, ApJ95646","RADMC-3D",0,"p","sec","Figures <xref ref-type=""fig"" rid=""apj509241f7"">7</","
+<label>3.1.</label>
+<title>Spectral Energy Distri",2015,"The Astrophysical Journal","The American Astronomical Society"
+"110","RADMC-3D","apj_803_1_18.xml","apj509241, 10.1088/0004-637X/803/1/18, 509241, ApJ95646","RADMC-3D",0,"p","sec","The temperature map calculated from Model 2, using","
+<label>3.4.</label>
+<title>Density and Temperatur",2015,"The Astrophysical Journal","The American Astronomical Society"
+"111","RADMC-3D","apj_803_1_18.xml","apj509241, 10.1088/0004-637X/803/1/18, 509241, ApJ95646","RADMC-3D",0,"p","sec","In this section we present the images in the IR, m","
+<label>3.5.</label>
+<title>Infrared Images</title",2015,"The Astrophysical Journal","The American Astronomical Society"
+"112","RADMC-3D","apj_803_1_18.xml","apj509241, 10.1088/0004-637X/803/1/18, 509241, ApJ95646","RADMC-3D",0,"p","caption","Resolved images for Elias 29, modeled using the RA","
+<p>Resolved images for Elias 29, modeled using th",2015,"The Astrophysical Journal","The American Astronomical Society"
+"113","RADMC-3D","apj_803_1_18.xml","apj509241, 10.1088/0004-637X/803/1/18, 509241, ApJ95646","RADMC-3D",0,"p","caption","Resolved images for Elias 29, modeled using the RA","
+<p>Resolved images for Elias 29, modeled using th",2015,"The Astrophysical Journal","The American Astronomical Society"
+"114","RADMC-3D","apj_806_2_154.xml","apj514289, 10.1088/0004-637X/806/2/154, 514289, ApJ98803","RADMC-3D",0,"monospace","p","RADMC-3D","Our primary goal is to use the observed spectral v",2015,"The Astrophysical Journal","The American Astronomical Society"
+"115","RADMC-3D","apj_806_2_154.xml","apj514289, 10.1088/0004-637X/806/2/154, 514289, ApJ98803","RADMC-3D",0,"monospace","p","RADMC-3D","For a given set of these structure parameters, the",2015,"The Astrophysical Journal","The American Astronomical Society"
+"116","RADMC-3D","apj_806_2_154.xml","apj514289, 10.1088/0004-637X/806/2/154, 514289, ApJ98803","RADMC-3D",0,"monospace","p","RADMC-3D","We employed a parametric disk structure model fron",2015,"The Astrophysical Journal","The American Astronomical Society"
+"117","RADMC-3D","apj_808_2_165.xml","apj516002, 10.1088/0004-637X/808/2/165, 516002, ApJ98868","RADMC-3D",0,"p","sec","In this work, we use the radiative transfer code R","
+<label>3.1.</label>
+<title>Radiative Transfer Mod",2015,"The Astrophysical Journal","The American Astronomical Society"
+"118","RADMC-3D","apj_808_2_165.xml","apj516002, 10.1088/0004-637X/808/2/165, 516002, ApJ98868","RADMC-3D",0,"p","sec","In this work, we use the radiative transfer code R","
+<label>3.1.</label>
+<title>Radiative Transfer Mod",2015,"The Astrophysical Journal","The American Astronomical Society"
+"119","RADMC-3D","apj_808_2_165.xml","apj516002, 10.1088/0004-637X/808/2/165, 516002, ApJ98868","RADMC-3D",0,"p","sec","In this work, we use the radiative transfer code R","
+<label>3.1.</label>
+<title>Radiative Transfer Mod",2015,"The Astrophysical Journal","The American Astronomical Society"
+"120","RADMC-3D","apj_808_2_165.xml","apj516002, 10.1088/0004-637X/808/2/165, 516002, ApJ98868","RADMC-3D",0,"p","sec","Even though both our dust shell model and van Hoof","
+<label>6.2.</label>
+<title>Comparison with Other ",2015,"The Astrophysical Journal","The American Astronomical Society"
+"121","RADMC-3D","apj_809_1_78.xml","apj517662, 10.1088/0004-637X/809/1/78, 517662, ApJ98140","RADMC-3D",0,"p","sec","Some protoplanetary disks show a radially Gaussian","
+<label>2.5.</label>
+<title>Anisotropic Radiation ",2015,"The Astrophysical Journal","The American Astronomical Society"
+"122","RADMC-3D","apj_809_1_78.xml","apj517662, 10.1088/0004-637X/809/1/78, 517662, ApJ98140","RADMC-3D",0,"p","fn","RADMC-3D is an open code of radiative transfer cal","
+<label><sup>9</sup></label>
+<p>RADMC-3D is an ope",2015,"The Astrophysical Journal","The American Astronomical Society"
+"123","RADMC-3D","apj_809_1_78.xml","apj517662, 10.1088/0004-637X/809/1/78, 517662, ApJ98140","RADMC-3D",0,"p","sec","Some protoplanetary disks show a radially Gaussian","
+<label>2.5.</label>
+<title>Anisotropic Radiation ",2015,"The Astrophysical Journal","The American Astronomical Society"
+"124","RADMC-3D","apj_809_1_78.xml","apj517662, 10.1088/0004-637X/809/1/78, 517662, ApJ98140","RADMC-3D",0,"p","app","The scattering properties of dust grains are descr","
+<label>APPENDIX A</label>
+<title>SCATTERING MATRI",2015,"The Astrophysical Journal","The American Astronomical Society"
+"125","RADMC-3D","apj_809_1_78.xml","apj517662, 10.1088/0004-637X/809/1/78, 517662, ApJ98140","RADMC-3D",0,"title","app","BENCHMARK TEST OF RADMC-3D","
+<label>APPENDIX C</label>
+<title>BENCHMARK TEST O",2015,"The Astrophysical Journal","The American Astronomical Society"
+"126","RADMC-3D","apj_809_1_78.xml","apj517662, 10.1088/0004-637X/809/1/78, 517662, ApJ98140","RADMC-3D",0,"p","app","To test the reliability of the radiative transfer ","
+<label>APPENDIX C</label>
+<title>BENCHMARK TEST O",2015,"The Astrophysical Journal","The American Astronomical Society"
+"127","RADMC-3D","apj_809_1_78.xml","apj517662, 10.1088/0004-637X/809/1/78, 517662, ApJ98140","RADMC-3D",0,"p","sec","Figure <xref ref-type=""fig"" rid=""apj517662f13"">13<","
+<label>C.2.</label>
+<title>Results</title>
+<p>Fig",2015,"The Astrophysical Journal","The American Astronomical Society"
+"128","RADMC-3D","apj_809_1_78.xml","apj517662, 10.1088/0004-637X/809/1/78, 517662, ApJ98140","RADMC-3D",0,"p","caption","Intensity maps of other models: (a) RADMC-3D, (b) ","
+<p>Intensity maps of other models: (a) RADMC-3D, ",2015,"The Astrophysical Journal","The American Astronomical Society"
+"129","RADMC-3D","apj_809_1_78.xml","apj517662, 10.1088/0004-637X/809/1/78, 517662, ApJ98140","RADMC-3D",0,"p","caption","Polarization maps of other models: RADMC-3D, MCFOS","
+<p>Polarization maps of other models: RADMC-3D, M",2015,"The Astrophysical Journal","The American Astronomical Society"
+"130","RADMC-3D","apj_809_1_78.xml","apj517662, 10.1088/0004-637X/809/1/78, 517662, ApJ98140","RADMC-3D",0,"p","caption","Intensity maps of other models: (a) RADMC-3D, (b) ","
+<p>Intensity maps of other models: (a) RADMC-3D, ",2015,"The Astrophysical Journal","The American Astronomical Society"
+"131","RADMC-3D","apj_809_1_78.xml","apj517662, 10.1088/0004-637X/809/1/78, 517662, ApJ98140","RADMC-3D",0,"p","caption","Polarization maps of other models: RADMC-3D, MCFOS","
+<p>Polarization maps of other models: RADMC-3D, M",2015,"The Astrophysical Journal","The American Astronomical Society"
+"132","RADMC-3D","apj_809_1_78.xml","apj517662, 10.1088/0004-637X/809/1/78, 517662, ApJ98140","RADMC-3D",0,"td","tr","RADMC-3D","
+<td align=""left"">RADMC-3D</td>
+<td align=""char"" c",2015,"The Astrophysical Journal","The American Astronomical Society"
+"133","RADMC-3D","apj_809_1_78.xml","apj517662, 10.1088/0004-637X/809/1/78, 517662, ApJ98140","RADMC-3D",0,"td","tr","RADMC-3D","
+<td align=""left"">RADMC-3D</td>
+<td align=""char"" c",2015,"The Astrophysical Journal","The American Astronomical Society"
+"134","RADMC-3D","apj_809_1_78.xml","apj517662, 10.1088/0004-637X/809/1/78, 517662, ApJ98140","RADMC-3D",0,"p","sec","From these results, we conclude the benchmark test","
+<label>C.2.</label>
+<title>Results</title>
+<p>Fig",2015,"The Astrophysical Journal","The American Astronomical Society"
+"135","RADMC-3D","apj_814_1_47.xml","apj520989, 10.1088/0004-637X/814/1/47, 520989, ApJ100348","RADMC-3D",0,"p","sec","The present results hold the potential to determin","
+<label>4.</label>
+<title>ASTROPHYSICAL IMPLICATIO",2015,"The Astrophysical Journal","The American Astronomical Society"
+"136","RADMC-3D","apj_818_1_76.xml","apj522366, 10.3847/0004-637X/818/1/76, 522366, LET33405","RADMC-3D",0,"italic","p","RADMC-3D","The model adopted to analyze HL Tau observations m",2016,"The Astrophysical Journal","The American Astronomical Society"
+"137","RADMC-3D","apj_818_1_76.xml","apj522366, 10.3847/0004-637X/818/1/76, 522366, LET33405","RADMC-3D",0,"italic","p","RADMC-3D","To calculate synthetic maps of the disk continuum ",2016,"The Astrophysical Journal","The American Astronomical Society"
+"138","RADMC-3D","apj_818_1_76.xml","apj522366, 10.3847/0004-637X/818/1/76, 522366, LET33405","RADMC-3D",0,"italic","p","RADMC-3D","To calculate synthetic maps of the disk continuum ",2016,"The Astrophysical Journal","The American Astronomical Society"
+"139","RADMC-3D","apj_818_1_76.xml","apj522366, 10.3847/0004-637X/818/1/76, 522366, LET33405","RADMC-3D",0,"p","ack","This paper makes use of the ALMA data. The Joint A","
+<p>This paper makes use of the ALMA data. The Joi",2016,"The Astrophysical Journal","The American Astronomical Society"
+"140","RADMC-3D","apj_818_2_156.xml","apj522579, 10.3847/0004-637X/818/2/156, 522579, ApJ101325","RADMC-3D",0,"monospace","p","RADMC-3D","We analyze the CO <italic>J</italic>Â =Â 2â€“1 line em",2016,"The Astrophysical Journal","The American Astronomical Society"
+"141","RADMC-3D","apj_819_1_61.xml","apj522698, 10.3847/0004-637X/819/1/61, 522698, ApJ100993","RADMC-3D",0,"p","sec","To test the physical model for the dust envelope o","
+<label>4.</label>
+<title>RADIATIVE TRANSFER MODEL",2016,"The Astrophysical Journal","The American Astronomical Society"
+"142","RADMC-3D","apj_819_1_61.xml","apj522698, 10.3847/0004-637X/819/1/61, 522698, ApJ100993","RADMC-3D",0,"p","sec","To test the physical model for the dust envelope o","
+<label>4.</label>
+<title>RADIATIVE TRANSFER MODEL",2016,"The Astrophysical Journal","The American Astronomical Society"
+"143","RADMC-3D","apj_819_2_102.xml","apj522739, 10.3847/0004-637X/819/2/102, 522739, ApJ101122","RADMC-3D",0,"p","sec","There are several factors that can interfere with ","
+<label>6.1.</label>
+<title>Comparison of Dust Mas",2016,"The Astrophysical Journal","The American Astronomical Society"
+"144","RADMC-3D","apj_820_1_54.xml","apj522830, 10.3847/0004-637X/820/1/54, 522830, ApJ99967","RADMC-3D",0,"p","sec","We perform the radiative transfer simulations with","
+<label>2.</label>
+<title>METHOD</title>
+<p>We con",2016,"The Astrophysical Journal","The American Astronomical Society"
+"145","RADMC-3D","apj_820_1_54.xml","apj522830, 10.3847/0004-637X/820/1/54, 522830, ApJ99967","RADMC-3D",0,"p","sec","The protoplanetary disk around HL Tau shows the po","
+<label>5.</label>
+<title>CONCLUSIONS</title>
+<p>T",2016,"The Astrophysical Journal","The American Astronomical Society"
+"146","RADMC-3D","apj_820_2_133.xml","apj523079, 10.3847/0004-637X/820/2/133, 523079, ApJ101642","RADMC-3D",0,"p","sec","There exist several codes capable of modeling radi","
+<label>1.</label>
+<title>INTRODUCTION</title>
+<p>",2016,"The Astrophysical Journal","The American Astronomical Society"
+"147","RADMC-3D","apj_830_1_32.xml","apjaa321d, 10.3847/0004-637X/830/1/32, aa321d, ApJ102205","RADMC-3D",0,"p","sec","We then calculate the <sup>13</sup>CO 2â€“1 line emi","
+<label>2.1.</label>
+<title>Description of the Mod",2016,"The Astrophysical Journal","The American Astronomical Society"
+"148","RADMC-3D","apj_830_1_32.xml","apjaa321d, 10.3847/0004-637X/830/1/32, aa321d, ApJ102205","RADMC-3D",0,"p","sec","The ALMA Science Verification data for HD 163296 a","
+<label>2.4.</label>
+<title>Comparison with the C<",2016,"The Astrophysical Journal","The American Astronomical Society"
+"149","RADMC-3D","apj_832_1_18.xml","apjaa3ffa, 10.3847/0004-637X/832/1/18, aa3ffa, AAS01755","RADMC-3D",0,"p","sec","We modeled the disk of AB Aur using the radiative ","
+<label>4.2.</label>
+<title>Models</title>
+<p>We m",2016,"The Astrophysical Journal","The American Astronomical Society"
+"150","RADMC-3D","apj_832_1_18.xml","apjaa3ffa, 10.3847/0004-637X/832/1/18, aa3ffa, AAS01755","RADMC-3D",0,"p","sec","We constructed the polarization maps from the mode","
+<label>4.3.</label>
+<title>Adding Dichroic Emissi",2016,"The Astrophysical Journal","The American Astronomical Society"
+"151","RADMC-3D","apj_832_1_18.xml","apjaa3ffa, 10.3847/0004-637X/832/1/18, aa3ffa, AAS01755","RADMC-3D",0,"p","list-item","We modeled the observations using RADMC-3D with cu","
+<label>2.</label>
+<p>We modeled the observations ",2016,"The Astrophysical Journal","The American Astronomical Society"
+"152","RADMC-3D","apj_835_1_17.xml","apjaa4f04, 10.3847/1538-4357/835/1/17, aa4f04, AAS02725","RADMC-3D",0,"monospace","p","RADMC-3D","In order to determine a dynamical mass for GQ Lup ",2017,"The Astrophysical Journal","The American Astronomical Society"
+"153","RADMC-3D","apj_835_1_17.xml","apjaa4f04, 10.3847/1538-4357/835/1/17, aa4f04, AAS02725","RADMC-3D",0,"ext-link","article-title","RADMC-3D: A Multi-Purpose Radiative Transfer Tool","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2017,"The Astrophysical Journal","The American Astronomical Society"
+"154","RADMC-3D","apj_842_1_9.xml","apjaa71b4, 10.3847/1538-4357/aa71b4, aa71b4, AAS04301","RADMC-3D",0,"monospace","p","RADMC-3D","Finally, we need to take into account projection e",2017,"The Astrophysical Journal","The American Astronomical Society"
+"155","RADMC-3D","apj_851_2_89.xml","apjaa9a3f, 10.3847/1538-4357/aa9a3f, aa9a3f, AAS00408","RADMC-3D",0,"p","sec","Synthetic images are calculated by the 3D radiativ","
+<label>3.2.</label>
+<title>Radiative Transfer Set",2017,"The Astrophysical Journal","The American Astronomical Society"
+"156","RADMC-3D","apj_851_2_89.xml","apjaa9a3f, 10.3847/1538-4357/aa9a3f, aa9a3f, AAS00408","RADMC-3D",0,"p","sec","Synthetic images are calculated by the 3D radiativ","
+<label>3.2.</label>
+<title>Radiative Transfer Set",2017,"The Astrophysical Journal","The American Astronomical Society"
+"157","RADMC-3D","apj_851_2_89.xml","apjaa9a3f, 10.3847/1538-4357/aa9a3f, aa9a3f, AAS00408","RADMC-3D",0,"p","sec","In the RADMC-3D simulations, we use a 3D spherical","
+<label>3.2.</label>
+<title>Radiative Transfer Set",2017,"The Astrophysical Journal","The American Astronomical Society"
+"158","RADMC-3D","apj_851_2_89.xml","apjaa9a3f, 10.3847/1538-4357/aa9a3f, aa9a3f, AAS00408","RADMC-3D",0,"p","sec","Hydrodynamic frames are interpolated to the RADMC-","
+<label>3.2.</label>
+<title>Radiative Transfer Set",2017,"The Astrophysical Journal","The American Astronomical Society"
+"159","RADMC-3D","apj_853_2_162.xml","apjaaa19c, 10.3847/1538-4357/aaa19c, aaa19c, AAS07833","RADMC-3D",0,"p","sec","The temperature in the disk is determined by carry","
+<label>4.1.</label>
+<title>Modeling of the Dust a",2018,"The Astrophysical Journal","The American Astronomical Society"
+"160","RADMC-3D","apjl_820_2_L40.xml","apjl523282, 10.3847/2041-8205/820/2/L40, 523282, LET33669","RADMC-3D",0,"monospace","p","RADMC-3D","For some general guidance, we generated a represen",2016,"The Astrophysical Journal Letters","The American Astronomical Society"
+"161","RADMC-3D","apjl_823_2_L36.xml","apjlaa264f, 10.3847/2041-8205/823/2/L36, aa264f, LET33626","RADMC-3D",0,"p","abstract","Phases of gravitational instability are expected i","
+<title>ABSTRACT</title>
+<p>Phases of gravitationa",2016,"The Astrophysical Journal Letters","The American Astronomical Society"
+"162","RADMC-3D","apjl_823_2_L36.xml","apjlaa264f, 10.3847/2041-8205/823/2/L36, aa264f, LET33626","RADMC-3D",0,"p","sec","Here we report on the first study of the detectabi","
+<label>1.</label>
+<title>INTRODUCTION</title>
+<p>",2016,"The Astrophysical Journal Letters","The American Astronomical Society"
+"163","RADMC-3D","apjl_823_2_L36.xml","apjlaa264f, 10.3847/2041-8205/823/2/L36, aa264f, LET33626","RADMC-3D",0,"p","sec","We map the SPH data to a homogeneous grid with dim","
+<label>2.2.</label>
+<title>Post-processing Radiat",2016,"The Astrophysical Journal Letters","The American Astronomical Society"
+"164","RADMC-3D","apjl_823_2_L36.xml","apjlaa264f, 10.3847/2041-8205/823/2/L36, aa264f, LET33626","RADMC-3D",0,"p","sec","Another important caveat is that here we assumed d","
+<label>4.</label>
+<title>DISCUSSION AND CONCLUSIO",2016,"The Astrophysical Journal Letters","The American Astronomical Society"
+"165","RADMC-3D","apjl_828_2_L19.xml","apjlaa3be0, 10.3847/2041-8205/828/2/L19, aa3be0, LET34113","RADMC-3D",0,"p","fn","The simulation code is RADMC-3D, <ext-link ext-lin","
+<label><sup>6</sup></label>
+<p>The simulation cod",2016,"The Astrophysical Journal Letters","The American Astronomical Society"
+"166","RADMC-3D","apjl_828_2_L19.xml","apjlaa3be0, 10.3847/2041-8205/828/2/L19, aa3be0, LET34113","RADMC-3D",0,"p","ack","The authors are grateful to the anonymous referee ","
+<p>The authors are grateful to the anonymous refe",2016,"The Astrophysical Journal Letters","The American Astronomical Society"
+"167","RADMC-3D","apjl_831_2_L12.xml","apjlaa4813, 10.3847/2041-8205/831/2/L12, aa4813, LET34108","RADMC-3D",0,"p","sec","Another possible explanation for the millimeter-wa","
+<label>4.2.1.</label>
+<title>Model Prediction</ti",2016,"The Astrophysical Journal Letters","The American Astronomical Society"
+"168","RADMC-3D","apjl_831_2_L12.xml","apjlaa4813, 10.3847/2041-8205/831/2/L12, aa4813, LET34108","RADMC-3D",0,"p","fn","RADMC-3D is an open code of radiative transfer cal","
+<label><sup>10</sup></label>
+<p>RADMC-3D is an op",2016,"The Astrophysical Journal Letters","The American Astronomical Society"
+"169","RADMC-3D","apjl_831_2_L12.xml","apjlaa4813, 10.3847/2041-8205/831/2/L12, aa4813, LET34108","RADMC-3D",0,"p","sec","Another possible explanation for the millimeter-wa","
+<label>4.2.1.</label>
+<title>Model Prediction</ti",2016,"The Astrophysical Journal Letters","The American Astronomical Society"
+"170","RADMC-3D","apjl_835_1_L11.xml","apjlaa5719, 10.3847/2041-8213/835/1/L11, aa5719, LET34466","RADMC-3D",0,"p","sec","While the barotropic approximation we adopt in the","
+<label>3.2.</label>
+<title>Temperature Recalculat",2017,"The Astrophysical Journal Letters","The American Astronomical Society"
+"171","RADMC-3D","apjl_835_1_L11.xml","apjlaa5719, 10.3847/2041-8213/835/1/L11, aa5719, LET34466","RADMC-3D",0,"p","sec","For dust opacities, we adopt the monochromatic opa","
+<label>3.2.</label>
+<title>Temperature Recalculat",2017,"The Astrophysical Journal Letters","The American Astronomical Society"
+"172","RADMC-3D","apjl_835_1_L11.xml","apjlaa5719, 10.3847/2041-8213/835/1/L11, aa5719, LET34466","RADMC-3D",0,"p","sec","For comparison with the ALMA observation of Elias ","
+<label>3.3.</label>
+<title>Dust Continuum Map</ti",2017,"The Astrophysical Journal Letters","The American Astronomical Society"
+"173","RADMC-3D","apjl_835_1_L11.xml","apjlaa5719, 10.3847/2041-8213/835/1/L11, aa5719, LET34466","RADMC-3D",0,"p","caption","Left: the raw result of the RADMC-3D radiation tra","
+<p>Left: the raw result of the RADMC-3D radiation",2017,"The Astrophysical Journal Letters","The American Astronomical Society"
+"174","RADMC-3D","apjl_835_1_L11.xml","apjlaa5719, 10.3847/2041-8213/835/1/L11, aa5719, LET34466","RADMC-3D",0,"p","ack","We thank Takayuki Muto, Akimasa Kataoka, and Laura","
+<p>We thank Takayuki Muto, Akimasa Kataoka, and L",2017,"The Astrophysical Journal Letters","The American Astronomical Society"
+"175","RADMC-3D","apjl_835_1_L11.xml","apjlaa5719, 10.3847/2041-8213/835/1/L11, aa5719, LET34466","RADMC-3D",0,"ext-link","article-title","RADMC-3D: A Multi-purpose Radiative Transfer Tool","
+<ext-link ext-link-type=""uri"" xlink:href=""http://",2017,"The Astrophysical Journal Letters","The American Astronomical Society"
+"176","RADMC-3D","apjs_213_2_33.xml","apjs498449, ASJOAB, 10.1088/0067-0049/213/2/33, 498449, ApJS93117","RADMC-3D",0,"p","sec","Our newly developed PDR code self-consistently sol","<label>2.</label><title>MODEL</title>
+<p>Our newly",2014,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"177","RADMC-3D","apjs_213_2_33.xml","apjs498449, ASJOAB, 10.1088/0067-0049/213/2/33, 498449, ApJS93117","RADMC-3D",0,"p","sec","The FUV radiative transfer through the dusty mater","<label>3.2.</label><title>FUV Radiative Transfer i",2014,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"178","RADMC-3D","apjs_213_2_33.xml","apjs498449, ASJOAB, 10.1088/0067-0049/213/2/33, 498449, ApJS93117","RADMC-3D",0,"p","sec","In order to confirm that our calculation of the FU","<label>3.2.</label><title>FUV Radiative Transfer i",2014,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"179","RADMC-3D","apjs_213_2_33.xml","apjs498449, ASJOAB, 10.1088/0067-0049/213/2/33, 498449, ApJS93117","RADMC-3D",0,"p","sec","The dust temperature is calculated with RADMC-3D a","<label>5.1.</label><title>Model</title>
+<p>A densi",2014,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"180","RADMC-3D","apjs_213_2_33.xml","apjs498449, ASJOAB, 10.1088/0067-0049/213/2/33, 498449, ApJS93117","RADMC-3D",0,"p","sec","The dust temperature is calculated with RADMC-3D a","<label>5.1.</label><title>Model</title>
+<p>A densi",2014,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"181","RADMC-3D","apjs_213_2_33.xml","apjs498449, ASJOAB, 10.1088/0067-0049/213/2/33, 498449, ApJS93117","RADMC-3D",0,"p","sec","The dust temperature is calculated with RADMC-3D a","<label>5.1.</label><title>Model</title>
+<p>A densi",2014,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"182","RADMC-3D","apjs_213_2_33.xml","apjs498449, ASJOAB, 10.1088/0067-0049/213/2/33, 498449, ApJS93117","RADMC-3D",0,"p","sec","The Î´ coordinate presents well the very narrow lay","<label>5.1.</label><title>Model</title>
+<p>A densi",2014,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"183","RADMC-3D","apjs_213_2_33.xml","apjs498449, ASJOAB, 10.1088/0067-0049/213/2/33, 498449, ApJS93117","RADMC-3D",0,"p","sec","The Î´ coordinate presents well the very narrow lay","<label>5.1.</label><title>Model</title>
+<p>A densi",2014,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"184","RADMC-3D","apjs_213_2_33.xml","apjs498449, ASJOAB, 10.1088/0067-0049/213/2/33, 498449, ApJS93117","RADMC-3D",0,"p","sec","Figure <xref ref-type=""fig"" rid=""apjs498449f18"">18","<label>5.2.</label><title>Results</title>
+<p>In th",2014,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"185","RADMC-3D","apjs_213_2_33.xml","apjs498449, ASJOAB, 10.1088/0067-0049/213/2/33, 498449, ApJS93117","RADMC-3D",0,"p","caption","Physical structure of HH46 with BB1.5: dust attenu","<p>Physical structure of HH46 with BB1.5: dust att",2014,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"186","RADMC-3D","apjs_217_2_30.xml","apjs511040, 10.1088/0067-0049/217/2/30, 511040, ApJS94781","RADMC-3D",0,"p","sec","We introduce a new coordinate axis <inline-formula","
+<label>3.1.</label>
+<title>Density Distribution</",2015,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"187","RADMC-3D","apjs_217_2_30.xml","apjs511040, 10.1088/0067-0049/217/2/30, 511040, ApJS94781","RADMC-3D",0,"p","sec","We have developed a self-consistent PDR model (<xr","
+<label>3.2.</label>
+<title>PDR Model</title>
+<p>W",2015,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"188","RADMC-3D","apjs_220_1_11.xml","apjs519129, 10.1088/0067-0049/220/1/11, 519129, ApJS99113","RADMC-3D",0,"p","app","As noted in Section <xref ref-type=""sec"" rid=""apjs","
+<label>APPENDIX C</label>
+<title>BOLOMETRIC TEMPE",2015,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"189","RADMC-3D","apjs_220_1_11.xml","apjs519129, 10.1088/0067-0049/220/1/11, 519129, ApJS99113","RADMC-3D",0,"p","app","As noted in Section <xref ref-type=""sec"" rid=""apjs","
+<label>APPENDIX C</label>
+<title>BOLOMETRIC TEMPE",2015,"The Astrophysical Journal Supplement Series","The American Astronomical Society"
+"190","RADMC-3D","apj_806_2_253.xml","apj514106, 10.1088/0004-637X/806/2/253, 514106, ApJ97807","RADMC3D",0,"sc","p","RADMC3D","In order to compare our HD 100546 simulation with ",2015,"The Astrophysical Journal","The American Astronomical Society"
+"191","RADMC-3D","apj_811_2_146.xml","apj519717, 10.1088/0004-637X/811/2/146, 519717, ApJ99367","radmc3d",0,"sc","p","radmc3d","We post-process the simulations with the radiative",2015,"The Astrophysical Journal","The American Astronomical Society"
+"192","RADMC-3D","apj_820_1_29.xml","apj522468, 10.3847/0004-637X/820/1/29, 522468, ApJ99578","RADMC3D",0,"p","sec","The Fragment Image Reconstruction Engine (FIRE) cr","
+<label>2.4.</label>
+<title>Synthetic Observations",2016,"The Astrophysical Journal","The American Astronomical Society"
+"193","RADMC-3D","apj_820_1_29.xml","apj522468, 10.3847/0004-637X/820/1/29, 522468, ApJ99578","RADMC3D",0,"p","sec","From the dust density, synthetic images were obtai","
+<label>2.4.</label>
+<title>Synthetic Observations",2016,"The Astrophysical Journal","The American Astronomical Society"
+"194","RADMC-3D","apj_820_1_29.xml","apj522468, 10.3847/0004-637X/820/1/29, 522468, ApJ99578","RADMC3D",0,"p","sec","Figures <xref ref-type=""fig"" rid=""apj522468f2"">2</","
+<label>3.</label>
+<title>RESULTS</title>
+<p>Figur",2016,"The Astrophysical Journal","The American Astronomical Society"
+"195","RADMC-3D","apj_820_1_29.xml","apj522468, 10.3847/0004-637X/820/1/29, 522468, ApJ99578","RADMC3D",0,"p","caption","Summary of output from simulation 5. From top to b","
+<p>Summary of output from simulation 5. From top ",2016,"The Astrophysical Journal","The American Astronomical Society"
+"196","RADMC-3D","apj_820_1_29.xml","apj522468, 10.3847/0004-637X/820/1/29, 522468, ApJ99578","RADMC3D",0,"p","caption","Summary of output from simulation 11. From top to ","
+<p>Summary of output from simulation 11. From top",2016,"The Astrophysical Journal","The American Astronomical Society"
+"197","RADMC-3D","apj_820_1_29.xml","apj522468, 10.3847/0004-637X/820/1/29, 522468, ApJ99578","RADMC3D",0,"p","caption","Spectrum of dust surface density with exponential ","
+<p>Spectrum of dust surface density with exponent",2016,"The Astrophysical Journal","The American Astronomical Society"
+"198","RADMC-3D","apj_820_1_29.xml","apj522468, 10.3847/0004-637X/820/1/29, 522468, ApJ99578","RADMC3D",0,"p","caption","Summary of output from simulation 2. From top to b","
+<p>Summary of output from simulation 2. From top ",2016,"The Astrophysical Journal","The American Astronomical Society"
+"199","RADMC-3D","apj_820_1_29.xml","apj522468, 10.3847/0004-637X/820/1/29, 522468, ApJ99578","RADMC3D",0,"p","caption","Summary of output from simulation 2. From top to b","
+<p>Summary of output from simulation 2. From top ",2016,"The Astrophysical Journal","The American Astronomical Society"
+"200","RADMC-3D","apj_820_1_29.xml","apj522468, 10.3847/0004-637X/820/1/29, 522468, ApJ99578","RADMC3D",0,"p","caption","Summary of output from simulation 8. From top to b","
+<p>Summary of output from simulation 8. From top ",2016,"The Astrophysical Journal","The American Astronomical Society"
+"201","RADMC-3D","apj_820_1_29.xml","apj522468, 10.3847/0004-637X/820/1/29, 522468, ApJ99578","RADMC3D",0,"p","caption","Summary of output from simulation 8. From top to b","
+<p>Summary of output from simulation 8. From top ",2016,"The Astrophysical Journal","The American Astronomical Society"
+"202","RADMC-3D","apj_820_1_29.xml","apj522468, 10.3847/0004-637X/820/1/29, 522468, ApJ99578","RADMC3D",0,"p","sec","In this work we present results from four simulati","
+<label>5.</label>
+<title>CONCLUSION</title>
+<p>In",2016,"The Astrophysical Journal","The American Astronomical Society"
+"203","RADMC-3D","apjl_823_1_L8.xml","apjlaa21b4, 10.3847/2041-8205/823/1/L8, aa21b4, LET33563","RADMC3D",0,"sc","p","RADMC3D","We input our simulations into a 3D radiative trans",2016,"The Astrophysical Journal Letters","The American Astronomical Society"
