@@ -13,6 +13,24 @@ WCS_Tools <- read.csv("WCS_Tools_Mentions.csv")
 
 XML tag analysis
 ```{r}
+# how many unique XML tags were used?
+length(unique(WCS_Tools$XML_tag2)) # 11
+
+# what were the tags?
+unique(WCS_Tools$XML_tag2)
+
+# ack 
+# app 
+# caption 
+# comment 
+# element-citation 
+# fn 
+# inline-formula 
+# list-item 
+# nlm-citation 
+# p 
+# sec
+
 # how many files contained aliases?
 total_WCS_Tools_files <- length(unique(WCS_Tools$File_name))  # 157
 total_WCS_Tools_files

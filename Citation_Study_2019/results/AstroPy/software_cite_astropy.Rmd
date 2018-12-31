@@ -13,6 +13,22 @@ astropy <- read.csv("AstroPy_Mentions.csv")
 
 XML tag analysis
 ```{r}
+# how many unique XML tags were used?
+length(unique(astropy$XML_tag2)) # 9
+
+# what were the tags?
+unique(astropy$XML_tag2)
+
+# ack 
+# app 
+# disp-formula 
+# element-citation 
+# list-item 
+# nlm-citation 
+# p 
+# sec 
+# td
+
 # how many files contained aliases?
 total_astropy_files <- length(unique(astropy$File_name))  # 497
 total_astropy_files

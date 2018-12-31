@@ -13,6 +13,26 @@ RADMC3D <- read.csv("RADMC3D_Mentions.csv")
 
 XML tag analysis
 ```{r}
+# how many unique XML tags were used?
+length(unique(RADMC3D$XML_tag2)) # 13
+
+# what were the tags?
+unique(RADMC3D$XML_tag2)
+
+# abstract 
+# ack 
+# app 
+# article-title 
+# caption 
+# comment 
+# element-citation 
+# fn 
+# list-item 
+# nlm-citation 
+# p 
+# sec 
+# tr
+
 # how many files contained aliases?
 total_RADMC3D_files <- length(unique(RADMC3D$File_name))  # 200
 total_RADMC3D_files

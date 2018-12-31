@@ -13,6 +13,22 @@ Stingray <- read.csv("Stingray_Mentions.csv")
 
 XML tag analysis
 ```{r}
+# how many unique XML tags were used?
+length(unique(Stingray$XML_tag2)) # 9
+
+# what were the tags?
+unique(Stingray$XML_tag2)
+
+# abstract 
+# ack 
+# caption 
+# element-citation 
+# fn 
+# kwd-group 
+# p 
+# sec 
+# title-group
+
 # how many files contained aliases?
 total_Stingray_files <- length(unique(Stingray$File_name))  # 8
 total_Stingray_files

@@ -13,6 +13,30 @@ SAOImageDS9 <- read.csv("SAOImageDS9__Mentions.csv")
 
 XML tag analysis
 ```{r}
+# how many unique XML tags were used?
+length(unique(SAOImageDS9$XML_tag2)) # 17
+
+# what were the tags?
+unique(SAOImageDS9$XML_tag2)
+
+# ack 
+# app 
+# caption 
+# disp-formula 
+# element-citation 
+# fn 
+# list-item 
+# nlm-citation 
+# oasis:entry 
+# oasis:row 
+# p 
+# ref 
+# sec 
+# table-wrap-foot 
+# td 
+# title 
+# tr
+
 # how many files contained aliases?
 total_SAOImageDS9_files <- length(unique(SAOImageDS9$File_name))  # 200
 total_SAOImageDS9_files
