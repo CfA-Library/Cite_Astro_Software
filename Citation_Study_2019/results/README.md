@@ -2,8 +2,6 @@
 * files here are *preliminary*
 * need to clarify XML date ranges for all journals
 * confounds that still need to be fixed:
-  + AstroPy
-    + remove false positive results prior to 2013
   + DS9
     + remove false positive results from: 
       + "CDS91" 
