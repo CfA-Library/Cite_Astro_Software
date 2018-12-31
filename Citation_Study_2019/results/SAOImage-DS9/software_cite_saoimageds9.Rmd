@@ -1,0 +1,84 @@
+---
+title: "software_cite_SAOImageDS9"
+author: "Daina Bouquin"
+---
+
+```{r}
+library(dplyr)
+library(plyr)
+library(reshape2)
+
+SAOImageDS9 <- read.csv("SAOImageDS9__Mentions.csv")
+```
+
+XML tag analysis
+```{r}
+# how many files contained aliases?
+total_SAOImageDS9_files <- length(unique(SAOImageDS9$File_name))  # 200
+total_SAOImageDS9_files
+
+# select only files where the tag shows an attempt to cite/acknowledge (SAOImageDS9_attempt_ref)
+ref <- c("source", "nlm-citation", "element-citation", "ack")
+SAOImageDS9_attempt_ref <- filter(SAOImageDS9, XML_tag2 %in% ref)
+
+# save SAOImageDS9_attempt_ref
+write.csv(SAOImageDS9_attempt_ref, "SAOImageDS9_attempt_ref.csv")
+
+# how many files contained attempt to cite/acknowledge
+cite_attempt_SAOImageDS9 <- length(unique(SAOImageDS9_attempt_ref$File_name)) # 169
+cite_attempt_SAOImageDS9
+
+# proportion of SAOImageDS9 mentions with an attempt at citation
+cite_attempt_SAOImageDS9 / total_SAOImageDS9_files # 0.3434959
+
+# select only files where the tag shows an attempt to formally cite the software (SAOImageDS9_ref)
+ref2 <- c("source", "nlm-citation", "element-citation")
+SAOImageDS9_ref <- filter(SAOImageDS9, XML_tag2 %in% ref2)
+write.csv(SAOImageDS9_ref, "SAOImageDS9_ref.csv")
+
+# how many files contained a formal citation
+formal_cite_SAOImageDS9 <- length(unique(SAOImageDS9_ref$File_name)) # 60
+formal_cite_SAOImageDS9
+
+# proportion of SAOImageDS9 mentions with a formal citation
+formal_cite_SAOImageDS9 / total_SAOImageDS9_files # 0.1219512
+
+# how many unique aliases were used in whole corpus
+alias_count <- length(unique(SAOImageDS9$Alias)) # 9
+alias_count
+
+# which aliases were used
+aliases_used <- unique(SAOImageDS9$Alias)
+aliases_used
+
+# 2000ascl.soft03002S
+# 2003ASPC..295..489J
+# DS9
+# ds9
+# http://deep.ps.uci.edu/spec2d/
+# http://ds9.si.edu
+# SAOImage
+# saoimage
+# SAOImage DS9
+
+# how often was each alias used
+count(SAOImageDS9, c('Alias'))
+
+#                          Alias freq
+#            2000ascl.soft03002S    1
+#            2003ASPC..295..489J   56
+#                            ds9  180
+#                            DS9 1047
+# http://deep.ps.uci.edu/spec2d/    2
+#              http://ds9.si.edu   22
+#                       saoimage    2
+#                       SAOImage   24
+#                   SAOImage DS9  199
+
+# create subset of files not containing formal reference (SAOImageDS9_no_ref)
+SAOImageDS9_no_ref <- filter(SAOImageDS9, !File_name %in% SAOImageDS9_ref$File_name)
+no_ref <- length(unique(SAOImageDS9_no_ref$File_name)) 
+no_ref
+
+write.csv(SAOImageDS9_no_ref, "SAOImageDS9_no_ref.csv")
+```
