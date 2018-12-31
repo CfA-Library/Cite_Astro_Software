@@ -1,2 +1,6 @@
 # Mac OSX
 .DS_Store
+
+# R
+.RData
+.Rhistory
