@@ -10,35 +10,42 @@ library(reshape2)
 
 SAOImageDS9 <- read.csv("SAOImageDS9__Mentions.csv")
 ```
+Remove false positives
+```{r}
+valid_years <- c(2002:2018)
+SAOImageDS9 <- filter(SAOImageDS9, Publication_year %in% valid_years)
+
+# remove confounds
+confounds <- c("CDS91","CDS92","DS91","DS92","DS93","DS94","DS95","DS96","DS97","DS98","DS96Â","MDS94","MDS95","MDS96","FDS99","BDS90","GDS99","ADS94","SDS99","RDS94","UDS9","UDS910-0","UDS910-1","UDS910-3","UDS910-4","ODS95")
+
+SAOImageDS9 <- filter(SAOImageDS9, !XML_tag1_content %in% confounds)
+```
 
 XML tag analysis
 ```{r}
 # how many unique XML tags were used?
-length(unique(SAOImageDS9$XML_tag2)) # 17
+length(unique(SAOImageDS9$XML_tag2)) # 14
 
 # what were the tags?
 unique(SAOImageDS9$XML_tag2)
 
-# ack 
-# app 
-# caption 
-# disp-formula 
 # element-citation 
-# fn 
-# list-item 
-# nlm-citation 
-# oasis:entry 
-# oasis:row 
-# p 
-# ref 
-# sec 
-# table-wrap-foot 
-# td 
-# title 
-# tr
+# nlm-citation     
+# sec              
+# ref              
+# p                
+# fn               
+# ack              
+# caption
+# tr               
+# table-wrap-foot  
+# app              
+# oasis:row        
+# list-item        
+# disp-formula  
 
 # how many files contained aliases?
-total_SAOImageDS9_files <- length(unique(SAOImageDS9$File_name))  # 492
+total_SAOImageDS9_files <- length(unique(SAOImageDS9$File_name))  # 463
 total_SAOImageDS9_files
 
 # select only files where the tag shows an attempt to cite/acknowledge (SAOImageDS9_attempt_ref)
@@ -53,7 +60,7 @@ cite_attempt_SAOImageDS9 <- length(unique(SAOImageDS9_attempt_ref$File_name)) # 
 cite_attempt_SAOImageDS9
 
 # proportion of SAOImageDS9 mentions with an attempt at citation
-cite_attempt_SAOImageDS9 / total_SAOImageDS9_files # 0.3434959
+cite_attempt_SAOImageDS9 / total_SAOImageDS9_files # 0.3650108
 
 # select only files where the tag shows an attempt to formally cite the software (SAOImageDS9_ref)
 ref2 <- c("source", "nlm-citation", "element-citation")
@@ -65,7 +72,7 @@ formal_cite_SAOImageDS9 <- length(unique(SAOImageDS9_ref$File_name)) # 60
 formal_cite_SAOImageDS9
 
 # proportion of SAOImageDS9 mentions with a formal citation
-formal_cite_SAOImageDS9 / total_SAOImageDS9_files # 0.1219512
+formal_cite_SAOImageDS9 / total_SAOImageDS9_files # 0.1295896
 
 # how many formal citations contained an "identifier"
 ID_only <- filter(SAOImageDS9, ID == 1)
@@ -73,7 +80,7 @@ ID_count <- length(unique(ID_only$File_name))
 ID_count # 57
 
 # proportion of SAOImageDS9 formal citations containing an identifier
-ID_count / total_SAOImageDS9_files # 0.9195171
+ID_count / total_SAOImageDS9_files # 0.1231102
 
 # how many unique aliases were used in whole corpus
 alias_count <- length(unique(SAOImageDS9$Alias)) # 9
@@ -99,13 +106,13 @@ count(SAOImageDS9, c('Alias'))
 #                          Alias freq
 #            2000ascl.soft03002S    1
 #            2003ASPC..295..489J   56
-#                            ds9  180
-#                            DS9 1047
+#                            ds9  178
+#                            DS9  408
 # http://deep.ps.uci.edu/spec2d/    2
 #              http://ds9.si.edu   22
 #                       saoimage    2
 #                       SAOImage   24
-#                   SAOImage DS9  199
+#                   SAOImage DS9  199  
 
 # create subset of files not containing formal reference (SAOImageDS9_no_ref)
 SAOImageDS9_no_ref <- filter(SAOImageDS9, !File_name %in% SAOImageDS9_ref$File_name)
