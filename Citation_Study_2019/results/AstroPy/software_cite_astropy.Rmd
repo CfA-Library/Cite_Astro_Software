@@ -1,13 +1,12 @@
 ---
 title: "software_cite_astropy"
-author: "Daina"
-date: "12/30/2018"
-output: pdf_document
+author: "Daina Bouquin"
 ---
 
 ```{r}
 library(dplyr)
 library(plyr)
+library(reshape2)
 
 astropy <- read.csv("AstroPy_Mentions.csv")
 ```
@@ -16,36 +15,41 @@ XML tag analysis
 ```{r}
 # how many files contained aliases?
 total_astropy_files <- length(unique(astropy$File_name))  # 497
+total_astropy_files
 
-# select only files where the tag shows an attempt to cite/acknowledge (astropy_sub1)
+# select only files where the tag shows an attempt to cite/acknowledge (astropy_attempt_ref)
 ref <- c("source", "nlm-citation", "element-citation", "ack")
-astropy_sub1 <- filter(astropy, XML_tag2 == ref)
+astropy_attempt_ref <- filter(astropy, XML_tag2 %in% ref)
+
+# save astropy_attempt_ref
+write.csv(astropy_attempt_ref, "astropy_attempt_ref.csv")
 
 # how many files contained attempt to cite/acknowledge
-cite_attempt_astropy <- length(unique(astropy_sub1$File_name)) # 224
+cite_attempt_astropy <- length(unique(astropy_attempt_ref$File_name)) # 469
+cite_attempt_astropy
 
 # proportion of astropy mentions with an attempt at citation
-cite_attempt_astropy / total_astropy_files # 0.4507042
+cite_attempt_astropy / total_astropy_files # 0.943662
 
-# select only files where the tag shows an attempt to formally cite the software (astropy_sub2)
+# select only files where the tag shows an attempt to formally cite the software (astropy_ref)
 ref2 <- c("source", "nlm-citation", "element-citation")
-astropy_sub2 <- filter(astropy, XML_tag2 == ref2)
+astropy_ref <- filter(astropy, XML_tag2 %in% ref2)
+write.csv(astropy_ref, "astropy_ref.csv")
 
 # how many files contained a formal citation
-formal_cite_astropy <- length(unique(astropy_sub2$File_name)) # 221
+formal_cite_astropy <- length(unique(astropy_ref$File_name)) # 455
+formal_cite_astropy
 
 # proportion of astropy mentions with a formal citation
-formal_cite_astropy / total_astropy_files # 0.444668
-
-# summary of citation tags by file
-wide_astropy_tags <- dcast(cite_attempt_astropy, File_name ~ XML_tag2)
-write.csv(wide_astropy_tags, file = "astropy_cite_attempt.csv")
+formal_cite_astropy / total_astropy_files # 0.915493
 
 # how many unique aliases were used in whole corpus
 alias_count <- length(unique(astropy$Alias)) # 7
+alias_count
 
 # which aliases were used
 aliases_used <- unique(astropy$Alias)
+aliases_used
 
 # 10.1051/0004-6361/201322068
 # 2013A&A...558A..33A
@@ -67,4 +71,10 @@ count(astropy, c('Alias'))
 # https://doi.org/10.1051/0004-6361/201322068    2
 #                  https://github.com/astropy    8
 
+# create subset of files not containing formal reference (astropy_no_ref)
+astropy_no_ref <- filter(astropy, !File_name %in% astropy_ref$File_name)
+no_ref <- length(unique(astropy_sub3$File_name)) 
+no_ref
+
+write.csv(astropy_no_ref, "astropy_no_ref.csv")
 ```
