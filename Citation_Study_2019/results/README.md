@@ -1,6 +1,7 @@
 ## AAS XML search
 * files here are *preliminary*
-* Confounds that still need to be fixed:
+* need to clarify XML date ranges for all journals
+* confounds that still need to be fixed:
   + AstroPy
     + remove false positive results prior to 2013
   + DS9
