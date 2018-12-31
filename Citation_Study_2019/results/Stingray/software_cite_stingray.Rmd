@@ -11,10 +11,21 @@ library(reshape2)
 Stingray <- read.csv("Stingray_Mentions.csv")
 ```
 
+Remove false positives
+```{r}
+valid_years <- c(2016:2018)
+Stingray <- filter(Stingray, Publication_year %in% valid_years)
+
+# remove confounds
+confounds <- c("Stingray Nebula","Stingray nebula","stingray nebula","The Stingray","the Stingray","the stingray","Stingray Light Curve","Stingray light curve","stingray light curve")
+
+Stingray <- filter(Stingray, !XML_tag1_content %in% confounds)
+```
+
 XML tag analysis
 ```{r}
 # how many unique XML tags were used?
-length(unique(Stingray$XML_tag2)) # 9
+length(unique(Stingray$XML_tag2)) # 8
 
 # what were the tags?
 unique(Stingray$XML_tag2)
@@ -30,7 +41,7 @@ unique(Stingray$XML_tag2)
 # title-group
 
 # how many files contained aliases?
-total_Stingray_files <- length(unique(Stingray$File_name))  # 8
+total_Stingray_files <- length(unique(Stingray$File_name))  # 3
 total_Stingray_files
 
 # select only files where the tag shows an attempt to cite/acknowledge (Stingray_attempt_ref)
@@ -45,7 +56,7 @@ cite_attempt_Stingray <- length(unique(Stingray_attempt_ref$File_name)) # 1
 cite_attempt_Stingray
 
 # proportion of Stingray mentions with an attempt at citation
-cite_attempt_Stingray / total_Stingray_files # 0.125
+cite_attempt_Stingray / total_Stingray_files # 0.3333333
 
 # select only files where the tag shows an attempt to formally cite the software (Stingray_ref)
 ref2 <- c("source", "nlm-citation", "element-citation")
@@ -57,7 +68,7 @@ formal_cite_Stingray <- length(unique(Stingray_ref$File_name)) # 1
 formal_cite_Stingray
 
 # proportion of Stingray mentions with a formal citation
-formal_cite_Stingray / total_Stingray_files # 0.125
+formal_cite_Stingray / total_Stingray_files # 0.3333333
 
 # how many formal citations contained an "identifier"
 ID_only <- filter(Stingray, ID == 1)
@@ -83,7 +94,7 @@ count(Stingray, c('Alias'))
 
 #     Alias freq
 # stingray    5
-# Stingray   94
+# Stingray   10
 
 # create subset of files not containing formal reference (Stingray_no_ref)
 Stingray_no_ref <- filter(Stingray, !File_name %in% Stingray_ref$File_name)
