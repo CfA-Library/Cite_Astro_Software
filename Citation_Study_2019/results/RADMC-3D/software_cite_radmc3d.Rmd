@@ -10,6 +10,11 @@ library(reshape2)
 
 RADMC3D <- read.csv("RADMC3D_Mentions.csv")
 ```
+Remove false positives
+```{r}
+valid_years <- c(2007:2018)
+RADMC3D <- filter(RADMC3D, Publication_year %in% valid_years)
+```
 
 XML tag analysis
 ```{r}
