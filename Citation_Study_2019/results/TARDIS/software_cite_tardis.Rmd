@@ -10,24 +10,30 @@ library(reshape2)
 
 TARDIS <- read.csv("TARDIS_Mentions.csv")
 ```
+Remove false positives
+```{r}
+valid_years <- c(2013:2018)
+TARDIS <- filter(TARDIS, Publication_year %in% valid_years)
 
+# remove confounds
+confounds <- c("@tardis.byu.edu","tardis.ln.byu.edu","@tardis.pha.jhu.edu")
+
+TARDIS <- filter(TARDIS, !XML_tag1_content %in% confounds)
+```
 XML tag analysis
 ```{r}
 # how many unique XML tags were used?
-length(unique(TARDIS$XML_tag2)) # 6
+length(unique(TARDIS$XML_tag2)) # 3
 
 # what were the tags?
 unique(TARDIS$XML_tag2)
 
-# ack 
-# aff 
 # caption 
-# oasis:row 
 # p 
 # sec
 
 # how many files contained aliases?
-total_TARDIS_files <- length(unique(TARDIS$File_name))  # 14
+total_TARDIS_files <- length(unique(TARDIS$File_name))  # 3
 total_TARDIS_files
 
 # select only files where the tag shows an attempt to cite/acknowledge (TARDIS_attempt_ref)
@@ -38,11 +44,11 @@ TARDIS_attempt_ref <- filter(TARDIS, XML_tag2 %in% ref)
 write.csv(TARDIS_attempt_ref, "TARDIS_attempt_ref.csv")
 
 # how many files contained attempt to cite/acknowledge
-cite_attempt_TARDIS <- length(unique(TARDIS_attempt_ref$File_name)) # 1
+cite_attempt_TARDIS <- length(unique(TARDIS_attempt_ref$File_name)) # 0
 cite_attempt_TARDIS
 
 # proportion of TARDIS mentions with an attempt at citation
-cite_attempt_TARDIS / total_TARDIS_files # 0.07142857
+cite_attempt_TARDIS / total_TARDIS_files # 0
 
 # select only files where the tag shows an attempt to formally cite the software (TARDIS_ref)
 ref2 <- c("source", "nlm-citation", "element-citation")
@@ -80,9 +86,9 @@ aliases_used
 count(TARDIS, c('Alias'))
 
 #   Alias freq
-# tardis   15
+# tardis    5
 # Tardis   17
-# TARDIS   11
+# TARDIS    8
 
 # create subset of files not containing formal reference (TARDIS_no_ref)
 TARDIS_no_ref <- filter(TARDIS, !File_name %in% TARDIS_ref$File_name)
