@@ -27,7 +27,7 @@ Two different types of searches will be conducted to better understand software 
 
 ### Search Phase 1: AAS XML
 
-The final aliases were used to search XML files representing 20 years of articles published in AAS Journals (1997-2017).
+The final aliases were used to search XML files representing 20 years of articles published in AAS Journals.
   * If any software aliases are found in a given XML file (AAS article) we performed the following tasks:
      * identify where the alias is appearing in the file (e.g. references section, abstract, in a table, etc.) by extracting associated XML tags
    * if the software package alias appeared in the references section of a file:
