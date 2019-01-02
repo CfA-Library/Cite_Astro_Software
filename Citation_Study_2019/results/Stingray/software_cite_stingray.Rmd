@@ -1,0 +1,105 @@
+---
+title: "software_cite_Stingray"
+author: "Daina Bouquin"
+---
+
+```{r}
+library(dplyr)
+library(plyr)
+library(reshape2)
+
+Stingray <- read.csv("Stingray_Mentions.csv")
+```
+
+Remove false positives
+```{r}
+valid_years <- c(2016:2018)
+Stingray <- filter(Stingray, Publication_year %in% valid_years)
+
+# remove confounds
+confounds <- c("Stingray Nebula","Stingray nebula","stingray nebula","The Stingray","the Stingray","the stingray","Stingray Light Curve","Stingray light curve","stingray light curve")
+
+Stingray <- filter(Stingray, !XML_tag1_content %in% confounds)
+```
+
+XML tag analysis
+```{r}
+# how many unique XML tags were used?
+length(unique(Stingray$XML_tag2)) # 8
+
+# what were the tags?
+unique(Stingray$XML_tag2)
+
+# abstract 
+# ack 
+# caption 
+# element-citation 
+# fn 
+# kwd-group 
+# p 
+# sec 
+# title-group
+
+# how many files contained aliases?
+total_Stingray_files <- length(unique(Stingray$File_name))  # 3
+total_Stingray_files
+
+# select only files where the tag shows an attempt to cite/acknowledge (Stingray_attempt_ref)
+ref <- c("source", "nlm-citation", "element-citation", "ack")
+Stingray_attempt_ref <- filter(Stingray, XML_tag2 %in% ref)
+
+# save Stingray_attempt_ref
+write.csv(Stingray_attempt_ref, "Stingray_attempt_ref.csv")
+
+# how many files contained attempt to cite/acknowledge
+cite_attempt_Stingray <- length(unique(Stingray_attempt_ref$File_name)) # 1
+cite_attempt_Stingray
+
+# proportion of Stingray mentions with an attempt at citation
+cite_attempt_Stingray / total_Stingray_files # 0.3333333
+
+# select only files where the tag shows an attempt to formally cite the software (Stingray_ref)
+ref2 <- c("source", "nlm-citation", "element-citation")
+Stingray_ref <- filter(Stingray, XML_tag2 %in% ref2)
+write.csv(Stingray_ref, "Stingray_ref.csv")
+
+# how many files contained a formal citation
+formal_cite_Stingray <- length(unique(Stingray_ref$File_name)) # 1
+formal_cite_Stingray
+
+# proportion of Stingray mentions with a formal citation
+formal_cite_Stingray / total_Stingray_files # 0.3333333
+
+# how many formal citations contained an "identifier"
+ID_only <- filter(Stingray, ID == 1)
+ID_count <- length(unique(ID_only$File_name))
+ID_count # 0
+
+# proportion of Stingray formal citations containing an identifier
+ID_count / total_Stingray_files # 0
+
+# how many unique aliases were used in whole corpus
+alias_count <- length(unique(Stingray$Alias)) # 2
+alias_count
+
+# which aliases were used
+aliases_used <- unique(Stingray$Alias)
+aliases_used
+
+# Stingray 
+# stingray
+
+# how often was each alias used
+count(Stingray, c('Alias'))
+
+#     Alias freq
+# stingray    5
+# Stingray   10
+
+# create subset of files not containing formal reference (Stingray_no_ref)
+Stingray_no_ref <- filter(Stingray, !File_name %in% Stingray_ref$File_name)
+no_ref <- length(unique(Stingray_no_ref$File_name)) 
+no_ref
+
+write.csv(Stingray_no_ref, "Stingray_no_ref.csv")
+```
