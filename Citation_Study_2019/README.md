@@ -1,5 +1,5 @@
 ## A Twenty Year Case Study on Software Citation Practices in Astronomy 
-[Daina Bouquin](https://github.com/dbouquin), [Daniel Chivvis](https://github.com/danielchivvis)
+[Daina Bouquin](https://github.com/dbouquin), [Daniel Chivvis](https://github.com/danielchivvis), [Jennifer Koch](https://library.cfa.harvard.edu/jennifer-koch)
 
 This folder contains files relevant to an on-going case study examining software citation practices in Astronomy. 
 
