@@ -3,12 +3,12 @@ import re
 import csv
 from bs4 import BeautifulSoup
 
-rootDir = '/Users/robin/desktop/TEST/'
+rootDir = ''
 
-searchstring = 'AstroPy|astroPy|astropy|NumFOCUS|MaLTPyNT|DS9\b|ds9\b|SAOImage|saoimage|SAOImageDS9|SAOtng|pyds9|TkSAO|Houdini|houdini|ytini\b|SideFX|AstroBlend|astroblend|Blender|PlasmaPy|plasmapy|NumPy|SciPy|Spec2d\b|spec2d\b|DEEP2|DEIMOS|WCS Tools|WCSTools|wcs tools|wcstools|imwcs|imcat\b|sky2xy|xy2sky|sethead|gethead|WCSLIB|LibWCS|RADMC-3D|radmc3dPy|RADMC3D|RADMC|radmc|radmc3d|TARDIS|TARDIS-SN|tardis|Tardis|Stingray|StingRay|stingray|2016ascl.soft08001H|BEANS|Beans|beans|Apache Hadoop|Apache Pig|MOCCA'
+searchstring = ''
 patterns = re.compile(searchstring)
 
-CSVFILENAME = '/Users/robin/desktop/scripts/citationproject'
+CSVFILENAME = ''
 
 result = []
 
@@ -106,14 +106,7 @@ for dirName, subdirList, fileList in os.walk(rootDir):
                 all_authors = [name.text for name in authors]
                 all_authors = " ".join("".join(all_authors).split("\n"))
                 all_bibcode = ", ".join([bibcode.text for bibcode in bibcode])
-                print('--File Name:', xmlfile)
-                print('--Keyword:', mkeyword)
-                print('--Paper pub-year:', date.year.text)
-                print('--Title: ', all_titles)
-                print('--Authors: ', all_authors)
-                print('--Journal:   ', journal.text)
-                print('--Publisher:   ', publisher.text)
-                print('--Bibcode:   ', all_bibcode)
+
 
                 result.append(
                     [['File_Name', 'Publication_Date', 'Title', 'Author(s)', 'Journal_Title', 'Publisher', 'Bibcode',
