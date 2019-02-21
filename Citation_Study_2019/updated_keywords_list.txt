@@ -21,7 +21,6 @@ ascl:1207.007
 10.5281/zenodo.1211397
 10.3847/1538-3881/aabc4f
 astropy.org
-This research made use of Astropy,\footnote{http://www.astropy.org} a community-developed core Python package for Astronomy \citep{astropy:2013, astropy:2018}.
 doi.org/10.1051/0004-6361/201322068
 adsabs.harvard.edu/abs/2013A%26A...558A..33A
 arXiv.org/abs/1307.6212
