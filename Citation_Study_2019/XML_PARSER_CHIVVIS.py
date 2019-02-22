@@ -98,7 +98,6 @@ for dirName, subdirList, fileList in os.walk(rootDir):
                 
                 bibcode = soup.article.find_all("article-id")
                 bibcode_clean = ", ".join([bibcode.text for bibcode in bibcode])
-
                 
                 titles_clean = [title.text for title in titles]
                 titles_clean = ", ".join(titles_clean)
