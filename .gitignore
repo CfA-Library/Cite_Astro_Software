@@ -4,3 +4,6 @@
 # R
 .RData
 .Rhistory
+
+# Jupyter
+.ipynb_checkpoints
