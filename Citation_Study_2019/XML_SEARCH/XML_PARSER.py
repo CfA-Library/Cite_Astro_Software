@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 
 rootDir = ''
 
-searchstring = ''
+searchstring = '' #See XML_ALIAS_LIST.txt
 patterns = re.compile(searchstring)
 
 CSVFILENAME = ''
