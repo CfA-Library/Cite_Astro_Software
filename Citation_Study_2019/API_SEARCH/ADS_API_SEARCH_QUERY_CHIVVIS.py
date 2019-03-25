@@ -7,13 +7,14 @@ import urllib
 import cStringIO
 from datetime import datetime
 import requests.packages.urllib3
+import re
 
 requests.packages.urllib3.disable_warnings()
 
 pubdate = "1997-01 TO 2019-01"
 
 devkey = (open('dev_key.txt','r')).read()
-keywords_list = (open('keywords_list.txt','r')).read()
+keywords_list = (open('API_ALIAS_LIST.txt','r')).read()
 
 keywords_list = keywords_list.splitlines()
 
@@ -58,7 +59,7 @@ def keywordquery(body,daterange,devkey):
     startnum = 0
     for i in range (0,loop+1):
         url1 = "https://ui.adsabs.harvard.edu/v1/search/query?q="
-        query = 'body:%22'+ urllib.quote_plus(body) + '%22%20pubdate:%5B' + daterange + '%5D' + '&hl=true&indent=true&hl.snippets=4&hl.fragsize=99&hl.fl=title,abstract,full,body,ack,doi,bibcode&fl=id,bibcode,alternate_bibcode,bibgroup,pub,identifier,doi,year,ack,first_author,title&rows='+str(rows)+'&start='+str(startnum)
+        query = 'body:%22'+ urllib.quote_plus(body) + '%22%20pubdate:%5B' + daterange + '%5D' + '&hl=true&indent=true&hl.snippets=4&hl.fragsize=99&hl.maxAnalyzedChars=550000&hl.fl=title,abstract,full,body,ack,doi,bibcode&fl=id,bibcode,alternate_bibcode,bibgroup,pub,identifier,doi,year,ack,first_author,title&rows='+str(rows)+'&start='+str(startnum)
         url_query = url1 + query
 
         print url_query
