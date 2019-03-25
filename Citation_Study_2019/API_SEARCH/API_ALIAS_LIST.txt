@@ -112,8 +112,8 @@ github.com/keflavich/radmc3dPy
 bitbucket.org/at_juhasz/radmc3dpy
 aanda.org/articles/aa/pdf/2004/13/aa4093.pdf
 SAOImage DS9
- DS9 
- ds9 
+DS9
+ds9
 SAOImage
 saoimage
 SAOtng
