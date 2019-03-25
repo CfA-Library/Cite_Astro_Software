@@ -129,7 +129,8 @@ adsabs.harvard.edu/abs/2003ASPC..295..489J
 articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?2003ASPC..295..489J&amp;data_type=PDF_HIGH&amp;whole_paper=YES&amp;type=PRINTER&amp;filetype=.pdf
 adsbit.harvard.edu//full/2003ASPC..295..489J/0000489.000.html
 aspbooks.org/a/volumes/article_details/?paper_id=27026
-aspbooks.org/publications/295/489.pdf|github.com/SAOImageDS9
+aspbooks.org/publications/295/489.pdf
+github.com/SAOImageDS9
 github.com/SAOImageDS9/SAOImageDS9
 cv.nrao.edu/adass/adassVI/mandele.html
 This work was performed in large part under a grant from NASA\'s Applied Information System Research Program (NAGW-3913), with support from the AXAF Science Center (NAS8-39073).
