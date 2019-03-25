@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-API_results = pd.read_csv("API_results_CLEANED_10.csv")
+API_results = pd.read_csv(".csv")
 list(API_results.columns.values)
 
 API_results['Highlight'] = API_results['Highlight'].astype('|S')
@@ -84,6 +84,6 @@ citation_finder = API_results.Highlight.str.find('(') != -1
 
 API_results['Citation'] = citation_finder
 
-API_results.to_csv("API_results_CLEANED_11.csv")
+API_results.to_csv(".csv")
 
 print('CSV saved')
