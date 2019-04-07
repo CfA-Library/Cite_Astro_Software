@@ -10,13 +10,13 @@
 + XML_ALIAS_LIST.txt = List of software aliases searched for using the XML_PARSER.py script
 + XML_ANALYSIS/ = Contains scripts used to analyze results of XML scraping
 
-#### XML_SEARCH/XML_ANALYSIS/
+### XML_SEARCH/XML_ANALYSIS/
 + XML_FINAL_ANALYSIS_040419.ipynb = scripts used to analyze XML search results
 * XML_CLEAN_INPUT_032519.csv - File resulting from XML_PARSER.py and cleaned by Daniel; imported into XML_FINAL_ANALYSIS_040419.ipynb
 * XML_FINAL_ANALYSIS_040419.csv - File used throughout XML_FINAL_ANALYSIS_040419.ipynb
 + XML_RESULTS/ = Contains results of analysis completed 04-04-19
 
-#### XML_ANALYSIS/XML_RESULTS/
+### XML_ANALYSIS/XML_RESULTS/
 * AstroBlend_Tags_040419.csv - All unique XML tags for AstroBlend found in AAS XML 
 * AstroPy_Tags_040419.csv - All unique XML tags for AstroPy found in AAS XML 
 * RADMC3D_Tags_040419.csv - All unique XML tags for RADMC3D found in AAS XML 
@@ -44,7 +44,7 @@
 + API_RESULTS/ = Contains results of analysis completed 04-05-19
 
 
-#### API_ANALYSIS/API_RESULTS/ = Contains cleaned up API search results completed 03-25-19
+### API_ANALYSIS/API_RESULTS/ = Contains cleaned up API search results completed 03-25-19
 + API_cite_aliases_040519.csv = All aliases associated with citations for all software packages
 + API_over_time_040519.csv = Number of articles containing aliases for all software packages by year
 
