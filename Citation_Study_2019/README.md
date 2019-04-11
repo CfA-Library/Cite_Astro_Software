@@ -18,7 +18,7 @@ Software packages included in the study:
 8. [Tardis](https://tardis.readthedocs.io/en/latest/)
 9. [WCSTools](http://tdc-www.harvard.edu/software/wcstools/)
 
-Library staff gathered "aliases" for the selected software packages through interviews with developers and online searches to build a list of search terms that could be used to refer to the software packages in articles. Staff also added identifiers and links associated with each package to the aliases list; associated identifiers and links include those tied to ADS bibcodes, Zenodo records, ASCL records, arXiv eprints, and URLs to many different types of websites. Preferred citations were also noted when they exist. The final list of aliases is available [here](https://github.com/CfA-Library/Cite_Astro_Software/blob/master/Citation_Study_2019/updated_keywords_list.txt).
+Library staff gathered "aliases" for the selected software packages through interviews with developers and online searches to build a list of search terms that could be used to refer to the software packages in articles. Staff also added identifiers and links associated with each package to the aliases list; associated identifiers and links include those tied to ADS bibcodes, Zenodo records, ASCL records, arXiv eprints, and URLs to many different types of websites. Preferred citations were also noted when they exist.
 
 Two different types of searches will be conducted to better understand software citation practices in astronomy. The results of this case study will be used to:
 * recommend comprehensive reviewer and editor guidelines/inform policy development among publishers
