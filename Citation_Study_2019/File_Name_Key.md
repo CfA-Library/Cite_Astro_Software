@@ -48,3 +48,25 @@
 + API_cite_aliases_040519.csv = All aliases associated with citations for all software packages
 + API_over_time_040519.csv = Number of articles containing aliases for all software packages by year
 
+
+
+## API INPUT/RESULTS COLUMN EXPLANATIONS
+Refer to [Comprehensive List of Solr Fields & Operators](http://adsabs.github.io/help/search/comprehensive-solr-term-list) for the complete list of methods of querying the ADS system.
+
+
+| Column  | Explanation |
+| ------------- | ------------- |
+| Alias  | Alias list (See: [API_ALIAS_LIST.txt](https://github.com/CfA-Library/Cite_Astro_Software/blob/master/Citation_Study_2019/API_SEARCH/API_ALIAS_LIST.txt))  |
+| Software_Package  | Name of software package  |
+| Identifier  | 1 = alias is an identifier. 0 = alias is not an identifier  |
+| Highlight  | ≥150000 character snippet around alias. (See: [ADS_API_SEARCH_QUERY.py](https://github.com/CfA-Library/Cite_Astro_Software/blob/master/Citation_Study_2019/API_SEARCH/ADS_API_SEARCH_QUERY.py))  |
+| Citation  | TRUE = In-text citation used. FALSE = In-text citation not used. (See: [API ANALYSIS_031919.py](https://github.com/CfA-Library/Cite_Astro_Software/blob/master/Citation_Study_2019/API_SEARCH/API_ANALYSIS/API_ANALYSIS_031919.py))  |
+| Bibcode  | ADS identifier of a paper  |
+| Alternate_Bibcode  | List of alternate bibcodes for that document  |
+| BibGroup  | Bibliographic group that the bibcode belongs to (curated by staff outside of ADS)  |
+| Publisher  | The canonical name of the publication the record appeared in  |
+| Article_ID  | Abstract field used to search an array of alternative identifiers for the record. May contain alternative bibcodes, DOIs and/or arxiv ids.  |
+| DOI  | Digital object identifier  |
+| Pub_Year  | Year of publication  |
+| Author  | List of authors on a paper  |
+| Title  | The title of the record  |
