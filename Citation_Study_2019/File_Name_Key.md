@@ -44,6 +44,7 @@
 | Software_Package  | Name of software package  |
 | Identifier  | 1 = alias is identifier. 0 = alias is not identifier.  |
 | Pub_Year  | Year of publication ("pub-date" in XML)  |
+| DOI  | Digital object identifier  |
 | Journal_Title  | Canonical name of the publication the record appeared in ("journal-title" in XML)  |
 | Article_ID  | Identifiers associated with the paper ("article-id" in XML)  |
 | File_Name  | Name of XML file alias appeared in  |
