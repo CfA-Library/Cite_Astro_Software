@@ -10,12 +10,12 @@ CfA Library staff identified nine software packages developed in whole or in par
 Software packages included in the study:
 1. [AstroBlend](http://www.astroblend.com/)
 2. [AstroPy](http://www.astropy.org/)
-3. [SAOImage DS9](http://ds9.si.edu/site/Home.html)
-4. [PlasmaPy](http://www.plasmapy.org/)
-5. [RADMC-3D](http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/)
+3. [PlasmaPy](http://www.plasmapy.org/)
+4. [RADMC-3D](http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/)
+5. [SAOImage DS9](http://ds9.si.edu/site/Home.html)
 6. [spec2d](http://deep.ps.uci.edu/spec2d/)
 7. [Stingray](https://stingraysoftware.github.io/)
-8. [Tardis](https://tardis-sn.github.io/tardis/)
+8. [TARDIS](https://tardis-sn.github.io/tardis/)
 9. [WCSTools](http://tdc-www.harvard.edu/software/wcstools/)
 
 Library staff gathered "aliases" for the selected software packages through interviews with developers and online searches to build a list of search terms that could be used to refer to the software packages in articles. Staff also added identifiers and links associated with each package to the aliases list; associated identifiers and links include those tied to ADS bibcodes, Zenodo records, ASCL records, arXiv eprints, and URLs to many different types of websites. Preferred citations were also noted when they exist.
