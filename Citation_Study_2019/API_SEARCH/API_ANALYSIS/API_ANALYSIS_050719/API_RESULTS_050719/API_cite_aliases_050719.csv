@@ -1,0 +1,51 @@
+,Software_Package,Alias,Identifier,cite_count
+0,AstroBlend,AstroBlend,0,3
+1,AstroBlend,astroblend.com,0,1
+2,AstroPy,10.1051/0004-6361/201322068,1,1
+3,AstroPy,AstroPy,0,317
+4,AstroPy,Astropy Collaboration et al. (2018),0,7
+5,AstroPy,arXiv:1307.6212,1,3
+6,AstroPy,arXiv:1801.02634,1,2
+7,AstroPy,astropy.org,0,27
+8,AstroPy,github.com/astropy,0,6
+9,RADMC-3D,10.1051/0004-6361:20031768,1,1
+10,RADMC-3D,10.1051/0004-6361:20040017,1,1
+11,RADMC-3D,RADMC-2D,0,3
+12,RADMC-3D,RADMC-3D,0,103
+13,RADMC-3D,RADMC3D,0,103
+14,RADMC-3D,ascl:1108.016,1,1
+15,RADMC-3D,ascl:1202.015,1,2
+16,RADMC-3D,ita.uni-heidelberg.de/~dullemond/software/radmc-3d,0,13
+17,RADMC-3D,radmc,0,274
+18,RADMC-3D,radmc2d,0,1
+19,RADMC-3D,radmc3d,0,51
+20,SAOImage DS9,DS9,0,247
+21,SAOImage DS9,SAOImage,0,150
+22,SAOImage DS9,SAOImage DS9,0,84
+23,SAOImage DS9,SAOtng,0,10
+24,SAOImage DS9,"This work was performed in large part under a grant from NASA\'s Applied Information System Research Program (NAGW-3913), with support from the AXAF Science Center (NAS8-39073).",0,1
+25,SAOImage DS9,ascl:0003.002,1,1
+26,SAOImage DS9,ds9,0,198
+27,SAOImage DS9,ds9.si.edu,0,22
+28,SAOImage DS9,pyds9,0,1
+29,Spec2d,DEEP2 DEIMOS data pipeline,0,1
+30,Spec2d,DEEP2 DEIMOS pipeline,0,7
+31,Spec2d,DEIMOS pipeline,0,10
+32,Spec2d,Spec2d,0,98
+33,Spec2d,The analysis pipeline used to reduce the DEIMOS data was developed at UC Berkeley with support from NSF grant AST-0071048.,0,2
+34,Spec2d,arXiv:1203.3192,1,12
+35,Spec2d,ascl:1203.003,1,1
+36,Spec2d,deep.ps.uci.edu/spec2d,0,1
+37,Stingray,Stingray,0,14
+38,TARDIS,TARDIS,0,27
+39,TARDIS,Tardis,0,29
+40,WCS Tools,LibWCS,0,1
+41,WCS Tools,WCS Tools,0,6
+42,WCS Tools,WCSLIB,0,13
+43,WCS Tools,WCSTools,0,136
+44,WCS Tools,gethead,0,12
+45,WCS Tools,imwcs,0,26
+46,WCS Tools,sethead,0,3
+47,WCS Tools,sky2xy,0,5
+48,WCS Tools,tdc-www.harvard.edu/software/wcstools,0,7
+49,WCS Tools,xy2sky,0,9
