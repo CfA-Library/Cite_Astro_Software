@@ -11,7 +11,7 @@ import re
 
 requests.packages.urllib3.disable_warnings()
 
-pubdate = "1997-01 TO 2019-01"
+pubdate = "1997-01 TO 2018-05"
 
 devkey = (open('dev_key.txt','r')).read()
 keywords_list = (open('API_ALIAS_LIST.txt','r')).read()
@@ -55,14 +55,14 @@ def keywordquery(body,daterange,devkey):
 
     total = getloopkeyword(body,pubdate,devkey)
     loop = total/rows
-    print "Looping script "+str(loop+1)+" times."
+    print("Looping script "+str(loop+1)+" times.")
     startnum = 0
     for i in range (0,loop+1):
         url1 = "https://ui.adsabs.harvard.edu/v1/search/query?q="
-        query = 'body:%22'+ urllib.quote_plus(body) + '%22%20pubdate:%5B' + daterange + '%5D' + '&hl=true&indent=true&hl.snippets=4&hl.fragsize=99&hl.maxAnalyzedChars=550000&hl.fl=title,abstract,full,body,ack,doi,bibcode&fl=id,bibcode,alternate_bibcode,bibgroup,pub,identifier,doi,year,ack,first_author,title&rows='+str(rows)+'&start='+str(startnum)
+        query = 'body:%22'+ urllib.quote_plus(body) + '%22%20pubdate:%5B' + daterange + '%5D' + '&hl=true&indent=true&hl.snippets=4&hl.fragsize=99&hl.maxAnalyzedChars=550000&hl.fl=title,abstract,full,body,ack,doi,bibcode&fl=id,bibcode,alternate_bibcode,bibgroup,pub,identifier,doi,year,pubdate,ack,first_author,title&rows='+str(rows)+'&start='+str(startnum)
         url_query = url1 + query
 
-        print url_query
+        print(url_query)
         headers = {'Authorization': 'Bearer '+devkey}
         content = requests.get(url_query, headers=headers)
         results = content.json()
@@ -78,7 +78,7 @@ def keywordquery(body,daterange,devkey):
 
             
         for i in xlist:
-            print i
+            print(i)
             try:
                 context = hlights[i]['body']
 
@@ -88,13 +88,14 @@ def keywordquery(body,daterange,devkey):
                 hldict[i] = ""
 
         docs = results['response']['docs']
-        print results
-        print len(docs)
+        print(results)
+        print(len(docs))
 
         for x in docs:
 
             bibcode = x['bibcode']
             year = x['year']
+            pubdate2 = x['pubdate']
 
             try:
                 docid = x['id']
@@ -104,7 +105,7 @@ def keywordquery(body,daterange,devkey):
             except KeyError:
                 docid = "broken"
                 highlightclean = "none"
-                print "no highlights"
+                print('no highlights')
             
             try:
                 alternate_bibcode = x['alternate_bibcode']
@@ -147,7 +148,7 @@ def keywordquery(body,daterange,devkey):
                 pub = ''
 
 
-            row = [body]+[highlightclean]+[bibcode]+[alternate_bibcode_clean]+[bibgroupclean]+[pub]+[identifier_clean]+[doiclean]+[year]+[first_author]+[titleclean]
+            row = [body]+[highlightclean]+[bibcode]+[alternate_bibcode_clean]+[bibgroupclean]+[pub]+[identifier_clean]+[doiclean]+[year]+[pubdate2]+[first_author]+[titleclean]
             wr.writerow(row)
 
         startnum += rows
@@ -160,7 +161,7 @@ timestamp = datetime.now().strftime("%Y_%m%d_%H%M")
 resultFile = open(pubdate+"_"+timestamp+".csv",'wb')
 wr = UnicodeWriter(resultFile,dialect='excel',quoting=csv.QUOTE_ALL)
 
-wr.writerow(['Keyword']+['Highlight']+['Bibcode']+['Alternate Bibcode']+['BibGroup']+['Publisher']+['Identifier']+['DOI']+['Pub. Year']+['Author']+['Title'])
+wr.writerow(['Keyword']+['Highlight']+['Bibcode']+['Alternate Bibcode']+['BibGroup']+['Publisher']+['Identifier']+['DOI']+['Pub. Year']+['Pub. Date']+['Author']+['Title'])
 
 bib_list = []
 
