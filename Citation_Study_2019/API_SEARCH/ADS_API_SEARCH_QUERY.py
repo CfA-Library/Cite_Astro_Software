@@ -11,7 +11,7 @@ import re
 
 requests.packages.urllib3.disable_warnings()
 
-pubdate = "1997-01 TO 2018-05"
+pubdate = "1997-01 TO 2018-04"
 
 devkey = (open('dev_key.txt','r')).read()
 keywords_list = (open('API_ALIAS_LIST.txt','r')).read()
