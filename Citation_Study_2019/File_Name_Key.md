@@ -55,12 +55,9 @@
 | Parent1_Content  |  ≥10000 characters between Layer 1 XML Tags (See: [XML_PARSER.py](https://github.com/CfA-Library/Cite_Astro_Software/blob/master/Citation_Study_2019/XML_SEARCH/XML_PARSER.py)) |
 | Parent2_Content  |  ≥10000 characters between Layer 2 XML Tags (See: [XML_PARSER.py](https://github.com/CfA-Library/Cite_Astro_Software/blob/master/Citation_Study_2019/XML_SEARCH/XML_PARSER.py)) |
 | Parent3_Content  |  ≥10000 characters between Layer 3 XML Tags (See: [XML_PARSER.py](https://github.com/CfA-Library/Cite_Astro_Software/blob/master/Citation_Study_2019/XML_SEARCH/XML_PARSER.py)) |
-| Parent4_Content  |  ≥10000 characters between Layer 4 XML Tags (See: [XML_PARSER.py](https://github.com/CfA-Library/Cite_Astro_Software/blob/master/Citation_Study_2019/XML_SEARCH/XML_PARSER.py)) |
 | Title  | Title of the record ("article-title" in XML) |
 | Author(s)  | List of authors on a paper ("name" in XML)  |
 | Publisher  | Publisher of the record ("publisher-name" in XML)  |
-| Citation  | TRUE = In-text citation used. FALSE = In-text citation not used. |
-
 
 
 ### API_SEARCH/
