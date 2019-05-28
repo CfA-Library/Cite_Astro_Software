@@ -32,10 +32,14 @@ Astropy Collaboration et al. 2013
 Astropy Collaboration et al. (2018)
 Astropy Collaboration et al. (2013)
 Astropy Collaboration 2013, 2018
+Astropy Collaboration 2013
+Astropy Collaboration 2018
 Astropy Collaboration, 2018
 Astropy Collaboration, 2013
 Astropy Collaboration
 astropy collaboration
+astropy.cosmology
+astropy.units
 AstroPy
 Astropy
 astropy
@@ -131,6 +135,7 @@ manualzz.com/doc/30421979/manual-for-radmc-3d---ita-heidelberg
 RADMC-3D
 radmc3dPy
 RADMC3D
+radmc-3d
 radmc3d
 RADMC-2D
 radmc-2d
@@ -176,7 +181,10 @@ packages.ubuntu.com/bionic/tksao
 cv.nrao.edu/adass/adassVI/mandele.html
 This work was performed in large part under a grant from NASA\'s Applied Information System Research Program (NAGW-3913), with support from the AXAF Science Center (NAS8-39073).
 SAOImage DS9
+saoimage DS9
 saoimage ds9
+SAOImage ds9
+SAO Image
 SAOImage
 SAOIMAGE
 saoimage
@@ -228,6 +236,7 @@ ascl:1203.003
 
 ---Stingray---
 
+github.com/StingraySoftware/notebooks/
 github.com/StingraySoftware/stingraypaper
 github.com/StingraySoftware/stingray
 github.com/StingraySoftware/HENDRIC
@@ -307,6 +316,9 @@ tdc-www.harvard.edu/software/wcstools/publications/adass2003
 tdc-www.harvard.edu/software/wcstools/publications/adass2005/img19.html
 tdc-www.harvard.edu/software/wcstools
 tdc-www.harvard.edu/wcstools
+tdc-www.cfa.harvard.edu/software/wcstools/
+tdc&hyphen;www.harvard.edu/software/wcstools
+harvard.edu/software/wcstools/
 WCS Tools
 WCSTools
 WCSTOOLS
