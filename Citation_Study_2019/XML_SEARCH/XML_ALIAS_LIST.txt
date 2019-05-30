@@ -212,6 +212,11 @@ SAOImage DS9
 saoimage DS9
 saoimage ds9
 SAOImage ds9
+SAO Image DS9
+SAO image DS9
+SAO image ds9
+sao image DS9
+sao image ds9
 SAO Image
 SAOImage
 SAOIMAGE
