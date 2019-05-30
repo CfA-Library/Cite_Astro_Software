@@ -384,7 +384,7 @@ tdc&hyphen;www.harvard.edu/software/wcstools/publications/adass2003
 tdc-www.harvard.edu/software/wcstools/publications/adass2005/img19.html
 tdc&hyphen;www.harvard.edu/software/wcstools/publications/adass2005/img19.html
 tdc-www.harvard.edu/software/wcstools/publications
-tdc&hyphen;www.harvard.edu/software
+tdc&hyphen;www.harvard.edu/software/wcstools/publications
 tdc-www.harvard.edu/software/wcstools
 tdc&hyphen;www.harvard.edu/software/wcstools
 tdc-www.harvard.edu/wcstools
