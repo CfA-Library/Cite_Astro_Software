@@ -19,13 +19,23 @@ arXiv:1602.03178
 2015ascl.soft12007N
 2016A&C....15...50N
 
----AstroPy---
+---Astropy---
 
 astropy.org
-github.com/astropy
 pypi.org/project/astropy
 zenodo.org/communities/astropy
 pythonhosted.org/Astropysics
+github.com/astropy/astroplan
+astropy/astroplan
+github.com/astropy/astroscrappy
+astropy/astroscrappy
+github.com/astropy/astroquery
+astropy/astroquery
+github.com/astropy/halotools
+astropy/halotools
+github.com/astropy/photutils
+astropy/photutils
+github.com/astropy
 Astropy Collaboration et al., 2013, 2018
 Astropy Collaboration et al. 2018
 Astropy Collaboration et al. 2013
@@ -128,9 +138,17 @@ ast.cam.ac.uk/~juhasz/radmc3dpy.html
 ast.cam.ac.uk/~juhasz/radmc3dPyDoc/download.html
 bitbucket.org/at_juhasz/radmc3dpy
 github.com/keflavich/radmc3dPy
+ita.uni-heidelberg.de/dullemond/software/radmc-3d
+ita.uni&hyphen;heidelberg.de/dullemond/software/radmc-3d
 ita.uni-heidelberg.de/~dullemond/software/radmc-3d
+ita.uni&hyphen;heidelberg.de/~dullemond/software/radmc-3d
 ita.uni-heidelberg.de/~dullemond/software/radmc-3d/radmc-3d_v0.41.pdf
-ita.uni-heidelberg.de/~dullemond/software/radmc-3d/download.html
+ita.uni&hyphen;heidelberg.de/~dullemond/software/radmc-3d/radmc-3d_v0.41.pdf
+ita.uni-heidelberg.de\xe2\x88\xbcdeullemond/software/radmc-3d
+ita.uni&hyphen;heidelberg.de\xe2\x88\xbcdeullemond/software/radmc-3d
+ita.uni-heidelberg.de/xe2/x88/xbcdeullemond/software/radmc-3d
+ita.uni&hyphen;heidelberg.de/xe2/x88/xbcdeullemond/software/radmc-3d
+dullemond/software/radmc-3d
 manualzz.com/doc/30421979/manual-for-radmc-3d---ita-heidelberg
 RADMC-3D
 radmc3dPy
@@ -171,7 +189,17 @@ ascl:1108.016
 ds9.si.edu
 github.com/SAOImageDS9/SAOImageDS9
 github.com/SAOImageDS9
-github.com/ericmandel/pyds9/
+github.com/ericmandel/pyds9
+hea-www.harvard.edu/RD/ds9
+hea&hyphen;www.harvard.edu/RD/ds9
+hea-www.harvard.edu/RD/saotng
+hea&hyphen;www.harvard.edu/RD/saotng
+hea-www.harvard.edu/saord/funtools/ds9
+hea&hyphen;www.harvard.edu/saord/funtools/ds9
+hea-www.harvard.edu/saord/ds9
+hea&hyphen;www.harvard.edu/saord/ds9
+hea-www.harvard.edu/ChaMPlane/walkthrough_ds9
+hea&hyphen;www.harvard.edu/ChaMPlane/walkthrough_ds9
 launchpad.net/ubuntu/artful/+package/tksao
 linuxlinks.com/saoimageds9
 packages.debian.org/source/sid/saods9
@@ -193,6 +221,10 @@ saotng
 pyds9
 TkSAO
 tksao
+ds9 regions
+DS9 regions
+ds9 Regions
+DS9 Regions
 DS9
 ds9
 adsabs.harvard.edu/abs/2000ascl.soft03002S
@@ -208,10 +240,18 @@ ascl:0003.002
 
 ---Spec2d---
 
-deep.ps.uci.edu/spec2d/cvs/cvs.html#beta
+astro.berkeley.edu/~cooper/deep/spec2d
+astron.berkeley.edu/~cooper/deep/spec2d
+deep.berkeley.edu/spec2d
+deep.ps.uci.edu/spec2d/cvs/cvs.html
 deep.ps.uci.edu/spec2d
 github.com/MCTwo/DEIMOS/tree/master/idl/spec2d
-www2.keck.hawaii.edu/inst/deimos/pipeline.html
+juno.as.arizona.edu/~cooper/deep/spec2d
+keck.hawaii.edu/inst/deimos/pipeline.html
+sdss3.org/svn/repo/idlspec2d
+spectro.princeton.edu/idlspec2d
+svn.sdss.org/public/repo/manga/mangadrp/tags/v1_5_4/pro/spec2d
+idlspec2d
 Spec2d
 spec2d
 The analysis pipeline used to reduce the DEIMOS data was developed at UC Berkeley with support from NSF grant AST-0071048.
@@ -236,16 +276,28 @@ ascl:1203.003
 
 ---Stingray---
 
-github.com/StingraySoftware/notebooks/
+github.com/StingraySoftware/notebooks
+github.com/stingraysoftware/notebooks
+github.com/StingraySoftware/StingrayDocs
+github.com/stingraysoftware/stingraydocs
 github.com/StingraySoftware/stingraypaper
+github.com/stingraysoftware/stingraypaper
 github.com/StingraySoftware/stingray
+github.com/stingraysoftware/stingray
+github.com/StingraySoftware/dave
+github.com/stingraysoftware/dave
 github.com/StingraySoftware/HENDRIC
+github.com/stingraysoftware/HENDRIC
+github.com/StingraySoftware/hendric
+github.com/stingraysoftware/hendric
 github.com/StingraySoftware
+github.com/stingraysoftware
 StingraySoftware.github.io
 stingraysoftware.github.io
 Stingray
 stingray
 STINGRAY
+DAVE
 HENDRICS
 adsabs.harvard.edu/abs/2016ascl.soft08001H
 ascl.net/1608.001
@@ -307,18 +359,32 @@ zenodo.org/record/1213676
 ---WCSTools---
 
 tdc-www.harvard.edu/software/wcstools/publications/saoimage.adass95.html
+tdc&hyphen;www.harvard.edu/software/wcstools/publications/saoimage.adass95.html
 tdc-www.harvard.edu/software/wcstools/publications/wcstools.adass96.html
+tdc&hyphen;www.harvard.edu/software/wcstools/publications/wcstools.adass96.html
 tdc-www.harvard.edu/software/wcstools/publications/wcstools.dda98abs.html
+tdc&hyphen;www.harvard.edu/software/wcstools/publications/wcstools.dda98abs.html
 tdc-www.harvard.edu/software/wcstools/publications/adass2001
+tdc&hyphen;www.harvard.edu/software/wcstools/publications/adass2001
 tdc-www.harvard.edu/software/wcstools/publications/dda2003
+tdc&hyphen;www.harvard.edu/software/wcstools/publications/dda2003
 tdc-www.harvard.edu/wcstools/publications/catalogs.adass2003.pdf
+tdc&hyphen;www.harvard.edu/wcstools/publications/catalogs.adass2003.pdf
 tdc-www.harvard.edu/software/wcstools/publications/adass2003
+tdc&hyphen;www.harvard.edu/software/wcstools/publications/adass2003
 tdc-www.harvard.edu/software/wcstools/publications/adass2005/img19.html
+tdc&hyphen;www.harvard.edu/software/wcstools/publications/adass2005/img19.html
+tdc-www.harvard.edu/software/wcstools/publications
+tdc&hyphen;www.harvard.edu/software
 tdc-www.harvard.edu/software/wcstools
-tdc-www.harvard.edu/wcstools
-tdc-www.cfa.harvard.edu/software/wcstools/
 tdc&hyphen;www.harvard.edu/software/wcstools
-harvard.edu/software/wcstools/
+tdc-www.harvard.edu/wcstools
+tdc&hyphen;www.harvard.edu/wcstools
+tdc-www.cfa.harvard.edu/software/wcstools
+tdc&hyphen;www.harvard.edu/software/wcstools
+harvard.edu/software/wcstools
+cfa&hyphen;ftp.harvard.edu/pub/gsc/WCSTools
+cfa-ftp.harvard.edu/pub/gsc/WCSTools
 WCS Tools
 WCSTools
 WCSTOOLS
