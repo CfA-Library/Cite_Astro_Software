@@ -306,7 +306,6 @@ stingraysoftware.github.io
 Stingray
 stingray
 STINGRAY
-DAVE
 HENDRICS
 adsabs.harvard.edu/abs/2016ascl.soft08001H
 ascl.net/1608.001
