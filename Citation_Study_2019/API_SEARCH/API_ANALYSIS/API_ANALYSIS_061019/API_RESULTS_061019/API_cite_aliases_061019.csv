@@ -1,0 +1,90 @@
+Software_Package,Alias,Identifier,cite_count
+Astroblend,AstroBlend,0,3
+Astroblend,astroblend.com,0,1
+Astropy,10.1051/0004-6361/201322068,1,1
+Astropy,AstroPy,0,306
+Astropy,Astropy Collaboration,0,223
+Astropy,Astropy Collaboration 2013,0,160
+Astropy,Astropy Collaboration 2018,0,4
+Astropy,Astropy Collaboration et al. (2013),0,167
+Astropy,Astropy Collaboration et al. (2018),0,5
+Astropy,Astropy Collaboration et al. 2013,0,167
+Astropy,Astropy Collaboration et al. 2018,0,5
+Astropy,"Astropy Collaboration, 2013",0,160
+Astropy,"Astropy Collaboration, 2018",0,4
+Astropy,arXiv:1307.6212,1,3
+Astropy,arXiv:1801.02634,1,2
+Astropy,ascl:1304.002,1,2
+Astropy,astropy.cosmology,0,4
+Astropy,astropy.org,0,24
+Astropy,astropy.units,0,6
+Astropy,astropy/astroplan,0,1
+Astropy,astropy/astroquery,0,1
+Astropy,astropy/astroscrappy,0,2
+Astropy,astropy/photutils,0,1
+Astropy,github.com/astropy,0,6
+Astropy,github.com/astropy/astroquery,0,1
+Astropy,github.com/astropy/astroscrappy,0,2
+RADMC-3D,10.1051/0004-6361:20031768,1,1
+RADMC-3D,10.1051/0004-6361:20040017,1,1
+RADMC-3D,RADMC,0,210
+RADMC-3D,RADMC-2D,0,3
+RADMC-3D,RADMC-3D,0,105
+RADMC-3D,RADMC3D,0,105
+RADMC-3D,ascl:1108.016,1,1
+RADMC-3D,ascl:1202.015,1,2
+RADMC-3D,dullemond/software/radmc-3d,0,24
+RADMC-3D,ita.uni-heidelberg.de/dullemond/software/radmc-3d,0,14
+RADMC-3D,ita.uni-heidelberg.de/~dullemond/software/radmc-3d,0,14
+RADMC-3D,radmc,0,91
+RADMC-3D,radmc-3d,0,79
+RADMC-3D,radmc2d,0,1
+RADMC-3D,radmc3d,0,50
+SAOImage DS9,DS9,0,252
+SAOImage DS9,SAO Image,0,9
+SAOImage DS9,SAO Image DS9,0,1
+SAOImage DS9,SAO image ds9,0,2
+SAOImage DS9,SAOIMAGE,0,1
+SAOImage DS9,SAOImage,0,151
+SAOImage DS9,SAOImage DS9,0,84
+SAOImage DS9,SAOtng,0,10
+SAOImage DS9,"This work was performed in large part under a grant from NASA\'s Applied Information System Research Program (NAGW-3913), with support from the AXAF Science Center (NAS8-39073).",0,1
+SAOImage DS9,ascl:0003.002,1,1
+SAOImage DS9,ds9,0,199
+SAOImage DS9,ds9 region,0,13
+SAOImage DS9,ds9 regions,0,14
+SAOImage DS9,ds9.si.edu,0,22
+SAOImage DS9,hea-www.harvard.edu/RD/ds9,0,6
+SAOImage DS9,pyds9,0,1
+SAOImage DS9,saoimage ds9,0,24
+Spec2d,DEEP2 DEIMOS Data Pipeline,0,1
+Spec2d,DEEP2 DEIMOS Data Reduction Pipeline,0,5
+Spec2d,DEEP2 DEIMOS Pipeline,0,7
+Spec2d,DEIMOS pipeline,0,10
+Spec2d,Spec2d,0,98
+Spec2d,The analysis pipeline used to reduce the DEIMOS data was developed at UC Berkeley with support from NSF grant AST-0071048.,0,2
+Spec2d,arXiv:1203.3192,1,12
+Spec2d,astro.berkeley.edu/~cooper/deep/spec2d,0,8
+Spec2d,astron.berkeley.edu/~cooper/deep/spec2d,0,2
+Spec2d,deep.berkeley.edu/spec2d,0,1
+Spec2d,deep.ps.uci.edu/spec2d,0,1
+Spec2d,idlspec2d,0,55
+Spec2d,spectro.princeton.edu/idlspec2d,0,5
+Stringray,HENDRICS,0,2
+Stringray,Stingray,0,183
+TARDIS,TARDIS,0,30
+TARDIS,Tardis,0,33
+TARDIS,tardis-sn,0,1
+WCSTools,LibWCS,0,1
+WCSTools,WCS Tools,0,6
+WCSTools,WCSLIB,0,13
+WCSTools,WCSTools,0,140
+WCSTools,gethead,0,12
+WCSTools,harvard.edu/software/wcstools,0,8
+WCSTools,imwcs,0,26
+WCSTools,sethead,0,3
+WCSTools,sky2xy,0,5
+WCSTools,tdc-www.harvard.edu/software/wcstools,0,7
+WCSTools,tdc-www.harvard.edu/wcstools,0,7
+WCSTools,wcslib,0,11
+WCSTools,xy2sky,0,9
