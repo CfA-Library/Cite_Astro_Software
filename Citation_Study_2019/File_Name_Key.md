@@ -98,5 +98,6 @@ Refer to [Comprehensive List of Solr Fields & Operators](http://adsabs.github.io
 | Article_ID  | Abstract field used to search an array of alternative identifiers for the record. May contain alternative bibcodes, DOIs and/or arxiv ids.  |
 | DOI  | Digital object identifier  |
 | Pub_Year  | Year of publication  |
+| Pub_Date  | Date of publication (YYYY-MM-DD)  |
 | Author  | List of authors on a paper  |
 | Title  | Title of the record  |
