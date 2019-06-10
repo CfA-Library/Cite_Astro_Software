@@ -72,11 +72,6 @@ API_results = API_results[~(API_results.Highlight.str.contains("Stingray Light C
 API_results = API_results[~(API_results.Highlight.str.contains("Stingray light curve") & API_results.Software_Package.str.contains("Stingray"))]
 API_results = API_results[~(API_results.Highlight.str.contains("stingray light curve") & API_results.Software_Package.str.contains("Stingray"))]
 
-#_____________________Spec2d____________________________________
-
-# IDL
-API_results = API_results[~(API_results.Highlight.str.contains("idlspec2d") & API_results.Software_Package.str.contains("Spec2d"))]
-API_results = API_results[~(API_results.Highlight.str.contains("IDLspec2d") & API_results.Software_Package.str.contains("Spec2d"))]
 
 #_____________________citation_finder_________________________
 
