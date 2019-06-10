@@ -161,7 +161,7 @@ timestamp = datetime.now().strftime("%Y_%m%d_%H%M")
 resultFile = open(pubdate+"_"+timestamp+".csv",'wb')
 wr = UnicodeWriter(resultFile,dialect='excel',quoting=csv.QUOTE_ALL)
 
-wr.writerow(['Keyword']+['Highlight']+['Bibcode']+['Alternate Bibcode']+['BibGroup']+['Publisher']+['Identifier']+['DOI']+['Pub. Year']+['Pub. Date']+['Author']+['Title'])
+wr.writerow(['Alias']+['Highlight']+['Bibcode']+['Alternate_Bibcode']+['BibGroup']+['Publisher']+['Article_ID']+['DOI']+['Pub_Year']+['Pub_Date']+['Author']+['Title'])
 
 bib_list = []
 
