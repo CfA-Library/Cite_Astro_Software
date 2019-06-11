@@ -1,0 +1,110 @@
+Alias,File_Name
+10.1051/0004-6361/201322068,449
+10.1051/0004-6361:20031768,96
+10.1051/0004-6361:20040017,11
+10.1088/0067-0049/208/1/5,124
+10.1093/mnras/stu055,4
+1997ASPC..125..249M,11
+1999ASPC..172..498M,10
+2000ascl.soft03002S,1
+2002ASPC..281..169M,13
+2003ASPC..295..489J,56
+2004A&A...417..159D,96
+2004A&A...417..793P,11
+2006ASPC..351..204M,4
+2011ascl.soft08016D,1
+2012ascl.soft02015D,8
+2012ascl.soft03003C,22
+2013A&A...558A..33A,441
+2013ApJS..208....5N,123
+AstroPy,27
+Astropy,429
+Astropy Collaboration,433
+Astropy Collaboration 2013,1
+DEEP2 DEIMOS Data Pipeline,2
+DEEP2 DEIMOS data pipeline,4
+DEEP2 DEIMOS data reduction pipeline,7
+DEEP2 DEIMOS pipeline,7
+DEIMOS pipeline,11
+DS9,79
+DS9 Region,1
+HENDRICS,2
+RADMC,64
+RADMC-3D,80
+RADMC3D,14
+SAO Image,3
+SAO image ds9,1
+SAOIMAGE,10
+SAOImage,10
+SAOImage DS9,178
+SAOImage ds9,11
+Spec2d,5
+Stingray,1
+TARDIS,1
+The analysis pipeline used to reduce the DEIMOS data was developed at UC Berkeley with support from NSF grant AST-0071048.,32
+WCS Tools,1
+WCSLIB,2
+WCSTOOLS,15
+WCSTools,67
+ascl:1202.015,2
+ascl:1203.003,9
+astro.berkeley.edu/~cooper/deep/spec2d,25
+astroblend,1
+astroblend.com,1
+astron.berkeley.edu/~cooper/deep/spec2d,9
+astropy,97
+astropy cosmology,1
+astropy.cosmology,5
+astropy.org,74
+astropy.units,1
+astropy/astroplan,1
+astropy/astroquery,2
+astropy/halotools,1
+astropy/photutils,3
+cfa&hyphen;ftp.harvard.edu/pub/gsc/WCSTools,3
+deep.berkeley.edu/spec2d,7
+deep.ps.uci.edu/spec2d,3
+doi.org/10.1051/0004-6361/201322068,2
+ds9,41
+ds9 Regions,1
+ds9.si.edu,22
+dullemond/software/radmc-3d,8
+github.com/StingraySoftware/HENDRIC,1
+github.com/StingraySoftware/notebooks,1
+github.com/astropy/astroplan,1
+github.com/astropy/astroquery,1
+github.com/astropy/astroscrappy,2
+github.com/astropy/halotools,1
+github.com/astropy/photutils,1
+hea&hyphen;www.harvard.edu/ChaMPlane/walkthrough_ds9,1
+hea&hyphen;www.harvard.edu/RD/ds9,8
+hea&hyphen;www.harvard.edu/RD/saotng,1
+hea&hyphen;www.harvard.edu/saord/ds9,1
+hea-www.harvard.edu/RD/ds9,15
+hea-www.harvard.edu/saord/funtools/ds9,1
+idlspec2d,47
+imwcs,21
+ita.uni-heidelberg.de/dullemond/software/radmc-3d,11
+ita.uni-heidelberg.de/~dullemond/software/radmc-3d,37
+ita.uni-heidelberg.de∼deullemond/software/radmc-3d,1
+juno.as.arizona.edu/~cooper/deep/spec2d,1
+keck.hawaii.edu/inst/deimos/pipeline.html,5
+radmc,4
+radmc-3d,16
+radmc3d,4
+radmc3dPy,2
+saoimage,1
+saoimage ds9,1
+sdss3.org/svn/repo/idlspec2d,4
+sky2xy,1
+spec2d,126
+spectro.princeton.edu/idlspec2d,12
+stingray,1
+svn.sdss.org/public/repo/manga/mangadrp/tags/v1_5_4/pro/spec2d,1
+tardis,1
+tdc&hyphen;www.harvard.edu/software/wcstools,8
+tdc-www.cfa.harvard.edu/software/wcstools,2
+tdc-www.harvard.edu/software/wcstools,10
+tdc-www.harvard.edu/wcstools,11
+wcstools,15
+xy2sky,8

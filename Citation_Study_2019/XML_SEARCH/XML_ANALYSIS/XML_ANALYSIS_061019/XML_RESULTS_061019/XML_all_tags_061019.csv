@@ -1,68 +1,67 @@
 ,Parent1_Tag,Parent2_Tag,Parent3_Tag,Parent4_Tag,Software_Package,tags
 0,ext-link,,,,AstroBlend,1
 1,sc,,,,AstroBlend,1
-2,citation,,,,Astropy,1
-3,collab,,,,Astropy,389
-4,comment,,,,Astropy,41
-5,conf-name,,,,Astropy,1
-6,disp-formula,,,,Astropy,3
-7,ext-link,,,,Astropy,578
-8,institution,,,,Astropy,1
-9,italic,,,,Astropy,14
-10,monospace,,,,Astropy,108
-11,p,,,,Astropy,649
-12,pub-id,,,,Astropy,405
-13,sans-serif,,,,Astropy,2
-14,sc,,,,Astropy,22
-15,source,,,,Astropy,6
-16,surname,,,,Astropy,9
-17,td,,,,Astropy,1
-18,tex-math,,,,Astropy,3
-19,year,,,,Astropy,1
-20,article-title,,,,RADMC-3D,19
-21,comment,,,,RADMC-3D,5
-22,ext-link,,,,RADMC-3D,267
-23,fpage,,,,RADMC-3D,1
-24,italic,,,,RADMC-3D,3
-25,monospace,,,,RADMC-3D,50
-26,p,,,,RADMC-3D,343
-27,pub-id,,,,RADMC-3D,23
-28,sc,,,,RADMC-3D,42
-29,source,,,,RADMC-3D,13
-30,td,,,,RADMC-3D,4
-31,title,,,,RADMC-3D,3
-32,volume,,,,RADMC-3D,1
-33,ext-link,,,,SAOImage DS9,105
-34,italic,,,,SAOImage DS9,18
-35,monospace,,,,SAOImage DS9,5
-36,p,,,,SAOImage DS9,368
-37,sc,,,,SAOImage DS9,4
-38,source,,,,SAOImage DS9,1
-39,title,,,,SAOImage DS9,1
-40,article-id,,,,Spec2d,1
-41,article-title,,,,Spec2d,6
-42,comment,,,,Spec2d,4
-43,ext-link,,,,Spec2d,253
-44,fpage,,,,Spec2d,1
-45,italic,,,,Spec2d,58
-46,monospace,,,,Spec2d,159
-47,p,,,,Spec2d,181
-48,pub-id,,,,Spec2d,90
-49,sc,,,,Spec2d,24
-50,source,,,,Spec2d,26
-51,sub,,,,Spec2d,2
-52,monospace,,,,Stingray,5
-53,p,,,,Stingray,3
-54,source,,,,Stingray,1
-55,p,,,,TARDIS,8
-56,pub-id,,,,TARDIS,4
-57,sc,,,,TARDIS,5
-58,ext-link,,,,WCSTools,75
-59,italic,,,,WCSTools,26
-60,monospace,,,,WCSTools,19
-61,p,,,,WCSTools,109
-62,sc,,,,WCSTools,3
-63,tex-math,,,,WCSTools,1
+2,collab,,,,Astropy,389
+3,comment,,,,Astropy,41
+4,conf-name,,,,Astropy,1
+5,disp-formula,,,,Astropy,3
+6,ext-link,,,,Astropy,578
+7,institution,,,,Astropy,1
+8,italic,,,,Astropy,14
+9,monospace,,,,Astropy,108
+10,p,,,,Astropy,649
+11,pub-id,,,,Astropy,405
+12,sans-serif,,,,Astropy,2
+13,sc,,,,Astropy,22
+14,source,,,,Astropy,6
+15,surname,,,,Astropy,9
+16,td,,,,Astropy,1
+17,tex-math,,,,Astropy,3
+18,year,,,,Astropy,1
+19,article-title,,,,RADMC-3D,19
+20,comment,,,,RADMC-3D,5
+21,ext-link,,,,RADMC-3D,267
+22,fpage,,,,RADMC-3D,1
+23,italic,,,,RADMC-3D,3
+24,monospace,,,,RADMC-3D,50
+25,p,,,,RADMC-3D,343
+26,pub-id,,,,RADMC-3D,23
+27,sc,,,,RADMC-3D,42
+28,source,,,,RADMC-3D,13
+29,td,,,,RADMC-3D,4
+30,title,,,,RADMC-3D,3
+31,volume,,,,RADMC-3D,1
+32,ext-link,,,,SAOImage DS9,105
+33,italic,,,,SAOImage DS9,18
+34,monospace,,,,SAOImage DS9,5
+35,p,,,,SAOImage DS9,368
+36,sc,,,,SAOImage DS9,4
+37,source,,,,SAOImage DS9,1
+38,title,,,,SAOImage DS9,1
+39,article-id,,,,Spec2d,1
+40,article-title,,,,Spec2d,6
+41,comment,,,,Spec2d,4
+42,ext-link,,,,Spec2d,253
+43,fpage,,,,Spec2d,1
+44,italic,,,,Spec2d,58
+45,monospace,,,,Spec2d,159
+46,p,,,,Spec2d,181
+47,pub-id,,,,Spec2d,90
+48,sc,,,,Spec2d,24
+49,source,,,,Spec2d,26
+50,sub,,,,Spec2d,2
+51,monospace,,,,Stingray,5
+52,p,,,,Stingray,3
+53,source,,,,Stingray,1
+54,p,,,,TARDIS,8
+55,pub-id,,,,TARDIS,4
+56,sc,,,,TARDIS,5
+57,ext-link,,,,WCSTools,75
+58,italic,,,,WCSTools,26
+59,monospace,,,,WCSTools,19
+60,p,,,,WCSTools,109
+61,sc,,,,WCSTools,3
+62,tex-math,,,,WCSTools,1
 0,,p,,,AstroBlend,2
 1,,abstract,,,Astropy,1
 2,,ack,,,Astropy,549
@@ -76,62 +75,61 @@
 10,,nlm-citation,,,Astropy,88
 11,,p,,,Astropy,241
 12,,person-group,,,Astropy,388
-13,,ref,,,Astropy,1
-14,,sec,,,Astropy,84
-15,,td,,,Astropy,1
-16,,tr,,,Astropy,1
-17,,abstract,,,RADMC-3D,3
-18,,ack,,,RADMC-3D,21
-19,,app,,,RADMC-3D,21
-20,,article-title,,,RADMC-3D,2
-21,,caption,,,RADMC-3D,42
-22,,comment,,,RADMC-3D,6
-23,,element-citation,,,RADMC-3D,88
-24,,fn,,,RADMC-3D,5
-25,,list-item,,,RADMC-3D,3
-26,,nlm-citation,,,RADMC-3D,173
-27,,p,,,RADMC-3D,155
-28,,sec,,,RADMC-3D,251
-29,,tr,,,RADMC-3D,4
-30,,ack,,,SAOImage DS9,125
-31,,app,,,SAOImage DS9,7
-32,,caption,,,SAOImage DS9,27
-33,,element-citation,,,SAOImage DS9,19
-34,,fn,,,SAOImage DS9,12
-35,,list-item,,,SAOImage DS9,3
-36,,nlm-citation,,,SAOImage DS9,39
-37,,p,,,SAOImage DS9,75
-38,,sec,,,SAOImage DS9,195
-39,,abstract,,,Spec2d,1
-40,,ack,,,Spec2d,35
-41,,app,,,Spec2d,2
-42,,article-meta,,,Spec2d,1
-43,,article-title,,,Spec2d,2
-44,,caption,,,Spec2d,6
-45,,comment,,,Spec2d,3
-46,,element-citation,,,Spec2d,214
-47,,fn,,,Spec2d,12
-48,,nlm-citation,,,Spec2d,91
-49,,oasis:entry,,,Spec2d,2
-50,,p,,,Spec2d,309
-51,,sec,,,Spec2d,125
-52,,title,,,Spec2d,2
-53,,element-citation,,,Stingray,1
-54,,p,,,Stingray,5
-55,,sec,,,Stingray,3
-56,,element-citation,,,TARDIS,4
-57,,p,,,TARDIS,5
-58,,sec,,,TARDIS,8
-59,,ack,,,WCSTools,2
-60,,app,,,WCSTools,4
-61,,comment,,,WCSTools,1
-62,,element-citation,,,WCSTools,10
-63,,fn,,,WCSTools,5
-64,,inline-formula,,,WCSTools,1
-65,,list-item,,,WCSTools,2
-66,,nlm-citation,,,WCSTools,28
-67,,p,,,WCSTools,84
-68,,sec,,,WCSTools,96
+13,,sec,,,Astropy,84
+14,,td,,,Astropy,1
+15,,tr,,,Astropy,1
+16,,abstract,,,RADMC-3D,3
+17,,ack,,,RADMC-3D,21
+18,,app,,,RADMC-3D,21
+19,,article-title,,,RADMC-3D,2
+20,,caption,,,RADMC-3D,42
+21,,comment,,,RADMC-3D,6
+22,,element-citation,,,RADMC-3D,88
+23,,fn,,,RADMC-3D,5
+24,,list-item,,,RADMC-3D,3
+25,,nlm-citation,,,RADMC-3D,173
+26,,p,,,RADMC-3D,155
+27,,sec,,,RADMC-3D,251
+28,,tr,,,RADMC-3D,4
+29,,ack,,,SAOImage DS9,125
+30,,app,,,SAOImage DS9,7
+31,,caption,,,SAOImage DS9,27
+32,,element-citation,,,SAOImage DS9,19
+33,,fn,,,SAOImage DS9,12
+34,,list-item,,,SAOImage DS9,3
+35,,nlm-citation,,,SAOImage DS9,39
+36,,p,,,SAOImage DS9,75
+37,,sec,,,SAOImage DS9,195
+38,,abstract,,,Spec2d,1
+39,,ack,,,Spec2d,35
+40,,app,,,Spec2d,2
+41,,article-meta,,,Spec2d,1
+42,,article-title,,,Spec2d,2
+43,,caption,,,Spec2d,6
+44,,comment,,,Spec2d,3
+45,,element-citation,,,Spec2d,214
+46,,fn,,,Spec2d,12
+47,,nlm-citation,,,Spec2d,91
+48,,oasis:entry,,,Spec2d,2
+49,,p,,,Spec2d,309
+50,,sec,,,Spec2d,125
+51,,title,,,Spec2d,2
+52,,element-citation,,,Stingray,1
+53,,p,,,Stingray,5
+54,,sec,,,Stingray,3
+55,,element-citation,,,TARDIS,4
+56,,p,,,TARDIS,5
+57,,sec,,,TARDIS,8
+58,,ack,,,WCSTools,2
+59,,app,,,WCSTools,4
+60,,comment,,,WCSTools,1
+61,,element-citation,,,WCSTools,10
+62,,fn,,,WCSTools,5
+63,,inline-formula,,,WCSTools,1
+64,,list-item,,,WCSTools,2
+65,,nlm-citation,,,WCSTools,28
+66,,p,,,WCSTools,84
+67,,sec,,,WCSTools,96
 0,,,fn,,AstroBlend,1
 1,,,sec,,AstroBlend,1
 2,,,abstract,,Astropy,2
@@ -151,93 +149,92 @@
 16,,,p,,Astropy,8
 17,,,person-group,,Astropy,9
 18,,,ref,,Astropy,940
-19,,,ref-list,,Astropy,1
-20,,,sec,,Astropy,117
-21,,,tbody,,Astropy,1
-22,,,tr,,Astropy,1
-23,,,abstract,,RADMC-3D,1
-24,,,ack,,RADMC-3D,8
-25,,,app,,RADMC-3D,4
-26,,,app-group,,RADMC-3D,21
-27,,,article,,RADMC-3D,90
-28,,,article-meta,,RADMC-3D,3
-29,,,back,,RADMC-3D,21
-30,,,caption,,RADMC-3D,6
-31,,,element-citation,,RADMC-3D,7
-32,,,fig,,RADMC-3D,41
-33,,,fig-group,,RADMC-3D,1
-34,,,fn,,RADMC-3D,54
-35,,,list,,RADMC-3D,3
-36,,,list-item,,RADMC-3D,1
-37,,,nlm-citation,,RADMC-3D,1
-38,,,p,,RADMC-3D,3
-39,,,ref,,RADMC-3D,261
-40,,,sec,,RADMC-3D,242
-41,,,table-wrap-foot,,RADMC-3D,2
-42,,,tbody,,RADMC-3D,4
-43,,,ack,,SAOImage DS9,46
-44,,,app,,SAOImage DS9,10
-45,,,app-group,,SAOImage DS9,7
-46,,,article,,SAOImage DS9,48
-47,,,back,,SAOImage DS9,125
-48,,,caption,,SAOImage DS9,3
-49,,,fig,,SAOImage DS9,19
-50,,,fig-group,,SAOImage DS9,6
-51,,,fn,,SAOImage DS9,39
-52,,,fn-group,,SAOImage DS9,2
-53,,,list,,SAOImage DS9,3
-54,,,list-item,,SAOImage DS9,2
-55,,,p,,SAOImage DS9,7
-56,,,ref,,SAOImage DS9,58
-57,,,sec,,SAOImage DS9,122
-58,,,table-wrap,,SAOImage DS9,2
-59,,,table-wrap-foot,,SAOImage DS9,3
-60,,,abstract,,Spec2d,1
-61,,,ack,,Spec2d,4
-62,,,app,,Spec2d,4
-63,,,app-group,,Spec2d,2
-64,,,article,,Spec2d,26
-65,,,article-meta,,Spec2d,1
-66,,,back,,Spec2d,35
-67,,,caption,,Spec2d,7
-68,,,element-citation,,Spec2d,3
-69,,,fig,,Spec2d,6
-70,,,fn,,Spec2d,71
-71,,,fn-group,,Spec2d,8
-72,,,front,,Spec2d,1
-73,,,list-item,,Spec2d,17
-74,,,nlm-citation,,Spec2d,2
-75,,,oasis:row,,Spec2d,2
-76,,,p,,Spec2d,4
-77,,,ref,,Spec2d,305
-78,,,sec,,Spec2d,305
-79,,,table-wrap-foot,,Spec2d,1
-80,,,article,,Stingray,1
-81,,,ref,,Stingray,1
-82,,,sec,,Stingray,7
-83,,,article,,TARDIS,7
-84,,,caption,,TARDIS,1
-85,,,ref,,TARDIS,4
-86,,,sec,,TARDIS,5
-87,,,ack,,WCSTools,8
-88,,,app,,WCSTools,1
-89,,,app-group,,WCSTools,4
-90,,,article,,WCSTools,27
-91,,,back,,WCSTools,2
-92,,,element-citation,,WCSTools,1
-93,,,fn,,WCSTools,33
-94,,,fn-group,,WCSTools,3
-95,,,list,,WCSTools,2
-96,,,list-item,,WCSTools,1
-97,,,p,,WCSTools,3
-98,,,ref,,WCSTools,38
-99,,,sec,,WCSTools,110
+19,,,sec,,Astropy,117
+20,,,tbody,,Astropy,1
+21,,,tr,,Astropy,1
+22,,,abstract,,RADMC-3D,1
+23,,,ack,,RADMC-3D,8
+24,,,app,,RADMC-3D,4
+25,,,app-group,,RADMC-3D,21
+26,,,article,,RADMC-3D,90
+27,,,article-meta,,RADMC-3D,3
+28,,,back,,RADMC-3D,21
+29,,,caption,,RADMC-3D,6
+30,,,element-citation,,RADMC-3D,7
+31,,,fig,,RADMC-3D,41
+32,,,fig-group,,RADMC-3D,1
+33,,,fn,,RADMC-3D,54
+34,,,list,,RADMC-3D,3
+35,,,list-item,,RADMC-3D,1
+36,,,nlm-citation,,RADMC-3D,1
+37,,,p,,RADMC-3D,3
+38,,,ref,,RADMC-3D,261
+39,,,sec,,RADMC-3D,242
+40,,,table-wrap-foot,,RADMC-3D,2
+41,,,tbody,,RADMC-3D,4
+42,,,ack,,SAOImage DS9,46
+43,,,app,,SAOImage DS9,10
+44,,,app-group,,SAOImage DS9,7
+45,,,article,,SAOImage DS9,48
+46,,,back,,SAOImage DS9,125
+47,,,caption,,SAOImage DS9,3
+48,,,fig,,SAOImage DS9,19
+49,,,fig-group,,SAOImage DS9,6
+50,,,fn,,SAOImage DS9,39
+51,,,fn-group,,SAOImage DS9,2
+52,,,list,,SAOImage DS9,3
+53,,,list-item,,SAOImage DS9,2
+54,,,p,,SAOImage DS9,7
+55,,,ref,,SAOImage DS9,58
+56,,,sec,,SAOImage DS9,122
+57,,,table-wrap,,SAOImage DS9,2
+58,,,table-wrap-foot,,SAOImage DS9,3
+59,,,abstract,,Spec2d,1
+60,,,ack,,Spec2d,4
+61,,,app,,Spec2d,4
+62,,,app-group,,Spec2d,2
+63,,,article,,Spec2d,26
+64,,,article-meta,,Spec2d,1
+65,,,back,,Spec2d,35
+66,,,caption,,Spec2d,7
+67,,,element-citation,,Spec2d,3
+68,,,fig,,Spec2d,6
+69,,,fn,,Spec2d,71
+70,,,fn-group,,Spec2d,8
+71,,,front,,Spec2d,1
+72,,,list-item,,Spec2d,17
+73,,,nlm-citation,,Spec2d,2
+74,,,oasis:row,,Spec2d,2
+75,,,p,,Spec2d,4
+76,,,ref,,Spec2d,305
+77,,,sec,,Spec2d,305
+78,,,table-wrap-foot,,Spec2d,1
+79,,,article,,Stingray,1
+80,,,ref,,Stingray,1
+81,,,sec,,Stingray,7
+82,,,article,,TARDIS,7
+83,,,caption,,TARDIS,1
+84,,,ref,,TARDIS,4
+85,,,sec,,TARDIS,5
+86,,,ack,,WCSTools,8
+87,,,app,,WCSTools,1
+88,,,app-group,,WCSTools,4
+89,,,article,,WCSTools,27
+90,,,back,,WCSTools,2
+91,,,element-citation,,WCSTools,1
+92,,,fn,,WCSTools,33
+93,,,fn-group,,WCSTools,3
+94,,,list,,WCSTools,2
+95,,,list-item,,WCSTools,1
+96,,,p,,WCSTools,3
+97,,,ref,,WCSTools,38
+98,,,sec,,WCSTools,110
 0,,,,p,AstroBlend,1
 1,,,,sec,AstroBlend,1
 2,,,,app-group,Astropy,5
 3,,,,article,Astropy,619
 4,,,,article-meta,Astropy,3
-5,,,,back,Astropy,119
+5,,,,back,Astropy,118
 6,,,,body,Astropy,31
 7,,,,element-citation,Astropy,7
 8,,,,fig,Astropy,1
