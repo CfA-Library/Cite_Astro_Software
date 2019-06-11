@@ -1,0 +1,49 @@
+,Software_Package,Alias,Identifier,fn_count
+0,AstroBlend,astroblend.com,0,1
+1,Astropy,Astropy,0,4
+2,Astropy,astropy,0,2
+3,Astropy,astropy.org,0,40
+4,Astropy,github.com/StingraySoftware/HENDRIC,0,1
+5,Astropy,github.com/StingraySoftware/notebooks,0,1
+6,Astropy,github.com/astropy/astroplan,0,1
+7,Astropy,github.com/astropy/astroquery,0,1
+8,Astropy,github.com/astropy/astroscrappy,0,2
+9,Astropy,github.com/astropy/photutils,0,1
+10,RADMC-3D,RADMC,0,2
+11,RADMC-3D,RADMC-3D,0,3
+12,RADMC-3D,dullemond/software/radmc-3d,0,8
+13,RADMC-3D,ita.uni-heidelberg.de/dullemond/software/radmc-3d,0,7
+14,RADMC-3D,ita.uni-heidelberg.de/~dullemond/software/radmc-3d,0,34
+15,RADMC-3D,ita.uni-heidelberg.de∼deullemond/software/radmc-3d,0,1
+16,RADMC-3D,radmc,0,2
+17,RADMC-3D,radmc-3d,0,2
+18,SAOImage DS9,DS9,0,2
+19,SAOImage DS9,SAO Image,0,1
+20,SAOImage DS9,SAO image ds9,0,1
+21,SAOImage DS9,SAOImage DS9,0,6
+22,SAOImage DS9,ds9,0,1
+23,SAOImage DS9,ds9.si.edu,0,17
+24,SAOImage DS9,hea&hyphen;www.harvard.edu/ChaMPlane/walkthrough_ds9,0,1
+25,SAOImage DS9,hea&hyphen;www.harvard.edu/RD/ds9,0,7
+26,SAOImage DS9,hea&hyphen;www.harvard.edu/RD/saotng,0,1
+27,SAOImage DS9,hea&hyphen;www.harvard.edu/saord/ds9,0,1
+28,SAOImage DS9,hea-www.harvard.edu/RD/ds9,0,12
+29,SAOImage DS9,hea-www.harvard.edu/saord/funtools/ds9,0,1
+30,Spec2d,The analysis pipeline used to reduce the DEIMOS data was developed at UC Berkeley with support from NSF grant AST-0071048.,0,2
+31,Spec2d,astro.berkeley.edu/~cooper/deep/spec2d,0,24
+32,Spec2d,astron.berkeley.edu/~cooper/deep/spec2d,0,9
+33,Spec2d,deep.berkeley.edu/spec2d,0,7
+34,Spec2d,deep.ps.uci.edu/spec2d,0,3
+35,Spec2d,idlspec2d,0,4
+36,Spec2d,juno.as.arizona.edu/~cooper/deep/spec2d,0,1
+37,Spec2d,keck.hawaii.edu/inst/deimos/pipeline.html,0,5
+38,Spec2d,sdss3.org/svn/repo/idlspec2d,0,4
+39,Spec2d,spec2d,0,8
+40,Spec2d,spectro.princeton.edu/idlspec2d,0,12
+41,WCSTools,WCSTools,0,5
+42,WCSTools,cfa&hyphen;ftp.harvard.edu/pub/gsc/WCSTools,0,3
+43,WCSTools,tdc&hyphen;www.harvard.edu/software/wcstools,0,8
+44,WCSTools,tdc-www.cfa.harvard.edu/software/wcstools,0,2
+45,WCSTools,tdc-www.harvard.edu/software/wcstools,0,8
+46,WCSTools,tdc-www.harvard.edu/wcstools,0,10
+47,WCSTools,wcstools,0,2
