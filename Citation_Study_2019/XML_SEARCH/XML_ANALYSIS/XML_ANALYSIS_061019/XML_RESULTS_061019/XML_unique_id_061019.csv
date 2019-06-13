@@ -1,3 +1,15 @@
-Identifier,Index
-0,3081
-1,1494
+Software_Package,Identifier,Index
+AstroBlend,0,2
+Astropy,0,1341
+Astropy,1,892
+RADMC-3D,0,549
+RADMC-3D,1,225
+SAOImage DS9,0,445
+SAOImage DS9,1,57
+Spec2d,0,527
+Spec2d,1,278
+Stingray,0,9
+TARDIS,0,13
+TARDIS,1,4
+WCSTools,0,195
+WCSTools,1,38
