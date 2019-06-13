@@ -1,0 +1,57 @@
+,Software_Package,Alias,Identifier,cite_count
+0,Astropy,AstroPy,0,69
+1,Astropy,Astropy Collaboration,0,62
+2,Astropy,Astropy Collaboration 2013,0,61
+3,Astropy,Astropy Collaboration et al. (2013),0,64
+4,Astropy,Astropy Collaboration et al. (2018),0,1
+5,Astropy,Astropy Collaboration et al. 2013,0,64
+6,Astropy,Astropy Collaboration et al. 2018,0,1
+7,Astropy,"Astropy Collaboration, 2013",0,61
+8,Astropy,astropy.cosmology,0,3
+9,Astropy,astropy.org,0,7
+10,Astropy,astropy/astroplan,0,1
+11,Astropy,github.com/astropy,0,1
+12,RADMC-3D,RADMC,0,104
+13,RADMC-3D,RADMC-3D,0,62
+14,RADMC-3D,RADMC3D,0,62
+15,RADMC-3D,dullemond/software/radmc-3d,0,21
+16,RADMC-3D,ita.uni-heidelberg.de/dullemond/software/radmc-3d,0,11
+17,RADMC-3D,ita.uni-heidelberg.de/~dullemond/software/radmc-3d,0,11
+18,RADMC-3D,radmc,0,33
+19,RADMC-3D,radmc-3d,0,30
+20,RADMC-3D,radmc3d,0,6
+21,SAOImage DS9,DS9,0,69
+22,SAOImage DS9,SAO Image,0,1
+23,SAOImage DS9,SAO image ds9,0,1
+24,SAOImage DS9,SAOImage,0,40
+25,SAOImage DS9,SAOImage DS9,0,26
+26,SAOImage DS9,ds9,0,48
+27,SAOImage DS9,ds9 region,0,7
+28,SAOImage DS9,ds9 regions,0,8
+29,SAOImage DS9,ds9.si.edu,0,8
+30,SAOImage DS9,hea-www.harvard.edu/RD/ds9,0,5
+31,SAOImage DS9,saoimage ds9,0,6
+32,Spec2d,DEEP2 DEIMOS Data Reduction Pipeline,0,5
+33,Spec2d,DEEP2 DEIMOS Pipeline,0,5
+34,Spec2d,DEIMOS pipeline,0,7
+35,Spec2d,Spec2d,0,68
+36,Spec2d,The analysis pipeline used to reduce the DEIMOS data was developed at UC Berkeley with support from NSF grant AST-0071048.,0,2
+37,Spec2d,astro.berkeley.edu/~cooper/deep/spec2d,0,5
+38,Spec2d,astron.berkeley.edu/~cooper/deep/spec2d,0,2
+39,Spec2d,deep.berkeley.edu/spec2d,0,1
+40,Spec2d,deep.ps.uci.edu/spec2d,0,1
+41,Spec2d,idlspec2d,0,35
+42,Spec2d,spectro.princeton.edu/idlspec2d,0,4
+43,Stringray,HENDRICS,0,2
+44,Stringray,Stingray,0,4
+45,TARDIS,TARDIS,0,1
+46,TARDIS,Tardis,0,1
+47,WCSTools,WCSLIB,0,1
+48,WCSTools,WCSTools,0,70
+49,WCSTools,harvard.edu/software/wcstools,0,4
+50,WCSTools,imwcs,0,12
+51,WCSTools,sky2xy,0,1
+52,WCSTools,tdc-www.harvard.edu/software/wcstools,0,4
+53,WCSTools,tdc-www.harvard.edu/wcstools,0,3
+54,WCSTools,wcslib,0,2
+55,WCSTools,xy2sky,0,3
