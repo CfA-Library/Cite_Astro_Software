@@ -1,0 +1,100 @@
+Software_Package,Parent3_Tag,Index
+AstroBlend,fn,1
+AstroBlend,sec,1
+Astropy,abstract,2
+Astropy,ack,114
+Astropy,app,5
+Astropy,app-group,4
+Astropy,article,31
+Astropy,article-meta,1
+Astropy,back,549
+Astropy,caption,1
+Astropy,contrib-group,1
+Astropy,element-citation,349
+Astropy,fn,54
+Astropy,list,6
+Astropy,list-item,1
+Astropy,nlm-citation,39
+Astropy,p,8
+Astropy,person-group,9
+Astropy,ref,940
+Astropy,sec,117
+Astropy,tbody,1
+Astropy,tr,1
+RADMC-3D,abstract,1
+RADMC-3D,ack,8
+RADMC-3D,app,4
+RADMC-3D,app-group,21
+RADMC-3D,article,90
+RADMC-3D,article-meta,3
+RADMC-3D,back,21
+RADMC-3D,caption,6
+RADMC-3D,element-citation,7
+RADMC-3D,fig,41
+RADMC-3D,fig-group,1
+RADMC-3D,fn,54
+RADMC-3D,list,3
+RADMC-3D,list-item,1
+RADMC-3D,nlm-citation,1
+RADMC-3D,p,3
+RADMC-3D,ref,261
+RADMC-3D,sec,242
+RADMC-3D,table-wrap-foot,2
+RADMC-3D,tbody,4
+SAOImage DS9,ack,46
+SAOImage DS9,app,10
+SAOImage DS9,app-group,7
+SAOImage DS9,article,48
+SAOImage DS9,back,125
+SAOImage DS9,caption,3
+SAOImage DS9,fig,19
+SAOImage DS9,fig-group,6
+SAOImage DS9,fn,39
+SAOImage DS9,fn-group,2
+SAOImage DS9,list,3
+SAOImage DS9,list-item,2
+SAOImage DS9,p,7
+SAOImage DS9,ref,58
+SAOImage DS9,sec,122
+SAOImage DS9,table-wrap,2
+SAOImage DS9,table-wrap-foot,3
+Spec2d,abstract,1
+Spec2d,ack,4
+Spec2d,app,4
+Spec2d,app-group,2
+Spec2d,article,26
+Spec2d,article-meta,1
+Spec2d,back,35
+Spec2d,caption,7
+Spec2d,element-citation,3
+Spec2d,fig,6
+Spec2d,fn,71
+Spec2d,fn-group,8
+Spec2d,front,1
+Spec2d,list-item,17
+Spec2d,nlm-citation,2
+Spec2d,oasis:row,2
+Spec2d,p,4
+Spec2d,ref,305
+Spec2d,sec,305
+Spec2d,table-wrap-foot,1
+Stingray,article,1
+Stingray,ref,1
+Stingray,sec,7
+TARDIS,article,7
+TARDIS,caption,1
+TARDIS,ref,4
+TARDIS,sec,5
+WCSTools,ack,8
+WCSTools,app,1
+WCSTools,app-group,4
+WCSTools,article,27
+WCSTools,back,2
+WCSTools,element-citation,1
+WCSTools,fn,33
+WCSTools,fn-group,3
+WCSTools,list,2
+WCSTools,list-item,1
+WCSTools,p,3
+WCSTools,ref,38
+WCSTools,sec,110
