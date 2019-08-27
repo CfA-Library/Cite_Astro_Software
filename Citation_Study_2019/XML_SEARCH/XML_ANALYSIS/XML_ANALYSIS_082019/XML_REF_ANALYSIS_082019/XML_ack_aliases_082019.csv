@@ -1,0 +1,29 @@
+,Software_Package,Alias,Identifier,ack_count
+0,Astropy,AstroPy,0,23
+1,Astropy,Astropy,0,398
+2,Astropy,Astropy Collaboration,0,5
+3,Astropy,astropy,0,68
+4,Astropy,astropy.org,0,35
+5,Astropy,doi.org/10.1051/0004-6361/201322068,1,2
+6,RADMC-3D,RADMC,0,10
+7,RADMC-3D,RADMC-3D,0,11
+8,RADMC-3D,RADMC3D,0,1
+9,RADMC-3D,ita.uni-heidelberg.de/dullemond/software/radmc-3d,0,2
+10,RADMC-3D,radmc3dPy,0,2
+11,SAOImage DS9,DS9,0,8
+12,SAOImage DS9,SAO Image,0,1
+13,SAOImage DS9,SAOIMAGE,0,2
+14,SAOImage DS9,SAOImage,0,3
+15,SAOImage DS9,SAOImage DS9,0,143
+16,SAOImage DS9,SAOImage ds9,0,3
+17,SAOImage DS9,ds9,0,4
+18,SAOImage DS9,ds9.si.edu,0,1
+19,SAOImage DS9,hea&hyphen;www.harvard.edu/RD/ds9,0,1
+20,SAOImage DS9,hea-www.harvard.edu/RD/ds9,0,2
+21,SAOImage DS9,saoimage ds9,0,1
+22,Spec2d,DEIMOS pipeline,0,2
+23,Spec2d,The analysis pipeline used to reduce the DEIMOS data was developed at UC Berkeley with support from NSF grant AST-0071048.,0,30
+24,Spec2d,spec2d,0,10
+25,WCSTools,WCSTOOLS,0,1
+26,WCSTools,WCSTools,0,9
+27,WCSTools,tdc&hyphen;www.harvard.edu/software/wcstools,0,1
